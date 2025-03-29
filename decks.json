@@ -1,0 +1,2270 @@
+[
+  {
+    "deck": "Dialga ex Arceus ex",
+    "share": 0.1221,
+    "winrate": 0.4932,
+    "player_count": 219,
+    "wins": 506,
+    "losses": 512,
+    "ties": 8
+  },
+  {
+    "deck": "Giratina ex Darkrai ex",
+    "share": 0.102,
+    "winrate": 0.5704,
+    "player_count": 183,
+    "wins": 539,
+    "losses": 397,
+    "ties": 9
+  },
+  {
+    "deck": "Gyarados ex Manaphy",
+    "share": 0.0814,
+    "winrate": 0.5763,
+    "player_count": 146,
+    "wins": 419,
+    "losses": 298,
+    "ties": 10
+  },
+  {
+    "deck": "Gallade ex Hitmonlee",
+    "share": 0.0814,
+    "winrate": 0.5433,
+    "player_count": 146,
+    "wins": 389,
+    "losses": 319,
+    "ties": 8
+  },
+  {
+    "deck": "Rampardos Lucario",
+    "share": 0.0596,
+    "winrate": 0.4862,
+    "player_count": 107,
+    "wins": 229,
+    "losses": 240,
+    "ties": 2
+  },
+  {
+    "deck": "Articuno ex",
+    "share": 0.0329,
+    "winrate": 0.526,
+    "player_count": 59,
+    "wins": 152,
+    "losses": 135,
+    "ties": 2
+  },
+  {
+    "deck": "Weavile ex Darkrai ex",
+    "share": 0.0284,
+    "winrate": 0.5214,
+    "player_count": 51,
+    "wins": 134,
+    "losses": 121,
+    "ties": 2
+  },
+  {
+    "deck": "Charizard ex Moltres ex",
+    "share": 0.0273,
+    "winrate": 0.5108,
+    "player_count": 49,
+    "wins": 118,
+    "losses": 110,
+    "ties": 3
+  },
+  {
+    "deck": "Palkia ex",
+    "share": 0.0145,
+    "winrate": 0.4732,
+    "player_count": 26,
+    "wins": 53,
+    "losses": 59,
+    "ties": 0
+  },
+  {
+    "deck": "Giratina ex",
+    "share": 0.0134,
+    "winrate": 0.4587,
+    "player_count": 24,
+    "wins": 50,
+    "losses": 59,
+    "ties": 0
+  },
+  {
+    "deck": "Exeggutor ex Meowscarada",
+    "share": 0.0117,
+    "winrate": 0.47,
+    "player_count": 21,
+    "wins": 47,
+    "losses": 52,
+    "ties": 1
+  },
+  {
+    "deck": "Dialga ex Gholdengo",
+    "share": 0.0111,
+    "winrate": 0.4302,
+    "player_count": 20,
+    "wins": 37,
+    "losses": 49,
+    "ties": 0
+  },
+  {
+    "deck": "Arceus ex Meowscarada",
+    "share": 0.0095,
+    "winrate": 0.5067,
+    "player_count": 17,
+    "wins": 38,
+    "losses": 37,
+    "ties": 0
+  },
+  {
+    "deck": "Lucario ex Lucario",
+    "share": 0.0089,
+    "winrate": 0.4886,
+    "player_count": 16,
+    "wins": 43,
+    "losses": 45,
+    "ties": 0
+  },
+  {
+    "deck": "Exeggutor ex Arceus ex",
+    "share": 0.0089,
+    "winrate": 0.4819,
+    "player_count": 16,
+    "wins": 40,
+    "losses": 43,
+    "ties": 0
+  },
+  {
+    "deck": "Leafeon ex Celebi ex",
+    "share": 0.0089,
+    "winrate": 0.4384,
+    "player_count": 16,
+    "wins": 32,
+    "losses": 40,
+    "ties": 1
+  },
+  {
+    "deck": "Charizard ex Moltres ex",
+    "share": 0.0089,
+    "winrate": 0.4118,
+    "player_count": 16,
+    "wins": 28,
+    "losses": 40,
+    "ties": 0
+  },
+  {
+    "deck": "Palkia ex Origin Forme Palkia",
+    "share": 0.0084,
+    "winrate": 0.5439,
+    "player_count": 15,
+    "wins": 31,
+    "losses": 26,
+    "ties": 0
+  },
+  {
+    "deck": "Darkrai ex Arceus ex",
+    "share": 0.0084,
+    "winrate": 0.5,
+    "player_count": 15,
+    "wins": 39,
+    "losses": 38,
+    "ties": 1
+  },
+  {
+    "deck": "Wugtrio ex Manaphy",
+    "share": 0.0084,
+    "winrate": 0.4722,
+    "player_count": 15,
+    "wins": 34,
+    "losses": 38,
+    "ties": 0
+  },
+  {
+    "deck": "Mewtwo ex Giratina ex",
+    "share": 0.0078,
+    "winrate": 0.6207,
+    "player_count": 14,
+    "wins": 36,
+    "losses": 22,
+    "ties": 0
+  },
+  {
+    "deck": "Beedrill ex Exeggutor ex",
+    "share": 0.0078,
+    "winrate": 0.5333,
+    "player_count": 14,
+    "wins": 40,
+    "losses": 35,
+    "ties": 0
+  },
+  {
+    "deck": "Gyarados ex Origin Forme Palkia",
+    "share": 0.0078,
+    "winrate": 0.5,
+    "player_count": 14,
+    "wins": 40,
+    "losses": 40,
+    "ties": 0
+  },
+  {
+    "deck": "Darkrai ex Magnezone",
+    "share": 0.0078,
+    "winrate": 0.493,
+    "player_count": 14,
+    "wins": 35,
+    "losses": 35,
+    "ties": 1
+  },
+  {
+    "deck": "Giratina ex Magnezone",
+    "share": 0.0078,
+    "winrate": 0.4909,
+    "player_count": 14,
+    "wins": 27,
+    "losses": 27,
+    "ties": 1
+  },
+  {
+    "deck": "Giratina ex Mewtwo ex",
+    "share": 0.0072,
+    "winrate": 0.6627,
+    "player_count": 13,
+    "wins": 55,
+    "losses": 28,
+    "ties": 0
+  },
+  {
+    "deck": "Paldean Clodsire ex Grafaiai",
+    "share": 0.0067,
+    "winrate": 0.4915,
+    "player_count": 12,
+    "wins": 29,
+    "losses": 30,
+    "ties": 0
+  },
+  {
+    "deck": "Gallade ex",
+    "share": 0.0067,
+    "winrate": 0.451,
+    "player_count": 12,
+    "wins": 23,
+    "losses": 28,
+    "ties": 0
+  },
+  {
+    "deck": "Garchomp ex Gallade ex",
+    "share": 0.0067,
+    "winrate": 0.3793,
+    "player_count": 12,
+    "wins": 22,
+    "losses": 36,
+    "ties": 0
+  },
+  {
+    "deck": "Arceus ex Carnivine",
+    "share": 0.0067,
+    "winrate": 0.3704,
+    "player_count": 12,
+    "wins": 20,
+    "losses": 34,
+    "ties": 0
+  },
+  {
+    "deck": "Darkrai ex Greninja",
+    "share": 0.0061,
+    "winrate": 0.5385,
+    "player_count": 11,
+    "wins": 35,
+    "losses": 30,
+    "ties": 0
+  },
+  {
+    "deck": "Giratina ex Arceus ex",
+    "share": 0.0061,
+    "winrate": 0.451,
+    "player_count": 11,
+    "wins": 23,
+    "losses": 28,
+    "ties": 0
+  },
+  {
+    "deck": "Dialga ex Giratina ex",
+    "share": 0.0061,
+    "winrate": 0.4375,
+    "player_count": 11,
+    "wins": 21,
+    "losses": 26,
+    "ties": 1
+  },
+  {
+    "deck": "Wugtrio ex Palkia ex",
+    "share": 0.0056,
+    "winrate": 0.4186,
+    "player_count": 10,
+    "wins": 18,
+    "losses": 24,
+    "ties": 1
+  },
+  {
+    "deck": "Darkrai ex Giratina ex",
+    "share": 0.005,
+    "winrate": 0.587,
+    "player_count": 9,
+    "wins": 27,
+    "losses": 18,
+    "ties": 1
+  },
+  {
+    "deck": "Beedrill ex",
+    "share": 0.005,
+    "winrate": 0.4737,
+    "player_count": 9,
+    "wins": 18,
+    "losses": 20,
+    "ties": 0
+  },
+  {
+    "deck": "Mewtwo ex Gardevoir",
+    "share": 0.005,
+    "winrate": 0.425,
+    "player_count": 9,
+    "wins": 17,
+    "losses": 23,
+    "ties": 0
+  },
+  {
+    "deck": "Exeggutor ex Celebi ex",
+    "share": 0.005,
+    "winrate": 0.4211,
+    "player_count": 9,
+    "wins": 16,
+    "losses": 22,
+    "ties": 0
+  },
+  {
+    "deck": "Magnezone Skarmory",
+    "share": 0.0045,
+    "winrate": 0.575,
+    "player_count": 8,
+    "wins": 23,
+    "losses": 17,
+    "ties": 0
+  },
+  {
+    "deck": "Blastoise ex Manaphy",
+    "share": 0.0045,
+    "winrate": 0.4118,
+    "player_count": 8,
+    "wins": 14,
+    "losses": 20,
+    "ties": 0
+  },
+  {
+    "deck": "Starmie ex Palkia ex",
+    "share": 0.0045,
+    "winrate": 0.3438,
+    "player_count": 8,
+    "wins": 11,
+    "losses": 21,
+    "ties": 0
+  },
+  {
+    "deck": "Magnezone Pikachu ex",
+    "share": 0.0039,
+    "winrate": 0.5789,
+    "player_count": 7,
+    "wins": 22,
+    "losses": 15,
+    "ties": 1
+  },
+  {
+    "deck": "Charizard ex",
+    "share": 0.0039,
+    "winrate": 0.4231,
+    "player_count": 7,
+    "wins": 11,
+    "losses": 15,
+    "ties": 0
+  },
+  {
+    "deck": "Probopass ex Dialga ex",
+    "share": 0.0039,
+    "winrate": 0.3448,
+    "player_count": 7,
+    "wins": 10,
+    "losses": 19,
+    "ties": 0
+  },
+  {
+    "deck": "Giratina ex Greninja",
+    "share": 0.0039,
+    "winrate": 0.2857,
+    "player_count": 7,
+    "wins": 6,
+    "losses": 13,
+    "ties": 2
+  },
+  {
+    "deck": "Darkrai ex Grafaiai",
+    "share": 0.0033,
+    "winrate": 0.4583,
+    "player_count": 6,
+    "wins": 11,
+    "losses": 13,
+    "ties": 0
+  },
+  {
+    "deck": "Gallade ex Lucario",
+    "share": 0.0033,
+    "winrate": 0.4,
+    "player_count": 6,
+    "wins": 12,
+    "losses": 18,
+    "ties": 0
+  },
+  {
+    "deck": "Meowscarada Snorlax",
+    "share": 0.0028,
+    "winrate": 0.6667,
+    "player_count": 5,
+    "wins": 16,
+    "losses": 8,
+    "ties": 0
+  },
+  {
+    "deck": "Pikachu ex Magnezone",
+    "share": 0.0028,
+    "winrate": 0.5556,
+    "player_count": 5,
+    "wins": 10,
+    "losses": 8,
+    "ties": 0
+  },
+  {
+    "deck": "Meowscarada Cyclizar",
+    "share": 0.0028,
+    "winrate": 0.4783,
+    "player_count": 5,
+    "wins": 11,
+    "losses": 12,
+    "ties": 0
+  },
+  {
+    "deck": "Giratina ex Staraptor",
+    "share": 0.0028,
+    "winrate": 0.4643,
+    "player_count": 5,
+    "wins": 13,
+    "losses": 15,
+    "ties": 0
+  },
+  {
+    "deck": "Articuno ex Palkia ex",
+    "share": 0.0028,
+    "winrate": 0.4583,
+    "player_count": 5,
+    "wins": 11,
+    "losses": 13,
+    "ties": 0
+  },
+  {
+    "deck": "Meowscarada Celebi ex",
+    "share": 0.0028,
+    "winrate": 0.4348,
+    "player_count": 5,
+    "wins": 10,
+    "losses": 13,
+    "ties": 0
+  },
+  {
+    "deck": "Starmie ex Wugtrio ex",
+    "share": 0.0028,
+    "winrate": 0.4118,
+    "player_count": 5,
+    "wins": 7,
+    "losses": 10,
+    "ties": 0
+  },
+  {
+    "deck": "Wugtrio ex Articuno ex",
+    "share": 0.0022,
+    "winrate": 0.5417,
+    "player_count": 4,
+    "wins": 13,
+    "losses": 11,
+    "ties": 0
+  },
+  {
+    "deck": "Dialga ex Mew ex",
+    "share": 0.0022,
+    "winrate": 0.4,
+    "player_count": 4,
+    "wins": 6,
+    "losses": 9,
+    "ties": 0
+  },
+  {
+    "deck": "Luxray Manectric",
+    "share": 0.0022,
+    "winrate": 0.3636,
+    "player_count": 4,
+    "wins": 4,
+    "losses": 7,
+    "ties": 0
+  },
+  {
+    "deck": "Greninja Farfetch'd",
+    "share": 0.0022,
+    "winrate": 0.1667,
+    "player_count": 4,
+    "wins": 2,
+    "losses": 10,
+    "ties": 0
+  },
+  {
+    "deck": "Arceus ex Crobat",
+    "share": 0.0022,
+    "winrate": 0.1111,
+    "player_count": 4,
+    "wins": 1,
+    "losses": 8,
+    "ties": 0
+  },
+  {
+    "deck": "Charizard ex Arceus ex",
+    "share": 0.0022,
+    "winrate": 0.0,
+    "player_count": 4,
+    "wins": 0,
+    "losses": 5,
+    "ties": 0
+  },
+  {
+    "deck": "Palkia ex Vaporeon",
+    "share": 0.0017,
+    "winrate": 0.7059,
+    "player_count": 3,
+    "wins": 12,
+    "losses": 5,
+    "ties": 0
+  },
+  {
+    "deck": "Blastoise ex Origin Forme Palkia",
+    "share": 0.0017,
+    "winrate": 0.65,
+    "player_count": 3,
+    "wins": 13,
+    "losses": 7,
+    "ties": 0
+  },
+  {
+    "deck": "Palkia ex Manaphy",
+    "share": 0.0017,
+    "winrate": 0.5556,
+    "player_count": 3,
+    "wins": 10,
+    "losses": 8,
+    "ties": 0
+  },
+  {
+    "deck": "Wugtrio ex Greninja",
+    "share": 0.0017,
+    "winrate": 0.5556,
+    "player_count": 3,
+    "wins": 10,
+    "losses": 8,
+    "ties": 0
+  },
+  {
+    "deck": "Celebi ex Serperior",
+    "share": 0.0017,
+    "winrate": 0.5,
+    "player_count": 3,
+    "wins": 5,
+    "losses": 5,
+    "ties": 0
+  },
+  {
+    "deck": "Mew ex Giratina ex",
+    "share": 0.0017,
+    "winrate": 0.5,
+    "player_count": 3,
+    "wins": 7,
+    "losses": 7,
+    "ties": 0
+  },
+  {
+    "deck": "Rampardos Kabutops",
+    "share": 0.0017,
+    "winrate": 0.4667,
+    "player_count": 3,
+    "wins": 7,
+    "losses": 6,
+    "ties": 2
+  },
+  {
+    "deck": "Palkia ex Arceus ex",
+    "share": 0.0017,
+    "winrate": 0.4667,
+    "player_count": 3,
+    "wins": 7,
+    "losses": 8,
+    "ties": 0
+  },
+  {
+    "deck": "Magnezone Snorlax",
+    "share": 0.0017,
+    "winrate": 0.4667,
+    "player_count": 3,
+    "wins": 7,
+    "losses": 8,
+    "ties": 0
+  },
+  {
+    "deck": "Gyarados ex Palkia ex",
+    "share": 0.0017,
+    "winrate": 0.4615,
+    "player_count": 3,
+    "wins": 6,
+    "losses": 7,
+    "ties": 0
+  },
+  {
+    "deck": "Pikachu ex Pachirisu ex",
+    "share": 0.0017,
+    "winrate": 0.4545,
+    "player_count": 3,
+    "wins": 5,
+    "losses": 6,
+    "ties": 0
+  },
+  {
+    "deck": "Zapdos ex Magnezone",
+    "share": 0.0017,
+    "winrate": 0.4545,
+    "player_count": 3,
+    "wins": 5,
+    "losses": 6,
+    "ties": 0
+  },
+  {
+    "deck": "Leafeon ex Meowscarada",
+    "share": 0.0017,
+    "winrate": 0.4375,
+    "player_count": 3,
+    "wins": 7,
+    "losses": 9,
+    "ties": 0
+  },
+  {
+    "deck": "Yanmega ex Dialga ex",
+    "share": 0.0017,
+    "winrate": 0.4286,
+    "player_count": 3,
+    "wins": 6,
+    "losses": 6,
+    "ties": 2
+  },
+  {
+    "deck": "Pachirisu ex Pikachu ex",
+    "share": 0.0017,
+    "winrate": 0.4167,
+    "player_count": 3,
+    "wins": 5,
+    "losses": 7,
+    "ties": 0
+  },
+  {
+    "deck": "Infernape ex Arceus ex",
+    "share": 0.0017,
+    "winrate": 0.4,
+    "player_count": 3,
+    "wins": 4,
+    "losses": 5,
+    "ties": 1
+  },
+  {
+    "deck": "Rampardos Snorlax",
+    "share": 0.0017,
+    "winrate": 0.4,
+    "player_count": 3,
+    "wins": 2,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Gengar ex Giratina ex",
+    "share": 0.0017,
+    "winrate": 0.3889,
+    "player_count": 3,
+    "wins": 7,
+    "losses": 11,
+    "ties": 0
+  },
+  {
+    "deck": "Pikachu ex Zapdos ex",
+    "share": 0.0017,
+    "winrate": 0.3636,
+    "player_count": 3,
+    "wins": 4,
+    "losses": 6,
+    "ties": 1
+  },
+  {
+    "deck": "Wugtrio ex",
+    "share": 0.0017,
+    "winrate": 0.3333,
+    "player_count": 3,
+    "wins": 4,
+    "losses": 8,
+    "ties": 0
+  },
+  {
+    "deck": "Tinkaton ex Skarmory",
+    "share": 0.0017,
+    "winrate": 0.2727,
+    "player_count": 3,
+    "wins": 3,
+    "losses": 8,
+    "ties": 0
+  },
+  {
+    "deck": "Bibarel ex Wigglytuff",
+    "share": 0.0017,
+    "winrate": 0.25,
+    "player_count": 3,
+    "wins": 4,
+    "losses": 12,
+    "ties": 0
+  },
+  {
+    "deck": "Gyarados ex Greninja",
+    "share": 0.0017,
+    "winrate": 0.25,
+    "player_count": 3,
+    "wins": 2,
+    "losses": 6,
+    "ties": 0
+  },
+  {
+    "deck": "Darkrai ex Weavile ex",
+    "share": 0.0017,
+    "winrate": 0.2222,
+    "player_count": 3,
+    "wins": 2,
+    "losses": 7,
+    "ties": 0
+  },
+  {
+    "deck": "Pachirisu ex",
+    "share": 0.0017,
+    "winrate": 0.125,
+    "player_count": 3,
+    "wins": 1,
+    "losses": 7,
+    "ties": 0
+  },
+  {
+    "deck": "Meowscarada Exeggutor ex",
+    "share": 0.0017,
+    "winrate": 0.1,
+    "player_count": 3,
+    "wins": 1,
+    "losses": 9,
+    "ties": 0
+  },
+  {
+    "deck": "Wugtrio ex Vaporeon",
+    "share": 0.0017,
+    "winrate": 0.0,
+    "player_count": 3,
+    "wins": 0,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Arceus ex Abomasnow",
+    "share": 0.0011,
+    "winrate": 0.6875,
+    "player_count": 2,
+    "wins": 11,
+    "losses": 5,
+    "ties": 0
+  },
+  {
+    "deck": "Starmie ex Gyarados ex",
+    "share": 0.0011,
+    "winrate": 0.6,
+    "player_count": 2,
+    "wins": 3,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Lucario Hitmonlee",
+    "share": 0.0011,
+    "winrate": 0.5833,
+    "player_count": 2,
+    "wins": 7,
+    "losses": 5,
+    "ties": 0
+  },
+  {
+    "deck": "Palkia ex Wigglytuff",
+    "share": 0.0011,
+    "winrate": 0.5,
+    "player_count": 2,
+    "wins": 7,
+    "losses": 7,
+    "ties": 0
+  },
+  {
+    "deck": "Paldean Clodsire ex Darkrai ex",
+    "share": 0.0011,
+    "winrate": 0.5,
+    "player_count": 2,
+    "wins": 4,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Arceus ex Manaphy",
+    "share": 0.0011,
+    "winrate": 0.5,
+    "player_count": 2,
+    "wins": 5,
+    "losses": 5,
+    "ties": 0
+  },
+  {
+    "deck": "Yanmega ex Leafeon ex",
+    "share": 0.0011,
+    "winrate": 0.5,
+    "player_count": 2,
+    "wins": 2,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Infernape ex Farfetch'd",
+    "share": 0.0011,
+    "winrate": 0.5,
+    "player_count": 2,
+    "wins": 7,
+    "losses": 7,
+    "ties": 0
+  },
+  {
+    "deck": "Kabutops Lucario",
+    "share": 0.0011,
+    "winrate": 0.4545,
+    "player_count": 2,
+    "wins": 5,
+    "losses": 6,
+    "ties": 0
+  },
+  {
+    "deck": "Mew ex Mewtwo ex",
+    "share": 0.0011,
+    "winrate": 0.4444,
+    "player_count": 2,
+    "wins": 4,
+    "losses": 5,
+    "ties": 0
+  },
+  {
+    "deck": "Arceus ex Greninja",
+    "share": 0.0011,
+    "winrate": 0.4286,
+    "player_count": 2,
+    "wins": 3,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Vaporeon Articuno ex",
+    "share": 0.0011,
+    "winrate": 0.4286,
+    "player_count": 2,
+    "wins": 3,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Palkia ex Mew ex",
+    "share": 0.0011,
+    "winrate": 0.4286,
+    "player_count": 2,
+    "wins": 3,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Gengar ex Mew ex",
+    "share": 0.0011,
+    "winrate": 0.4167,
+    "player_count": 2,
+    "wins": 5,
+    "losses": 7,
+    "ties": 0
+  },
+  {
+    "deck": "Mismagius ex Giratina ex",
+    "share": 0.0011,
+    "winrate": 0.4,
+    "player_count": 2,
+    "wins": 2,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Pikachu ex Pachirisu",
+    "share": 0.0011,
+    "winrate": 0.4,
+    "player_count": 2,
+    "wins": 2,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Beedrill ex Beedrill",
+    "share": 0.0011,
+    "winrate": 0.4,
+    "player_count": 2,
+    "wins": 4,
+    "losses": 6,
+    "ties": 0
+  },
+  {
+    "deck": "Wugtrio ex Origin Forme Palkia",
+    "share": 0.0011,
+    "winrate": 0.4,
+    "player_count": 2,
+    "wins": 2,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Zapdos ex Pikachu ex",
+    "share": 0.0011,
+    "winrate": 0.375,
+    "player_count": 2,
+    "wins": 3,
+    "losses": 5,
+    "ties": 0
+  },
+  {
+    "deck": "Bastiodon Skarmory",
+    "share": 0.0011,
+    "winrate": 0.375,
+    "player_count": 2,
+    "wins": 3,
+    "losses": 5,
+    "ties": 0
+  },
+  {
+    "deck": "Gallade ex Sudowoodo",
+    "share": 0.0011,
+    "winrate": 0.3333,
+    "player_count": 2,
+    "wins": 2,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Magnezone Gholdengo",
+    "share": 0.0011,
+    "winrate": 0.3333,
+    "player_count": 2,
+    "wins": 3,
+    "losses": 5,
+    "ties": 1
+  },
+  {
+    "deck": "Tinkaton ex Dialga ex",
+    "share": 0.0011,
+    "winrate": 0.3333,
+    "player_count": 2,
+    "wins": 3,
+    "losses": 6,
+    "ties": 0
+  },
+  {
+    "deck": "Palkia ex Poliwrath",
+    "share": 0.0011,
+    "winrate": 0.3333,
+    "player_count": 2,
+    "wins": 2,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Arceus ex Mew ex",
+    "share": 0.0011,
+    "winrate": 0.3333,
+    "player_count": 2,
+    "wins": 2,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Melmetal Dialga ex",
+    "share": 0.0011,
+    "winrate": 0.3,
+    "player_count": 2,
+    "wins": 3,
+    "losses": 7,
+    "ties": 0
+  },
+  {
+    "deck": "Leafeon ex Exeggutor",
+    "share": 0.0011,
+    "winrate": 0.2857,
+    "player_count": 2,
+    "wins": 2,
+    "losses": 5,
+    "ties": 0
+  },
+  {
+    "deck": "Infernape ex Moltres ex",
+    "share": 0.0011,
+    "winrate": 0.2857,
+    "player_count": 2,
+    "wins": 2,
+    "losses": 5,
+    "ties": 0
+  },
+  {
+    "deck": "Mew ex Dialga ex",
+    "share": 0.0011,
+    "winrate": 0.1667,
+    "player_count": 2,
+    "wins": 1,
+    "losses": 4,
+    "ties": 1
+  },
+  {
+    "deck": "Wigglytuff ex Bibarel ex",
+    "share": 0.0011,
+    "winrate": 0.1667,
+    "player_count": 2,
+    "wins": 1,
+    "losses": 5,
+    "ties": 0
+  },
+  {
+    "deck": "Blastoise ex Vaporeon",
+    "share": 0.0011,
+    "winrate": 0.125,
+    "player_count": 2,
+    "wins": 1,
+    "losses": 7,
+    "ties": 0
+  },
+  {
+    "deck": "Mewtwo ex Wigglytuff",
+    "share": 0.0011,
+    "winrate": 0.1111,
+    "player_count": 2,
+    "wins": 1,
+    "losses": 8,
+    "ties": 0
+  },
+  {
+    "deck": "Glaceon ex Origin Forme Palkia",
+    "share": 0.0011,
+    "winrate": 0.0,
+    "player_count": 2,
+    "wins": 0,
+    "losses": 7,
+    "ties": 0
+  },
+  {
+    "deck": "Lucario Sudowoodo",
+    "share": 0.0011,
+    "winrate": 0.0,
+    "player_count": 2,
+    "wins": 0,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Dialga ex Melmetal",
+    "share": 0.0011,
+    "winrate": 0.0,
+    "player_count": 2,
+    "wins": 0,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Raichu Pikachu ex",
+    "share": 0.0011,
+    "winrate": 0.0,
+    "player_count": 2,
+    "wins": 0,
+    "losses": 5,
+    "ties": 0
+  },
+  {
+    "deck": "Darkrai ex Mew ex",
+    "share": 0.0011,
+    "winrate": 0.0,
+    "player_count": 2,
+    "wins": 0,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Rampardos Hitmonlee",
+    "share": 0.0011,
+    "winrate": 0.0,
+    "player_count": 2,
+    "wins": 0,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Blastoise ex Articuno",
+    "share": 0.0006,
+    "winrate": 0.7778,
+    "player_count": 1,
+    "wins": 7,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Garchomp ex Lucario ex",
+    "share": 0.0006,
+    "winrate": 0.75,
+    "player_count": 1,
+    "wins": 6,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Palkia ex Articuno ex",
+    "share": 0.0006,
+    "winrate": 0.75,
+    "player_count": 1,
+    "wins": 3,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Gyarados ex Giratina",
+    "share": 0.0006,
+    "winrate": 0.7,
+    "player_count": 1,
+    "wins": 7,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Dialga ex Lickilicky ex",
+    "share": 0.0006,
+    "winrate": 0.6667,
+    "player_count": 1,
+    "wins": 4,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Infernape ex",
+    "share": 0.0006,
+    "winrate": 0.6667,
+    "player_count": 1,
+    "wins": 6,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Meowscarada",
+    "share": 0.0006,
+    "winrate": 0.6667,
+    "player_count": 1,
+    "wins": 2,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Mismagius ex Gengar",
+    "share": 0.0006,
+    "winrate": 0.6667,
+    "player_count": 1,
+    "wins": 2,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Blastoise ex Palkia ex",
+    "share": 0.0006,
+    "winrate": 0.6667,
+    "player_count": 1,
+    "wins": 4,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Giratina ex Snorlax",
+    "share": 0.0006,
+    "winrate": 0.6667,
+    "player_count": 1,
+    "wins": 2,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Dragonite Druddigon",
+    "share": 0.0006,
+    "winrate": 0.625,
+    "player_count": 1,
+    "wins": 5,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Garchomp ex Hitmonlee",
+    "share": 0.0006,
+    "winrate": 0.625,
+    "player_count": 1,
+    "wins": 5,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Gholdengo Skarmory",
+    "share": 0.0006,
+    "winrate": 0.6,
+    "player_count": 1,
+    "wins": 3,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Meowscarada Shaymin",
+    "share": 0.0006,
+    "winrate": 0.6,
+    "player_count": 1,
+    "wins": 3,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Dragonite Snorlax",
+    "share": 0.0006,
+    "winrate": 0.6,
+    "player_count": 1,
+    "wins": 3,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Crobat Arceus ex",
+    "share": 0.0006,
+    "winrate": 0.5714,
+    "player_count": 1,
+    "wins": 4,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Giratina ex Mew ex",
+    "share": 0.0006,
+    "winrate": 0.5,
+    "player_count": 1,
+    "wins": 2,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Pikachu ex Pachirisu ex",
+    "share": 0.0006,
+    "winrate": 0.5,
+    "player_count": 1,
+    "wins": 4,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Zapdos ex Zapdos",
+    "share": 0.0006,
+    "winrate": 0.5,
+    "player_count": 1,
+    "wins": 2,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Gallade ex Regirock",
+    "share": 0.0006,
+    "winrate": 0.5,
+    "player_count": 1,
+    "wins": 2,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Wugtrio ex Poliwrath",
+    "share": 0.0006,
+    "winrate": 0.5,
+    "player_count": 1,
+    "wins": 3,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Gardevoir Mewtwo ex",
+    "share": 0.0006,
+    "winrate": 0.5,
+    "player_count": 1,
+    "wins": 3,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Beedrill ex Celebi ex",
+    "share": 0.0006,
+    "winrate": 0.5,
+    "player_count": 1,
+    "wins": 3,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Exeggutor ex Poliwrath",
+    "share": 0.0006,
+    "winrate": 0.5,
+    "player_count": 1,
+    "wins": 3,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Exeggutor ex Yanmega ex",
+    "share": 0.0006,
+    "winrate": 0.5,
+    "player_count": 1,
+    "wins": 3,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Palkia ex Starmie ex",
+    "share": 0.0006,
+    "winrate": 0.5,
+    "player_count": 1,
+    "wins": 3,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Giratina ex Origin Forme Palkia",
+    "share": 0.0006,
+    "winrate": 0.5,
+    "player_count": 1,
+    "wins": 2,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Magnezone",
+    "share": 0.0006,
+    "winrate": 0.5,
+    "player_count": 1,
+    "wins": 3,
+    "losses": 2,
+    "ties": 1
+  },
+  {
+    "deck": "Raichu Luxray",
+    "share": 0.0006,
+    "winrate": 0.5,
+    "player_count": 1,
+    "wins": 3,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Garchomp Kangaskhan",
+    "share": 0.0006,
+    "winrate": 0.5,
+    "player_count": 1,
+    "wins": 1,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Meowscarada Leafeon ex",
+    "share": 0.0006,
+    "winrate": 0.5,
+    "player_count": 1,
+    "wins": 2,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Rampardos",
+    "share": 0.0006,
+    "winrate": 0.5,
+    "player_count": 1,
+    "wins": 3,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Meowscarada Vespiquen",
+    "share": 0.0006,
+    "winrate": 0.5,
+    "player_count": 1,
+    "wins": 3,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Pikachu ex Magnezone",
+    "share": 0.0006,
+    "winrate": 0.5,
+    "player_count": 1,
+    "wins": 3,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Greninja Giratina ex",
+    "share": 0.0006,
+    "winrate": 0.5,
+    "player_count": 1,
+    "wins": 2,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Gardevoir Golurk",
+    "share": 0.0006,
+    "winrate": 0.5,
+    "player_count": 1,
+    "wins": 4,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Gallade ex Giratina ex",
+    "share": 0.0006,
+    "winrate": 0.5,
+    "player_count": 1,
+    "wins": 2,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Giratina ex Druddigon",
+    "share": 0.0006,
+    "winrate": 0.4286,
+    "player_count": 1,
+    "wins": 3,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Giratina ex Giratina",
+    "share": 0.0006,
+    "winrate": 0.4,
+    "player_count": 1,
+    "wins": 2,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Giratina ex Dusknoir",
+    "share": 0.0006,
+    "winrate": 0.4,
+    "player_count": 1,
+    "wins": 2,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Wormadam Skarmory",
+    "share": 0.0006,
+    "winrate": 0.4,
+    "player_count": 1,
+    "wins": 2,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Magnezone Ninetales",
+    "share": 0.0006,
+    "winrate": 0.4,
+    "player_count": 1,
+    "wins": 2,
+    "losses": 2,
+    "ties": 1
+  },
+  {
+    "deck": "Glaceon ex Greninja",
+    "share": 0.0006,
+    "winrate": 0.4,
+    "player_count": 1,
+    "wins": 2,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Charizard ex Heatran",
+    "share": 0.0006,
+    "winrate": 0.4,
+    "player_count": 1,
+    "wins": 2,
+    "losses": 2,
+    "ties": 1
+  },
+  {
+    "deck": "Alakazam Druddigon",
+    "share": 0.0006,
+    "winrate": 0.4,
+    "player_count": 1,
+    "wins": 2,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Giratina ex Shaymin",
+    "share": 0.0006,
+    "winrate": 0.4,
+    "player_count": 1,
+    "wins": 2,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Staraptor Mew ex",
+    "share": 0.0006,
+    "winrate": 0.4,
+    "player_count": 1,
+    "wins": 2,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Garchomp Druddigon",
+    "share": 0.0006,
+    "winrate": 0.375,
+    "player_count": 1,
+    "wins": 3,
+    "losses": 5,
+    "ties": 0
+  },
+  {
+    "deck": "Revavroom Gholdengo",
+    "share": 0.0006,
+    "winrate": 0.3333,
+    "player_count": 1,
+    "wins": 1,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Tinkaton ex",
+    "share": 0.0006,
+    "winrate": 0.3333,
+    "player_count": 1,
+    "wins": 2,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Beedrill ex Vespiquen",
+    "share": 0.0006,
+    "winrate": 0.3333,
+    "player_count": 1,
+    "wins": 1,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Infernape ex Rapidash",
+    "share": 0.0006,
+    "winrate": 0.3333,
+    "player_count": 1,
+    "wins": 2,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Mismagius ex Mewtwo ex",
+    "share": 0.0006,
+    "winrate": 0.3333,
+    "player_count": 1,
+    "wins": 1,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Pikachu ex Zebstrika",
+    "share": 0.0006,
+    "winrate": 0.3333,
+    "player_count": 1,
+    "wins": 1,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Lucario ex Sudowoodo",
+    "share": 0.0006,
+    "winrate": 0.3333,
+    "player_count": 1,
+    "wins": 2,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Venusaur ex Exeggutor ex",
+    "share": 0.0006,
+    "winrate": 0.3333,
+    "player_count": 1,
+    "wins": 2,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Infernape ex Houndoom",
+    "share": 0.0006,
+    "winrate": 0.3333,
+    "player_count": 1,
+    "wins": 1,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Lucario ex Hitmonlee",
+    "share": 0.0006,
+    "winrate": 0.3333,
+    "player_count": 1,
+    "wins": 1,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Gholdengo Giratina ex",
+    "share": 0.0006,
+    "winrate": 0.3333,
+    "player_count": 1,
+    "wins": 1,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Beedrill ex Farfetch'd",
+    "share": 0.0006,
+    "winrate": 0.25,
+    "player_count": 1,
+    "wins": 1,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Skarmory",
+    "share": 0.0006,
+    "winrate": 0.25,
+    "player_count": 1,
+    "wins": 1,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Aerodactyl ex Rampardos",
+    "share": 0.0006,
+    "winrate": 0.25,
+    "player_count": 1,
+    "wins": 1,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Glaceon ex Palkia ex",
+    "share": 0.0006,
+    "winrate": 0.25,
+    "player_count": 1,
+    "wins": 1,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Electivire Pachirisu ex",
+    "share": 0.0006,
+    "winrate": 0.25,
+    "player_count": 1,
+    "wins": 1,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Gyarados ex Articuno ex",
+    "share": 0.0006,
+    "winrate": 0.25,
+    "player_count": 1,
+    "wins": 1,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Dialga ex Tinkaton ex",
+    "share": 0.0006,
+    "winrate": 0.25,
+    "player_count": 1,
+    "wins": 1,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Wigglytuff Snorlax",
+    "share": 0.0006,
+    "winrate": 0.25,
+    "player_count": 1,
+    "wins": 1,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Lucario Gliscor",
+    "share": 0.0006,
+    "winrate": 0.2,
+    "player_count": 1,
+    "wins": 1,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Leafeon ex Arceus ex",
+    "share": 0.0006,
+    "winrate": 0.2,
+    "player_count": 1,
+    "wins": 1,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Darkrai ex Crobat",
+    "share": 0.0006,
+    "winrate": 0.2,
+    "player_count": 1,
+    "wins": 1,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Nidoking Nidoqueen",
+    "share": 0.0006,
+    "winrate": 0.2,
+    "player_count": 1,
+    "wins": 1,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Mew ex Darkrai ex",
+    "share": 0.0006,
+    "winrate": 0.2,
+    "player_count": 1,
+    "wins": 1,
+    "losses": 4,
+    "ties": 0
+  },
+  {
+    "deck": "Probopass ex Skarmory",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Pikachu ex Zebstrika",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Charizard ex Glameow",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Pikachu ex Luxray",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Pikachu ex Electivire",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Magnezone Darkrai ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Beedrill ex Leafeon ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Vaporeon Manaphy",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Marowak ex Lucario ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Bellossom Scyther",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Palkia ex Gyarados ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Beedrill ex Arceus ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Pachirisu ex Magnezone",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Dragonite Magnezone",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Lucario Aerodactyl ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Articuno ex Manaphy",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Exeggutor ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Luxray Pikachu ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Meowscarada Arceus ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Gyarados ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Darkrai ex Snorlax",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Weavile ex Giratina ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Gengar ex Dusknoir",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Magnezone Hitmonlee",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Paldean Clodsire ex Weezing",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Arceus ex Raichu",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Pidgeot ex Palkia ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Dusknoir Giratina ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 5,
+    "ties": 0
+  },
+  {
+    "deck": "Yanmega ex Arceus ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Arceus ex Palkia ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Wigglytuff ex Arbok",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Venusaur ex Venusaur",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Starmie ex Leafeon ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Gallade ex Hitmonchan",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Staraptor",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Gyarados ex Regice",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Tentacruel Hypno",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Charizard ex Arcanine ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Gyarados ex Floatzel",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 3,
+    "ties": 0
+  },
+  {
+    "deck": "Garchomp ex Lucario",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Moltres ex Flareon",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Charizard ex Giratina ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Garchomp Snorlax",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Electivire Pikachu ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Pikachu ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Darkrai ex Weezing",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Marowak ex Celebi ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Starmie ex Articuno ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Snorlax",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 2,
+    "ties": 0
+  },
+  {
+    "deck": "Luxray",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Pachirisu ex Electivire",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Leafeon ex Mew ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Exeggutor ex Leafeon ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0
+  },
+  {
+    "deck": "Mewtwo ex Mew ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0
+  },
+  {
+    "deck": "Paldean Clodsire ex Weavile ex",
+    "share": 0.0006,
+    "winrate": 0.0,
+    "player_count": 1,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0
+  }
+]
