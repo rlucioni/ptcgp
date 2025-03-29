@@ -1,0 +1,22 @@
+# https://simonwillison.net/2020/Oct/9/git-scraping/
+on:
+  schedule:
+    - cron:  '8 8 * * *'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13.2'
+          cache: 'pip'
+      - run: make run
+      - run: |-
+          git config user.name "automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "update decks: ${timestamp}" || exit 0
+          git push
