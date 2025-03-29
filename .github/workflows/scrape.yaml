@@ -13,8 +13,10 @@ jobs:
         with:
           python-version: '3.13.2'
           cache: 'pip'
+      - run: make requirements
       - run: make run
-      - run: |-
+      - name: commit and push any changes
+        run: |-
           git config user.name "automated"
           git config user.email "actions@users.noreply.github.com"
           git add -A
