@@ -39,6 +39,8 @@ logger = logging.getLogger(__name__)
 
 
 ORIGIN = 'https://play.limitlesstcg.com'
+MIN_GAMES = 20
+MAX_DECKLISTS = 3
 
 
 def md5(str_value):
@@ -118,19 +120,23 @@ class Spider:
             wins = int(record_parts[0])
             losses = int(record_parts[1])
             ties = int(record_parts[2])
+            games = wins + losses + ties
 
-            decks.append({
-                'deck_name': deck_name,
-                'url': f'{ORIGIN}{deck_path}',
-                'share': share,
-                'winrate': winrate,
-                'player_count': player_count,
-                'wins': wins,
-                'losses': losses,
-                'ties': ties,
-                'best_finishes': [],
-            })
+            if games >= MIN_GAMES:
+                decks.append({
+                    'deck_name': deck_name,
+                    'url': f'{ORIGIN}{deck_path}',
+                    'share': share,
+                    'winrate': winrate,
+                    'player_count': player_count,
+                    'wins': wins,
+                    'losses': losses,
+                    'ties': ties,
+                    'games': games,
+                    'best_finishes': [],
+                })
 
+        # TODO: explicitly sort decks by player_count desc
         finishes_timer = Timer()
         finishes_progress = ProgressMeter(len(decks), msg='{done}/{total} ({percent}%) decks done')
         with ThreadPoolExecutor(max_workers=self.pool_maxsize) as executor:
@@ -177,31 +183,43 @@ class Spider:
         cards_timer.done()
         logger.info(f'done attaching cards in {round(cards_timer.latency, 2)}s')
 
-        agg_timer = Timer()
         for deck in decks:
-            aggregate_finishes = {}
+            decklists = {}
+            finishes = deck.pop('best_finishes')
 
-            for finish in deck['best_finishes']:
+            for finish in finishes:
                 card_hash = md5(''.join(finish['cards']))
-                aggregate_finish = aggregate_finishes.get(card_hash)
+                decklist = decklists.get(card_hash)
 
-                if aggregate_finish:
-                    aggregate_finish['wins'] += finish['wins']
-                    aggregate_finish['losses'] += finish['losses']
-                    aggregate_finish['ties'] += finish['ties']
+                if decklist:
+                    decklist['player_count'] += 1
+                    decklist['wins'] += finish['wins']
+                    decklist['losses'] += finish['losses']
+                    decklist['ties'] += finish['ties']
                 else:
-                    aggregate_finishes[card_hash] = {
+                    decklists[card_hash] = {
                         'cards': finish['cards'],
+                        'player_count': 1,
                         'wins': finish['wins'],
                         'losses': finish['losses'],
                         'ties': finish['ties'],
                     }
 
-            deck['aggregate_finishes'] = sorted(aggregate_finishes.values(), key=lambda agg: agg['wins'], reverse=True)
-            deck.pop('best_finishes')
+            for decklist in decklists.values():
+                games = decklist['wins'] + decklist['losses'] + decklist['ties']
 
-        agg_timer.done()
-        logger.info(f'done aggregating finishes in {round(agg_timer.latency, 2)}s')
+                decklist.update({
+                    'games': games,
+                    'winrate': round(decklist['wins'] / games, 4),
+                })
+
+            sorted_decklists = sorted(decklists.values(), key=lambda agg: agg['player_count'], reverse=True)
+            filtered_decklists = [decklist for decklist in sorted_decklists if decklist['games'] >= MIN_GAMES]
+
+            if filtered_decklists:
+                deck['decklists'] = filtered_decklists[:MAX_DECKLISTS]
+            else:
+                deck['decklists'] = sorted_decklists[0]
 
         with open('decks.json', 'w') as f:
             json.dump(decks, f, indent=2, ensure_ascii=False)
