@@ -39,7 +39,7 @@ logger = logging.getLogger(__name__)
 
 
 ORIGIN = 'https://play.limitlesstcg.com'
-MIN_GAMES = 20
+MIN_GAMES = 100
 MAX_DECKLISTS = 3
 
 
@@ -122,21 +122,27 @@ class Spider:
             ties = int(record_parts[2])
             games = wins + losses + ties
 
-            if games >= MIN_GAMES:
-                decks.append({
-                    'deck_name': deck_name,
-                    'url': f'{ORIGIN}{deck_path}',
-                    'share': share,
-                    'winrate': winrate,
-                    'player_count': player_count,
-                    'wins': wins,
-                    'losses': losses,
-                    'ties': ties,
-                    'games': games,
-                    'best_finishes': [],
-                })
+            decks.append({
+                'deck_name': deck_name,
+                'url': f'{ORIGIN}{deck_path}',
+                'share': share,
+                'player_count': player_count,
+                'games': games,
+                'wins': wins,
+                'losses': losses,
+                'ties': ties,
+                'winrate': winrate,
+                'best_finishes': [],
+            })
 
-        # TODO: explicitly sort decks by player_count desc
+        decks.sort(key=lambda deck: (deck['player_count'], deck['games']), reverse=True)
+        filtered_decks = [deck for deck in decks if deck['games'] >= MIN_GAMES]
+
+        if filtered_decks:
+            decks = filtered_decks
+        else:
+            decks = decks[:10]
+
         finishes_timer = Timer()
         finishes_progress = ProgressMeter(len(decks), msg='{done}/{total} ({percent}%) decks done')
         with ThreadPoolExecutor(max_workers=self.pool_maxsize) as executor:
@@ -184,6 +190,9 @@ class Spider:
         logger.info(f'done attaching cards in {round(cards_timer.latency, 2)}s')
 
         for deck in decks:
+            # don't want this in the final output, easy to strip it here
+            deck.pop('url')
+
             decklists = {}
             finishes = deck.pop('best_finishes')
 
@@ -193,6 +202,7 @@ class Spider:
 
                 if decklist:
                     decklist['player_count'] += 1
+                    decklist['games'] += (finish['wins'] + finish['losses'] + finish['ties'])
                     decklist['wins'] += finish['wins']
                     decklist['losses'] += finish['losses']
                     decklist['ties'] += finish['ties']
@@ -200,20 +210,20 @@ class Spider:
                     decklists[card_hash] = {
                         'cards': finish['cards'],
                         'player_count': 1,
+                        'games': finish['wins'] + finish['losses'] + finish['ties'],
                         'wins': finish['wins'],
                         'losses': finish['losses'],
                         'ties': finish['ties'],
                     }
 
             for decklist in decklists.values():
-                games = decklist['wins'] + decklist['losses'] + decklist['ties']
+                decklist['winrate'] = round(decklist['wins'] / decklist['games'], 4)
 
-                decklist.update({
-                    'games': games,
-                    'winrate': round(decklist['wins'] / games, 4),
-                })
-
-            sorted_decklists = sorted(decklists.values(), key=lambda agg: agg['player_count'], reverse=True)
+            sorted_decklists = sorted(
+                decklists.values(),
+                key=lambda decklist: (decklist['player_count'], decklist['games']),
+                reverse=True
+            )
             filtered_decklists = [decklist for decklist in sorted_decklists if decklist['games'] >= MIN_GAMES]
 
             if filtered_decklists:
