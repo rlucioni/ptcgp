@@ -4,6 +4,7 @@ import json
 import logging
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from copy import deepcopy
 from logging.config import dictConfig
 
 import requests
@@ -39,8 +40,9 @@ logger = logging.getLogger(__name__)
 
 
 ORIGIN = 'https://play.limitlesstcg.com'
-MIN_GAMES = 100
-MAX_DECKLISTS = 3
+MIN_DECK_GAMES = 100
+MAX_DECKS = 20
+MAX_DECKLISTS = 2
 
 
 def md5(str_value):
@@ -135,14 +137,6 @@ class Spider:
                 'best_finishes': [],
             })
 
-        decks.sort(key=lambda deck: (deck['player_count'], deck['games']), reverse=True)
-        filtered_decks = [deck for deck in decks if deck['games'] >= MIN_GAMES]
-
-        if filtered_decks:
-            decks = filtered_decks
-        else:
-            decks = decks[:10]
-
         finishes_timer = Timer()
         finishes_progress = ProgressMeter(len(decks), msg='{done}/{total} ({percent}%) decks done')
         with ThreadPoolExecutor(max_workers=self.pool_maxsize) as executor:
@@ -219,20 +213,36 @@ class Spider:
             for decklist in decklists.values():
                 decklist['winrate'] = round(decklist['wins'] / decklist['games'], 4)
 
-            sorted_decklists = sorted(
-                decklists.values(),
+            deck['decklists'] = list(decklists.values())
+
+        popular_decks = deepcopy(
+            sorted(decks, key=lambda deck: (deck['player_count'], deck['games']), reverse=True)[:MAX_DECKS]
+        )
+        for deck in popular_decks:
+            deck['decklists'] = sorted(
+                deck['decklists'],
                 key=lambda decklist: (decklist['player_count'], decklist['games']),
                 reverse=True
+            )[:MAX_DECKLISTS]
+
+        with open('decks/popular.json', 'w') as f:
+            json.dump(popular_decks, f, indent=2, ensure_ascii=False)
+
+        filtered_decks = [deck for deck in decks if deck['games'] >= MIN_DECK_GAMES]
+        if filtered_decks:
+            winrate_decks = deepcopy(
+                sorted(filtered_decks, key=lambda deck: (deck['winrate'], deck['games']), reverse=True)[:MAX_DECKS]
             )
-            filtered_decklists = [decklist for decklist in sorted_decklists if decklist['games'] >= MIN_GAMES]
 
-            if filtered_decklists:
-                deck['decklists'] = filtered_decklists[:MAX_DECKLISTS]
-            else:
-                deck['decklists'] = sorted_decklists[0]
+            for deck in winrate_decks:
+                deck['decklists'] = sorted(
+                    deck['decklists'],
+                    key=lambda decklist: (decklist['player_count'], decklist['games']),
+                    reverse=True
+                )[:MAX_DECKLISTS]
 
-        with open('decks.json', 'w') as f:
-            json.dump(decks, f, indent=2, ensure_ascii=False)
+            with open('decks/winrate.json', 'w') as f:
+                json.dump(winrate_decks, f, indent=2, ensure_ascii=False)
 
     def attach_finishes(self, deck):
         finishes_res = self.session.get(deck['url'])
