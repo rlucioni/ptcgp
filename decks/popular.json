@@ -2,12 +2,12 @@
   {
     "deck_name": "Giratina ex Darkrai ex",
     "share": 0.1334,
-    "player_count": 612,
-    "games": 3096,
-    "wins": 1673,
-    "losses": 1379,
-    "ties": 44,
-    "winrate": 0.5404,
+    "player_count": 622,
+    "games": 3132,
+    "wins": 1689,
+    "losses": 1398,
+    "ties": 45,
+    "winrate": 0.5393,
     "decklists": [
       {
         "cards": [
@@ -58,12 +58,12 @@
   {
     "deck_name": "Gyarados ex Manaphy",
     "share": 0.094,
-    "player_count": 431,
-    "games": 2161,
-    "wins": 1171,
-    "losses": 954,
+    "player_count": 438,
+    "games": 2179,
+    "wins": 1179,
+    "losses": 964,
     "ties": 36,
-    "winrate": 0.5419,
+    "winrate": 0.5411,
     "decklists": [
       {
         "cards": [
@@ -114,13 +114,13 @@
   },
   {
     "deck_name": "Gallade ex Hitmonlee",
-    "share": 0.0914,
-    "player_count": 419,
-    "games": 2104,
-    "wins": 1089,
-    "losses": 987,
+    "share": 0.0912,
+    "player_count": 425,
+    "games": 2127,
+    "wins": 1103,
+    "losses": 996,
     "ties": 28,
-    "winrate": 0.5176,
+    "winrate": 0.5186,
     "decklists": [
       {
         "cards": [
@@ -170,7 +170,7 @@
   },
   {
     "deck_name": "Dialga ex Arceus ex",
-    "share": 0.0885,
+    "share": 0.0871,
     "player_count": 406,
     "games": 1808,
     "wins": 850,
@@ -229,13 +229,13 @@
   },
   {
     "deck_name": "Rampardos Lucario",
-    "share": 0.0403,
-    "player_count": 185,
-    "games": 858,
+    "share": 0.0399,
+    "player_count": 186,
+    "games": 860,
     "wins": 421,
-    "losses": 429,
+    "losses": 431,
     "ties": 8,
-    "winrate": 0.4907,
+    "winrate": 0.4895,
     "decklists": [
       {
         "cards": [
@@ -286,13 +286,13 @@
   },
   {
     "deck_name": "Giratina ex Mewtwo ex",
-    "share": 0.0369,
-    "player_count": 169,
-    "games": 909,
-    "wins": 511,
-    "losses": 384,
+    "share": 0.039,
+    "player_count": 182,
+    "games": 956,
+    "wins": 534,
+    "losses": 408,
     "ties": 14,
-    "winrate": 0.5622,
+    "winrate": 0.5586,
     "decklists": [
       {
         "cards": [
@@ -344,13 +344,13 @@
   },
   {
     "deck_name": "Weavile ex Darkrai ex",
-    "share": 0.0316,
-    "player_count": 145,
-    "games": 750,
-    "wins": 398,
-    "losses": 344,
+    "share": 0.0322,
+    "player_count": 150,
+    "games": 777,
+    "wins": 412,
+    "losses": 357,
     "ties": 8,
-    "winrate": 0.5307,
+    "winrate": 0.5302,
     "decklists": [
       {
         "cards": [
@@ -402,13 +402,13 @@
   },
   {
     "deck_name": "Charizard ex Moltres ex",
-    "share": 0.0303,
-    "player_count": 139,
-    "games": 603,
+    "share": 0.03,
+    "player_count": 140,
+    "games": 604,
     "wins": 287,
-    "losses": 313,
+    "losses": 314,
     "ties": 3,
-    "winrate": 0.476,
+    "winrate": 0.4752,
     "decklists": [
       {
         "cards": [
@@ -461,7 +461,7 @@
   },
   {
     "deck_name": "Articuno ex",
-    "share": 0.0262,
+    "share": 0.0257,
     "player_count": 120,
     "games": 537,
     "wins": 261,
@@ -517,13 +517,13 @@
   },
   {
     "deck_name": "Exeggutor ex Meowscarada",
-    "share": 0.0179,
-    "player_count": 82,
-    "games": 398,
-    "wins": 207,
-    "losses": 188,
+    "share": 0.018,
+    "player_count": 84,
+    "games": 403,
+    "wins": 210,
+    "losses": 190,
     "ties": 3,
-    "winrate": 0.5201,
+    "winrate": 0.5211,
     "decklists": [
       {
         "cards": [
@@ -573,13 +573,13 @@
   },
   {
     "deck_name": "Meowscarada Beedrill ex",
-    "share": 0.0122,
-    "player_count": 56,
-    "games": 305,
-    "wins": 174,
-    "losses": 126,
-    "ties": 5,
-    "winrate": 0.5705,
+    "share": 0.0135,
+    "player_count": 63,
+    "games": 343,
+    "wins": 198,
+    "losses": 139,
+    "ties": 6,
+    "winrate": 0.5773,
     "decklists": [
       {
         "cards": [
@@ -591,18 +591,18 @@
           "2 Floragato (A2b-6)",
           "2 Erika",
           "1 Weedle (A1-8)",
-          "1 Team Rocket Grunt",
-          "1 Pokémon Communication",
+          "1 Sabrina",
           "1 Kakuna (A2b-2)",
           "1 Giant Cape",
+          "1 Cyrus",
           "1 Beedrill ex (A2b-3)"
         ],
-        "player_count": 6,
-        "games": 48,
-        "wins": 33,
-        "losses": 14,
+        "player_count": 5,
+        "games": 49,
+        "wins": 36,
+        "losses": 12,
         "ties": 1,
-        "winrate": 0.6875
+        "winrate": 0.7347
       },
       {
         "cards": [
@@ -631,7 +631,7 @@
   },
   {
     "deck_name": "Darkrai ex Giratina ex",
-    "share": 0.0118,
+    "share": 0.0116,
     "player_count": 54,
     "games": 237,
     "wins": 124,
@@ -688,8 +688,65 @@
     ]
   },
   {
-    "deck_name": "Palkia ex",
+    "deck_name": "Arceus ex Meowscarada",
     "share": 0.0092,
+    "player_count": 43,
+    "games": 200,
+    "wins": 105,
+    "losses": 94,
+    "ties": 1,
+    "winrate": 0.525,
+    "decklists": [
+      {
+        "cards": [
+          "2 Sprigatito (A2b-5)",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Meowscarada (A2b-7)",
+          "2 Floragato (A2b-6)",
+          "2 Carnivine (A2a-9)",
+          "2 Arceus ex (A2a-71)",
+          "1 Team Rocket Grunt",
+          "1 Sabrina",
+          "1 Red",
+          "1 Leaf",
+          "1 Iono",
+          "1 Cyrus"
+        ],
+        "player_count": 4,
+        "games": 30,
+        "wins": 21,
+        "losses": 9,
+        "ties": 0,
+        "winrate": 0.7
+      },
+      {
+        "cards": [
+          "2 Sprigatito (A2b-5)",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Meowscarada (A2b-7)",
+          "2 Leaf",
+          "2 Floragato (A2b-6)",
+          "2 Carnivine (A2a-9)",
+          "2 Arceus ex (A2a-71)",
+          "1 Rocky Helmet",
+          "1 Pokémon Communication",
+          "1 Giant Cape",
+          "1 Cyrus"
+        ],
+        "player_count": 2,
+        "games": 15,
+        "wins": 9,
+        "losses": 6,
+        "ties": 0,
+        "winrate": 0.6
+      }
+    ]
+  },
+  {
+    "deck_name": "Palkia ex",
+    "share": 0.009,
     "player_count": 42,
     "games": 189,
     "wins": 90,
@@ -745,7 +802,7 @@
   },
   {
     "deck_name": "Dialga ex Gholdengo",
-    "share": 0.0089,
+    "share": 0.0088,
     "player_count": 41,
     "games": 173,
     "wins": 67,
@@ -803,7 +860,7 @@
   },
   {
     "deck_name": "Rampardos Hitmonlee",
-    "share": 0.0087,
+    "share": 0.0086,
     "player_count": 40,
     "games": 222,
     "wins": 121,
@@ -860,7 +917,7 @@
   },
   {
     "deck_name": "Darkrai ex Magnezone",
-    "share": 0.0087,
+    "share": 0.0086,
     "player_count": 40,
     "games": 182,
     "wins": 86,
@@ -917,65 +974,66 @@
     ]
   },
   {
-    "deck_name": "Arceus ex Meowscarada",
-    "share": 0.0083,
-    "player_count": 38,
-    "games": 180,
-    "wins": 95,
-    "losses": 84,
+    "deck_name": "Charizard ex Moltres ex",
+    "share": 0.0084,
+    "player_count": 39,
+    "games": 149,
+    "wins": 66,
+    "losses": 82,
     "ties": 1,
-    "winrate": 0.5278,
+    "winrate": 0.443,
     "decklists": [
       {
         "cards": [
-          "2 Sprigatito (A2b-5)",
+          "2 X Speed",
           "2 Professor's Research",
+          "2 Pokémon Communication",
           "2 Poké Ball",
-          "2 Meowscarada (A2b-7)",
-          "2 Floragato (A2b-6)",
-          "2 Carnivine (A2a-9)",
-          "2 Arceus ex (A2a-71)",
-          "1 Team Rocket Grunt",
+          "2 Moltres ex (A1-47)",
+          "2 Charmeleon (A2b-9)",
+          "2 Charmander (A2b-8)",
           "1 Sabrina",
-          "1 Red",
-          "1 Leaf",
           "1 Iono",
-          "1 Cyrus"
+          "1 Giant Cape",
+          "1 Dawn",
+          "1 Charizard ex (A2b-10)",
+          "1 Charizard ex (A1-36)"
         ],
-        "player_count": 4,
-        "games": 30,
-        "wins": 19,
-        "losses": 11,
+        "player_count": 6,
+        "games": 32,
+        "wins": 17,
+        "losses": 15,
         "ties": 0,
-        "winrate": 0.6333
+        "winrate": 0.5312
       },
       {
         "cards": [
-          "2 Sprigatito (A2b-5)",
           "2 Professor's Research",
+          "2 Pokémon Communication",
           "2 Poké Ball",
-          "2 Meowscarada (A2b-7)",
-          "2 Leaf",
-          "2 Floragato (A2b-6)",
-          "2 Carnivine (A2a-9)",
-          "2 Arceus ex (A2a-71)",
-          "1 Rocky Helmet",
-          "1 Pokémon Communication",
-          "1 Giant Cape",
-          "1 Cyrus"
+          "2 Moltres ex (A1-47)",
+          "2 Iono",
+          "2 Charmeleon (A2b-9)",
+          "2 Charmander (A2b-8)",
+          "1 X Speed",
+          "1 Sabrina",
+          "1 Leaf",
+          "1 Dawn",
+          "1 Charizard ex (A2b-10)",
+          "1 Charizard ex (A1-36)"
         ],
         "player_count": 2,
-        "games": 15,
-        "wins": 9,
-        "losses": 6,
-        "ties": 0,
-        "winrate": 0.6
+        "games": 11,
+        "wins": 5,
+        "losses": 5,
+        "ties": 1,
+        "winrate": 0.4545
       }
     ]
   },
   {
     "deck_name": "Mewtwo ex Giratina ex",
-    "share": 0.0083,
+    "share": 0.0082,
     "player_count": 38,
     "games": 167,
     "wins": 83,
@@ -1031,66 +1089,8 @@
     ]
   },
   {
-    "deck_name": "Charizard ex Moltres ex",
-    "share": 0.0083,
-    "player_count": 38,
-    "games": 140,
-    "wins": 58,
-    "losses": 81,
-    "ties": 1,
-    "winrate": 0.4143,
-    "decklists": [
-      {
-        "cards": [
-          "2 X Speed",
-          "2 Professor's Research",
-          "2 Pokémon Communication",
-          "2 Poké Ball",
-          "2 Moltres ex (A1-47)",
-          "2 Charmeleon (A2b-9)",
-          "2 Charmander (A2b-8)",
-          "1 Sabrina",
-          "1 Iono",
-          "1 Giant Cape",
-          "1 Dawn",
-          "1 Charizard ex (A2b-10)",
-          "1 Charizard ex (A1-36)"
-        ],
-        "player_count": 6,
-        "games": 32,
-        "wins": 17,
-        "losses": 15,
-        "ties": 0,
-        "winrate": 0.5312
-      },
-      {
-        "cards": [
-          "2 Professor's Research",
-          "2 Pokémon Communication",
-          "2 Poké Ball",
-          "2 Moltres ex (A1-47)",
-          "2 Iono",
-          "2 Charmeleon (A2b-9)",
-          "2 Charmander (A2b-8)",
-          "1 X Speed",
-          "1 Sabrina",
-          "1 Leaf",
-          "1 Dawn",
-          "1 Charizard ex (A2b-10)",
-          "1 Charizard ex (A1-36)"
-        ],
-        "player_count": 2,
-        "games": 11,
-        "wins": 5,
-        "losses": 5,
-        "ties": 1,
-        "winrate": 0.4545
-      }
-    ]
-  },
-  {
     "deck_name": "Giratina ex",
-    "share": 0.0081,
+    "share": 0.0079,
     "player_count": 37,
     "games": 159,
     "wins": 68,
