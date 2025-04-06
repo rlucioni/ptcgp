@@ -1,13 +1,13 @@
 [
   {
     "deck_name": "Giratina ex Darkrai ex",
-    "share": 0.1333,
-    "player_count": 696,
-    "games": 3485,
-    "wins": 1882,
-    "losses": 1554,
-    "ties": 49,
-    "winrate": 0.54,
+    "share": 0.1335,
+    "player_count": 709,
+    "games": 3537,
+    "wins": 1904,
+    "losses": 1583,
+    "ties": 50,
+    "winrate": 0.5383,
     "decklists": [
       {
         "cards": [
@@ -57,13 +57,13 @@
   },
   {
     "deck_name": "Gyarados ex Manaphy",
-    "share": 0.096,
-    "player_count": 501,
-    "games": 2505,
-    "wins": 1353,
-    "losses": 1115,
+    "share": 0.0959,
+    "player_count": 509,
+    "games": 2553,
+    "wins": 1382,
+    "losses": 1134,
     "ties": 37,
-    "winrate": 0.5401,
+    "winrate": 0.5413,
     "decklists": [
       {
         "cards": [
@@ -114,13 +114,13 @@
   },
   {
     "deck_name": "Gallade ex Hitmonlee",
-    "share": 0.0893,
-    "player_count": 466,
-    "games": 2302,
-    "wins": 1183,
-    "losses": 1085,
-    "ties": 34,
-    "winrate": 0.5139,
+    "share": 0.0891,
+    "player_count": 473,
+    "games": 2344,
+    "wins": 1205,
+    "losses": 1104,
+    "ties": 35,
+    "winrate": 0.5141,
     "decklists": [
       {
         "cards": [
@@ -170,13 +170,13 @@
   },
   {
     "deck_name": "Dialga ex Arceus ex",
-    "share": 0.0808,
-    "player_count": 422,
-    "games": 1881,
-    "wins": 885,
-    "losses": 981,
+    "share": 0.0802,
+    "player_count": 426,
+    "games": 1901,
+    "wins": 892,
+    "losses": 994,
     "ties": 15,
-    "winrate": 0.4705,
+    "winrate": 0.4692,
     "decklists": [
       {
         "cards": [
@@ -229,13 +229,13 @@
   },
   {
     "deck_name": "Giratina ex Mewtwo ex",
-    "share": 0.0446,
-    "player_count": 233,
-    "games": 1212,
-    "wins": 681,
-    "losses": 513,
-    "ties": 18,
-    "winrate": 0.5619,
+    "share": 0.0461,
+    "player_count": 245,
+    "games": 1268,
+    "wins": 711,
+    "losses": 537,
+    "ties": 20,
+    "winrate": 0.5607,
     "decklists": [
       {
         "cards": [
@@ -287,7 +287,7 @@
   },
   {
     "deck_name": "Rampardos Lucario",
-    "share": 0.0381,
+    "share": 0.0375,
     "player_count": 199,
     "games": 922,
     "wins": 450,
@@ -344,13 +344,13 @@
   },
   {
     "deck_name": "Weavile ex Darkrai ex",
-    "share": 0.0328,
-    "player_count": 171,
-    "games": 872,
-    "wins": 459,
-    "losses": 400,
+    "share": 0.0326,
+    "player_count": 173,
+    "games": 878,
+    "wins": 461,
+    "losses": 404,
     "ties": 13,
-    "winrate": 0.5264,
+    "winrate": 0.5251,
     "decklists": [
       {
         "cards": [
@@ -402,13 +402,13 @@
   },
   {
     "deck_name": "Charizard ex Moltres ex",
-    "share": 0.0287,
-    "player_count": 150,
-    "games": 645,
-    "wins": 307,
-    "losses": 335,
-    "ties": 3,
-    "winrate": 0.476,
+    "share": 0.029,
+    "player_count": 154,
+    "games": 670,
+    "wins": 317,
+    "losses": 349,
+    "ties": 4,
+    "winrate": 0.4731,
     "decklists": [
       {
         "cards": [
@@ -461,13 +461,13 @@
   },
   {
     "deck_name": "Articuno ex",
-    "share": 0.0238,
-    "player_count": 124,
-    "games": 555,
+    "share": 0.0237,
+    "player_count": 126,
+    "games": 559,
     "wins": 270,
-    "losses": 282,
+    "losses": 286,
     "ties": 3,
-    "winrate": 0.4865,
+    "winrate": 0.483,
     "decklists": [
       {
         "cards": [
@@ -518,12 +518,12 @@
   {
     "deck_name": "Meowscarada Beedrill ex",
     "share": 0.0205,
-    "player_count": 107,
-    "games": 545,
-    "wins": 286,
-    "losses": 252,
+    "player_count": 109,
+    "games": 555,
+    "wins": 292,
+    "losses": 256,
     "ties": 7,
-    "winrate": 0.5248,
+    "winrate": 0.5261,
     "decklists": [
       {
         "cards": [
@@ -575,7 +575,7 @@
   },
   {
     "deck_name": "Exeggutor ex Meowscarada",
-    "share": 0.0188,
+    "share": 0.0185,
     "player_count": 98,
     "games": 471,
     "wins": 245,
@@ -632,12 +632,12 @@
   {
     "deck_name": "Darkrai ex Giratina ex",
     "share": 0.0113,
-    "player_count": 59,
-    "games": 249,
-    "wins": 129,
-    "losses": 116,
+    "player_count": 60,
+    "games": 255,
+    "wins": 133,
+    "losses": 118,
     "ties": 4,
-    "winrate": 0.5181,
+    "winrate": 0.5216,
     "decklists": [
       {
         "cards": [
@@ -655,12 +655,12 @@
           "1 Giratina ex (A2b-35)",
           "1 Cyrus"
         ],
-        "player_count": 5,
-        "games": 37,
-        "wins": 28,
-        "losses": 7,
+        "player_count": 4,
+        "games": 30,
+        "wins": 24,
+        "losses": 4,
         "ties": 2,
-        "winrate": 0.7568
+        "winrate": 0.8
       },
       {
         "cards": [
@@ -690,12 +690,12 @@
   {
     "deck_name": "Rampardos Hitmonlee",
     "share": 0.01,
-    "player_count": 52,
-    "games": 275,
-    "wins": 149,
-    "losses": 120,
+    "player_count": 53,
+    "games": 283,
+    "wins": 154,
+    "losses": 123,
     "ties": 6,
-    "winrate": 0.5418,
+    "winrate": 0.5442,
     "decklists": [
       {
         "cards": [
@@ -713,12 +713,12 @@
           "1 Farfetch'd (A1-198)",
           "1 Cyrus"
         ],
-        "player_count": 6,
-        "games": 47,
-        "wins": 31,
-        "losses": 13,
+        "player_count": 7,
+        "games": 55,
+        "wins": 36,
+        "losses": 16,
         "ties": 3,
-        "winrate": 0.6596
+        "winrate": 0.6545
       },
       {
         "cards": [
@@ -747,12 +747,12 @@
   {
     "deck_name": "Arceus ex Meowscarada",
     "share": 0.0094,
-    "player_count": 49,
-    "games": 224,
-    "wins": 115,
-    "losses": 108,
+    "player_count": 50,
+    "games": 229,
+    "wins": 118,
+    "losses": 110,
     "ties": 1,
-    "winrate": 0.5134,
+    "winrate": 0.5153,
     "decklists": [
       {
         "cards": [
@@ -803,13 +803,13 @@
   },
   {
     "deck_name": "Darkrai ex Magnezone",
-    "share": 0.0088,
-    "player_count": 46,
-    "games": 216,
-    "wins": 107,
-    "losses": 107,
+    "share": 0.0089,
+    "player_count": 47,
+    "games": 223,
+    "wins": 112,
+    "losses": 109,
     "ties": 2,
-    "winrate": 0.4954,
+    "winrate": 0.5022,
     "decklists": [
       {
         "cards": [
@@ -859,8 +859,8 @@
   },
   {
     "deck_name": "Darkrai ex Greninja",
-    "share": 0.0084,
-    "player_count": 44,
+    "share": 0.0085,
+    "player_count": 45,
     "games": 217,
     "wins": 118,
     "losses": 98,
@@ -915,7 +915,7 @@
   },
   {
     "deck_name": "Palkia ex",
-    "share": 0.0084,
+    "share": 0.0083,
     "player_count": 44,
     "games": 196,
     "wins": 94,
@@ -971,13 +971,13 @@
   },
   {
     "deck_name": "Charizard ex Moltres ex",
-    "share": 0.0082,
-    "player_count": 43,
-    "games": 168,
-    "wins": 79,
-    "losses": 88,
+    "share": 0.0083,
+    "player_count": 44,
+    "games": 173,
+    "wins": 81,
+    "losses": 91,
     "ties": 1,
-    "winrate": 0.4702,
+    "winrate": 0.4682,
     "decklists": [
       {
         "cards": [
@@ -1029,13 +1029,13 @@
   },
   {
     "deck_name": "Dialga ex Gholdengo",
-    "share": 0.008,
-    "player_count": 42,
-    "games": 179,
-    "wins": 69,
-    "losses": 110,
+    "share": 0.0081,
+    "player_count": 43,
+    "games": 184,
+    "wins": 72,
+    "losses": 112,
     "ties": 0,
-    "winrate": 0.3855,
+    "winrate": 0.3913,
     "decklists": [
       {
         "cards": [
@@ -1086,60 +1086,60 @@
     ]
   },
   {
-    "deck_name": "Mewtwo ex Giratina ex",
+    "deck_name": "Leafeon ex Celebi ex",
     "share": 0.0079,
-    "player_count": 41,
-    "games": 178,
-    "wins": 86,
-    "losses": 92,
-    "ties": 0,
-    "winrate": 0.4831,
+    "player_count": 42,
+    "games": 152,
+    "wins": 54,
+    "losses": 96,
+    "ties": 2,
+    "winrate": 0.3553,
     "decklists": [
+      {
+        "cards": [
+          "2 X Speed",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Leafeon ex (A2a-10)",
+          "2 Irida",
+          "2 Giant Cape",
+          "2 Erika",
+          "1 Sabrina",
+          "1 Pokémon Communication",
+          "1 Eevee (A1a-61)",
+          "1 Eevee (A1-206)",
+          "1 Cyrus",
+          "1 Celebi ex (A1a-3)"
+        ],
+        "player_count": 2,
+        "games": 14,
+        "wins": 3,
+        "losses": 11,
+        "ties": 0,
+        "winrate": 0.2143
+      },
       {
         "cards": [
           "2 Professor's Research",
           "2 Potion",
           "2 Poké Ball",
-          "2 Mewtwo ex (A1-129)",
-          "2 Leaf",
-          "2 Giratina ex (A2b-35)",
-          "2 Giant Cape",
-          "2 Dawn",
+          "2 Leafeon ex (A2a-10)",
+          "2 Irida",
+          "2 Erika",
+          "2 Eevee (A1-206)",
           "1 Sabrina",
-          "1 Red",
-          "1 Iono",
-          "1 Cyrus"
-        ],
-        "player_count": 2,
-        "games": 15,
-        "wins": 10,
-        "losses": 5,
-        "ties": 0,
-        "winrate": 0.6667
-      },
-      {
-        "cards": [
-          "2 Rocky Helmet",
-          "2 Potion",
-          "2 Poké Ball",
-          "2 Mewtwo ex (A1-129)",
-          "2 Giratina ex (A2b-35)",
-          "2 Dawn",
-          "1 Sabrina",
-          "1 Red Card",
-          "1 Red",
-          "1 Leaf",
-          "1 Giovanni",
+          "1 Rocky Helmet",
+          "1 Pokémon Communication",
           "1 Giant Cape",
           "1 Cyrus",
-          "1 Blue"
+          "1 Celebi ex (A1a-3)"
         ],
-        "player_count": 1,
-        "games": 11,
-        "wins": 8,
-        "losses": 3,
+        "player_count": 2,
+        "games": 13,
+        "wins": 5,
+        "losses": 8,
         "ties": 0,
-        "winrate": 0.7273
+        "winrate": 0.3846
       }
     ]
   }
