@@ -1,7 +1,7 @@
 [
   {
     "deck_name": "Giratina ex Darkrai ex",
-    "share": 0.1543,
+    "share": 0.1541,
     "player_count": 1446,
     "games": 7451,
     "wins": 4022,
@@ -58,7 +58,7 @@
   },
   {
     "deck_name": "Gyarados ex Manaphy",
-    "share": 0.1008,
+    "share": 0.1007,
     "player_count": 945,
     "games": 4711,
     "wins": 2497,
@@ -115,7 +115,7 @@
   },
   {
     "deck_name": "Giratina ex Mewtwo ex",
-    "share": 0.0695,
+    "share": 0.0694,
     "player_count": 651,
     "games": 3276,
     "wins": 1723,
@@ -176,7 +176,7 @@
   },
   {
     "deck_name": "Gallade ex Hitmonlee",
-    "share": 0.0681,
+    "share": 0.068,
     "player_count": 638,
     "games": 3098,
     "wins": 1573,
@@ -291,13 +291,13 @@
   },
   {
     "deck_name": "Charizard ex Moltres ex",
-    "share": 0.0403,
-    "player_count": 378,
-    "games": 1719,
-    "wins": 819,
-    "losses": 888,
-    "ties": 12,
-    "winrate": 0.4764,
+    "share": 0.0407,
+    "player_count": 382,
+    "games": 1730,
+    "wins": 823,
+    "losses": 890,
+    "ties": 17,
+    "winrate": 0.4757,
     "decklists": [
       {
         "cards": [
@@ -575,7 +575,7 @@
   },
   {
     "deck_name": "Exeggutor ex Meowscarada",
-    "share": 0.0168,
+    "share": 0.0167,
     "player_count": 157,
     "games": 734,
     "wins": 358,
@@ -687,13 +687,13 @@
   },
   {
     "deck_name": "Articuno ex",
-    "share": 0.0152,
-    "player_count": 142,
-    "games": 630,
-    "wins": 299,
-    "losses": 327,
+    "share": 0.0153,
+    "player_count": 144,
+    "games": 638,
+    "wins": 304,
+    "losses": 330,
     "ties": 4,
-    "winrate": 0.4746,
+    "winrate": 0.4765,
     "decklists": [
       {
         "cards": [
@@ -743,7 +743,7 @@
   },
   {
     "deck_name": "Darkrai ex Greninja",
-    "share": 0.0136,
+    "share": 0.0135,
     "player_count": 127,
     "games": 635,
     "wins": 328,
