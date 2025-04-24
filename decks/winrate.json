@@ -1,13 +1,13 @@
 [
   {
     "deck_name": "Giratina ex Darkrai ex",
-    "share": 0.1844,
-    "player_count": 2116,
-    "games": 10768,
-    "wins": 5839,
-    "losses": 4755,
-    "ties": 174,
-    "winrate": 0.5423,
+    "share": 0.186,
+    "player_count": 2168,
+    "games": 11017,
+    "wins": 5978,
+    "losses": 4861,
+    "ties": 178,
+    "winrate": 0.5426,
     "decklists": [
       {
         "cards": [
@@ -59,7 +59,7 @@
   },
   {
     "deck_name": "Rampardos Hitmonlee",
-    "share": 0.0071,
+    "share": 0.007,
     "player_count": 81,
     "games": 409,
     "wins": 221,
@@ -116,7 +116,7 @@
   },
   {
     "deck_name": "Palkia ex Origin Forme Palkia",
-    "share": 0.0035,
+    "share": 0.0034,
     "player_count": 40,
     "games": 182,
     "wins": 97,
@@ -171,13 +171,13 @@
   },
   {
     "deck_name": "Gyarados ex Manaphy",
-    "share": 0.1008,
-    "player_count": 1157,
-    "games": 5726,
-    "wins": 3044,
-    "losses": 2605,
+    "share": 0.1,
+    "player_count": 1165,
+    "games": 5766,
+    "wins": 3068,
+    "losses": 2621,
     "ties": 77,
-    "winrate": 0.5316,
+    "winrate": 0.5321,
     "decklists": [
       {
         "cards": [
@@ -228,7 +228,7 @@
   },
   {
     "deck_name": "Darkrai ex Arceus ex",
-    "share": 0.0023,
+    "share": 0.0022,
     "player_count": 26,
     "games": 142,
     "wins": 75,
@@ -286,13 +286,13 @@
   },
   {
     "deck_name": "Magnezone Meowscarada",
-    "share": 0.0282,
-    "player_count": 324,
-    "games": 1627,
-    "wins": 859,
-    "losses": 755,
+    "share": 0.0283,
+    "player_count": 330,
+    "games": 1642,
+    "wins": 863,
+    "losses": 766,
     "ties": 13,
-    "winrate": 0.528,
+    "winrate": 0.5256,
     "decklists": [
       {
         "cards": [
@@ -341,11 +341,11 @@
   },
   {
     "deck_name": "Magnezone Skarmory",
-    "share": 0.0193,
-    "player_count": 221,
-    "games": 1124,
-    "wins": 590,
-    "losses": 525,
+    "share": 0.0192,
+    "player_count": 224,
+    "games": 1143,
+    "wins": 600,
+    "losses": 534,
     "ties": 9,
     "winrate": 0.5249,
     "decklists": [
@@ -397,13 +397,13 @@
   },
   {
     "deck_name": "Arceus ex Carnivine",
-    "share": 0.0146,
-    "player_count": 168,
-    "games": 847,
-    "wins": 439,
-    "losses": 400,
+    "share": 0.0148,
+    "player_count": 172,
+    "games": 861,
+    "wins": 445,
+    "losses": 408,
     "ties": 8,
-    "winrate": 0.5183,
+    "winrate": 0.5168,
     "decklists": [
       {
         "cards": [
@@ -456,13 +456,13 @@
   },
   {
     "deck_name": "Giratina ex Mewtwo ex",
-    "share": 0.0627,
-    "player_count": 719,
-    "games": 3533,
-    "wins": 1830,
-    "losses": 1658,
+    "share": 0.0624,
+    "player_count": 727,
+    "games": 3558,
+    "wins": 1838,
+    "losses": 1675,
     "ties": 45,
-    "winrate": 0.518,
+    "winrate": 0.5166,
     "decklists": [
       {
         "cards": [
@@ -517,7 +517,7 @@
   },
   {
     "deck_name": "Palkia ex Vaporeon",
-    "share": 0.0023,
+    "share": 0.0022,
     "player_count": 26,
     "games": 103,
     "wins": 53,
@@ -574,11 +574,11 @@
   },
   {
     "deck_name": "Weavile ex Darkrai ex",
-    "share": 0.0258,
-    "player_count": 296,
-    "games": 1461,
-    "wins": 750,
-    "losses": 696,
+    "share": 0.0256,
+    "player_count": 298,
+    "games": 1467,
+    "wins": 753,
+    "losses": 699,
     "ties": 15,
     "winrate": 0.5133,
     "decklists": [
@@ -632,12 +632,12 @@
   {
     "deck_name": "Darkrai ex Greninja",
     "share": 0.0122,
-    "player_count": 140,
-    "games": 692,
-    "wins": 355,
-    "losses": 331,
+    "player_count": 142,
+    "games": 702,
+    "wins": 360,
+    "losses": 336,
     "ties": 6,
-    "winrate": 0.513,
+    "winrate": 0.5128,
     "decklists": [
       {
         "cards": [
@@ -687,7 +687,7 @@
   },
   {
     "deck_name": "Palkia ex Manaphy",
-    "share": 0.0054,
+    "share": 0.0053,
     "player_count": 62,
     "games": 292,
     "wins": 148,
@@ -744,7 +744,7 @@
   },
   {
     "deck_name": "Beedrill ex Exeggutor ex",
-    "share": 0.0031,
+    "share": 0.003,
     "player_count": 35,
     "games": 170,
     "wins": 86,
@@ -799,7 +799,7 @@
   },
   {
     "deck_name": "Arceus ex Meowscarada",
-    "share": 0.0078,
+    "share": 0.0077,
     "player_count": 90,
     "games": 414,
     "wins": 209,
@@ -856,7 +856,7 @@
   },
   {
     "deck_name": "Gyarados ex Origin Forme Palkia",
-    "share": 0.003,
+    "share": 0.0029,
     "player_count": 34,
     "games": 157,
     "wins": 79,
@@ -912,13 +912,13 @@
   },
   {
     "deck_name": "Gallade ex Hitmonlee",
-    "share": 0.0611,
-    "player_count": 701,
-    "games": 3350,
-    "wins": 1684,
-    "losses": 1628,
+    "share": 0.0603,
+    "player_count": 703,
+    "games": 3355,
+    "wins": 1688,
+    "losses": 1629,
     "ties": 38,
-    "winrate": 0.5027,
+    "winrate": 0.5031,
     "decklists": [
       {
         "cards": [
@@ -968,7 +968,7 @@
   },
   {
     "deck_name": "Darkrai ex Giratina ex",
-    "share": 0.0085,
+    "share": 0.0084,
     "player_count": 98,
     "games": 435,
     "wins": 217,
@@ -1026,13 +1026,13 @@
   },
   {
     "deck_name": "Rampardos Lucario",
-    "share": 0.0316,
-    "player_count": 363,
-    "games": 1733,
-    "wins": 862,
-    "losses": 847,
+    "share": 0.0317,
+    "player_count": 370,
+    "games": 1763,
+    "wins": 876,
+    "losses": 863,
     "ties": 24,
-    "winrate": 0.4974,
+    "winrate": 0.4969,
     "decklists": [
       {
         "cards": [
