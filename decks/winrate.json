@@ -2,12 +2,12 @@
   {
     "deck_name": "Rampardos Hitmonlee",
     "share": 0.0069,
-    "player_count": 83,
-    "games": 422,
+    "player_count": 84,
+    "games": 424,
     "wins": 230,
-    "losses": 185,
+    "losses": 187,
     "ties": 7,
-    "winrate": 0.545,
+    "winrate": 0.5425,
     "decklists": [
       {
         "cards": [
@@ -58,13 +58,13 @@
   },
   {
     "deck_name": "Giratina ex Darkrai ex",
-    "share": 0.1903,
-    "player_count": 2292,
-    "games": 11647,
-    "wins": 6313,
-    "losses": 5154,
-    "ties": 180,
-    "winrate": 0.542,
+    "share": 0.1918,
+    "player_count": 2336,
+    "games": 11774,
+    "wins": 6375,
+    "losses": 5215,
+    "ties": 184,
+    "winrate": 0.5414,
     "decklists": [
       {
         "cards": [
@@ -116,11 +116,11 @@
   },
   {
     "deck_name": "Gyarados ex Manaphy",
-    "share": 0.1008,
-    "player_count": 1214,
-    "games": 6020,
-    "wins": 3211,
-    "losses": 2732,
+    "share": 0.1006,
+    "player_count": 1226,
+    "games": 6063,
+    "wins": 3234,
+    "losses": 2752,
     "ties": 77,
     "winrate": 0.5334,
     "decklists": [
@@ -228,7 +228,7 @@
   },
   {
     "deck_name": "Darkrai ex Arceus ex",
-    "share": 0.0022,
+    "share": 0.0021,
     "player_count": 26,
     "games": 142,
     "wins": 75,
@@ -286,13 +286,13 @@
   },
   {
     "deck_name": "Magnezone Meowscarada",
-    "share": 0.0287,
-    "player_count": 346,
-    "games": 1721,
-    "wins": 906,
-    "losses": 802,
+    "share": 0.0289,
+    "player_count": 352,
+    "games": 1737,
+    "wins": 915,
+    "losses": 809,
     "ties": 13,
-    "winrate": 0.5264,
+    "winrate": 0.5268,
     "decklists": [
       {
         "cards": [
@@ -341,13 +341,13 @@
   },
   {
     "deck_name": "Magnezone Skarmory",
-    "share": 0.0193,
-    "player_count": 232,
-    "games": 1174,
-    "wins": 613,
-    "losses": 552,
+    "share": 0.0192,
+    "player_count": 234,
+    "games": 1181,
+    "wins": 619,
+    "losses": 553,
     "ties": 9,
-    "winrate": 0.5221,
+    "winrate": 0.5241,
     "decklists": [
       {
         "cards": [
@@ -397,13 +397,13 @@
   },
   {
     "deck_name": "Arceus ex Carnivine",
-    "share": 0.0151,
-    "player_count": 182,
-    "games": 906,
-    "wins": 467,
-    "losses": 431,
+    "share": 0.0152,
+    "player_count": 185,
+    "games": 914,
+    "wins": 471,
+    "losses": 435,
     "ties": 8,
-    "winrate": 0.5155,
+    "winrate": 0.5153,
     "decklists": [
       {
         "cards": [
@@ -431,40 +431,39 @@
       },
       {
         "cards": [
-          "2 Rocky Helmet",
+          "2 Rotom (A2a-35)",
           "2 Professor's Research",
           "2 Poké Ball",
+          "2 Giovanni",
           "2 Carnivine (A2a-9)",
           "2 Arceus ex (A2a-71)",
+          "1 X Speed",
           "1 Shaymin (A2a-69)",
           "1 Sabrina",
-          "1 Rotom (A2a-35)",
-          "1 Rotom (A2-62)",
-          "1 Pokémon Communication",
-          "1 Leaf",
-          "1 Giovanni",
+          "1 Red",
+          "1 Iono",
           "1 Giant Cape",
           "1 Dawn",
           "1 Cyrus"
         ],
-        "player_count": 2,
-        "games": 19,
-        "wins": 13,
-        "losses": 5,
-        "ties": 1,
-        "winrate": 0.6842
+        "player_count": 3,
+        "games": 21,
+        "wins": 15,
+        "losses": 6,
+        "ties": 0,
+        "winrate": 0.7143
       }
     ]
   },
   {
     "deck_name": "Giratina ex Mewtwo ex",
-    "share": 0.061,
-    "player_count": 735,
-    "games": 3587,
-    "wins": 1848,
-    "losses": 1694,
+    "share": 0.0606,
+    "player_count": 738,
+    "games": 3591,
+    "wins": 1849,
+    "losses": 1697,
     "ties": 45,
-    "winrate": 0.5152,
+    "winrate": 0.5149,
     "decklists": [
       {
         "cards": [
@@ -519,7 +518,7 @@
   },
   {
     "deck_name": "Palkia ex Vaporeon",
-    "share": 0.0022,
+    "share": 0.0021,
     "player_count": 26,
     "games": 103,
     "wins": 53,
@@ -630,65 +629,8 @@
     ]
   },
   {
-    "deck_name": "Weavile ex Darkrai ex",
-    "share": 0.0255,
-    "player_count": 307,
-    "games": 1517,
-    "wins": 776,
-    "losses": 725,
-    "ties": 16,
-    "winrate": 0.5115,
-    "decklists": [
-      {
-        "cards": [
-          "2 Weavile ex (A2-99)",
-          "2 Sneasel (A2-98)",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Giant Cape",
-          "2 Darkrai ex (A2-110)",
-          "2 Cyrus",
-          "1 Sabrina",
-          "1 Red",
-          "1 Potion",
-          "1 Leaf",
-          "1 Giovanni",
-          "1 Dawn"
-        ],
-        "player_count": 3,
-        "games": 31,
-        "wins": 24,
-        "losses": 6,
-        "ties": 1,
-        "winrate": 0.7742
-      },
-      {
-        "cards": [
-          "2 Weavile ex (A2-99)",
-          "2 Sneasel (A2-98)",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Leaf",
-          "2 Giant Cape",
-          "2 Darkrai ex (A2-110)",
-          "2 Cyrus",
-          "1 Rocky Helmet",
-          "1 Red",
-          "1 Pokémon Communication",
-          "1 Dawn"
-        ],
-        "player_count": 2,
-        "games": 22,
-        "wins": 15,
-        "losses": 6,
-        "ties": 1,
-        "winrate": 0.6818
-      }
-    ]
-  },
-  {
     "deck_name": "Darkrai ex Greninja",
-    "share": 0.012,
+    "share": 0.0118,
     "player_count": 144,
     "games": 708,
     "wins": 361,
@@ -739,6 +681,63 @@
         "losses": 7,
         "ties": 2,
         "winrate": 0.6897
+      }
+    ]
+  },
+  {
+    "deck_name": "Weavile ex Darkrai ex",
+    "share": 0.0254,
+    "player_count": 309,
+    "games": 1524,
+    "wins": 776,
+    "losses": 732,
+    "ties": 16,
+    "winrate": 0.5092,
+    "decklists": [
+      {
+        "cards": [
+          "2 Weavile ex (A2-99)",
+          "2 Sneasel (A2-98)",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Giant Cape",
+          "2 Darkrai ex (A2-110)",
+          "2 Cyrus",
+          "1 Sabrina",
+          "1 Red",
+          "1 Potion",
+          "1 Leaf",
+          "1 Giovanni",
+          "1 Dawn"
+        ],
+        "player_count": 3,
+        "games": 31,
+        "wins": 24,
+        "losses": 6,
+        "ties": 1,
+        "winrate": 0.7742
+      },
+      {
+        "cards": [
+          "2 Weavile ex (A2-99)",
+          "2 Sneasel (A2-98)",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Leaf",
+          "2 Giant Cape",
+          "2 Darkrai ex (A2-110)",
+          "2 Cyrus",
+          "1 Rocky Helmet",
+          "1 Red",
+          "1 Pokémon Communication",
+          "1 Dawn"
+        ],
+        "player_count": 2,
+        "games": 22,
+        "wins": 15,
+        "losses": 6,
+        "ties": 1,
+        "winrate": 0.6818
       }
     ]
   },
@@ -856,11 +855,11 @@
   },
   {
     "deck_name": "Gallade ex Hitmonlee",
-    "share": 0.0588,
-    "player_count": 708,
-    "games": 3379,
-    "wins": 1702,
-    "losses": 1639,
+    "share": 0.0584,
+    "player_count": 711,
+    "games": 3385,
+    "wins": 1705,
+    "losses": 1642,
     "ties": 38,
     "winrate": 0.5037,
     "decklists": [
@@ -913,10 +912,10 @@
   {
     "deck_name": "Arceus ex Meowscarada",
     "share": 0.0077,
-    "player_count": 93,
-    "games": 427,
-    "wins": 215,
-    "losses": 208,
+    "player_count": 94,
+    "games": 429,
+    "wins": 216,
+    "losses": 209,
     "ties": 4,
     "winrate": 0.5035,
     "decklists": [
@@ -969,7 +968,7 @@
   },
   {
     "deck_name": "Darkrai ex Giratina ex",
-    "share": 0.0081,
+    "share": 0.008,
     "player_count": 98,
     "games": 435,
     "wins": 217,
@@ -1027,13 +1026,13 @@
   },
   {
     "deck_name": "Rampardos Lucario",
-    "share": 0.0325,
-    "player_count": 391,
-    "games": 1845,
-    "wins": 917,
-    "losses": 904,
+    "share": 0.0324,
+    "player_count": 395,
+    "games": 1855,
+    "wins": 921,
+    "losses": 910,
     "ties": 24,
-    "winrate": 0.497,
+    "winrate": 0.4965,
     "decklists": [
       {
         "cards": [
