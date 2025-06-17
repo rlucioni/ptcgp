@@ -58,77 +58,14 @@
     ]
   },
   {
-    "deck_name": "Tapu Koko ex",
-    "share": 0.0025,
-    "player_count": 21,
-    "games": 117,
-    "wins": 64,
-    "losses": 52,
-    "ties": 1,
-    "winrate": 0.547,
-    "decklists": [
-      {
-        "cards": [
-          "2 Tapu Koko ex (A3a-19)",
-          "2 Red Card",
-          "2 Professor's Research",
-          "2 Pokémon Center Lady",
-          "2 Poké Ball",
-          "1 Sabrina",
-          "1 Rocky Helmet",
-          "1 Repel",
-          "1 Red",
-          "1 Mars",
-          "1 Guzma",
-          "1 Giovanni",
-          "1 Giant Cape",
-          "1 Cyrus",
-          "1 Blue"
-        ],
-        "player_count": 4,
-        "games": 27,
-        "wins": 15,
-        "losses": 11,
-        "ties": 1,
-        "winrate": 0.5556
-      },
-      {
-        "cards": [
-          "2 Tapu Koko ex (A3a-19)",
-          "2 Professor's Research",
-          "2 Potion",
-          "2 Giant Cape",
-          "1 Sabrina",
-          "1 Repel",
-          "1 Red Card",
-          "1 Red",
-          "1 Pokémon Center Lady",
-          "1 Poké Ball",
-          "1 Oricorio (A3-66)",
-          "1 Mars",
-          "1 Iono",
-          "1 Guzma",
-          "1 Electrical Cord",
-          "1 Cyrus"
-        ],
-        "player_count": 3,
-        "games": 9,
-        "wins": 4,
-        "losses": 5,
-        "ties": 0,
-        "winrate": 0.4444
-      }
-    ]
-  },
-  {
     "deck_name": "Silvally Zeraora",
-    "share": 0.0197,
-    "player_count": 167,
-    "games": 935,
-    "wins": 510,
-    "losses": 409,
+    "share": 0.0199,
+    "player_count": 170,
+    "games": 956,
+    "wins": 521,
+    "losses": 419,
     "ties": 16,
-    "winrate": 0.5455,
+    "winrate": 0.545,
     "decklists": [
       {
         "cards": [
@@ -181,13 +118,13 @@
   },
   {
     "deck_name": "Magnezone Shiinotic",
-    "share": 0.0031,
-    "player_count": 26,
-    "games": 149,
-    "wins": 81,
-    "losses": 67,
+    "share": 0.0032,
+    "player_count": 27,
+    "games": 156,
+    "wins": 85,
+    "losses": 70,
     "ties": 1,
-    "winrate": 0.5436,
+    "winrate": 0.5449,
     "decklists": [
       {
         "cards": [
@@ -295,14 +232,74 @@
     ]
   },
   {
+    "deck_name": "Tapu Koko ex",
+    "share": 0.0026,
+    "player_count": 22,
+    "games": 121,
+    "wins": 65,
+    "losses": 55,
+    "ties": 1,
+    "winrate": 0.5372,
+    "decklists": [
+      {
+        "cards": [
+          "2 Tapu Koko ex (A3a-19)",
+          "2 Red Card",
+          "2 Professor's Research",
+          "2 Pokémon Center Lady",
+          "2 Poké Ball",
+          "1 Sabrina",
+          "1 Rocky Helmet",
+          "1 Repel",
+          "1 Red",
+          "1 Mars",
+          "1 Guzma",
+          "1 Giovanni",
+          "1 Giant Cape",
+          "1 Cyrus",
+          "1 Blue"
+        ],
+        "player_count": 4,
+        "games": 27,
+        "wins": 15,
+        "losses": 11,
+        "ties": 1,
+        "winrate": 0.5556
+      },
+      {
+        "cards": [
+          "2 Tapu Koko ex (A3a-19)",
+          "2 Rocky Helmet",
+          "2 Professor's Research",
+          "2 Potion",
+          "2 Pokémon Center Lady",
+          "2 Poké Ball",
+          "2 Cyrus",
+          "1 Sabrina",
+          "1 Repel",
+          "1 Oricorio (A3-66)",
+          "1 Mars",
+          "1 Guzma",
+          "1 Giovanni"
+        ],
+        "player_count": 2,
+        "games": 12,
+        "wins": 6,
+        "losses": 6,
+        "ties": 0,
+        "winrate": 0.5
+      }
+    ]
+  },
+  {
     "deck_name": "Buzzwole ex Celesteela",
-    "share": 0.0581,
-    "player_count": 493,
-    "games": 2671,
-    "wins": 1429,
-    "losses": 1199,
+    "share": 0.058,
+    "player_count": 494,
+    "games": 2680,
+    "wins": 1436,
+    "losses": 1201,
     "ties": 43,
-    "winrate": 0.535,
+    "winrate": 0.5358,
     "decklists": [
       {
         "cards": [
@@ -413,8 +410,64 @@
     ]
   },
   {
+    "deck_name": "Guzzlord ex Nihilego",
+    "share": 0.0316,
+    "player_count": 269,
+    "games": 1400,
+    "wins": 743,
+    "losses": 630,
+    "ties": 27,
+    "winrate": 0.5307,
+    "decklists": [
+      {
+        "cards": [
+          "2 Professor's Research",
+          "2 Pokémon Center Lady",
+          "2 Poké Ball",
+          "2 Poison Barb",
+          "2 Nihilego (A3a-42)",
+          "2 Lusamine",
+          "2 Guzzlord ex (A3a-43)",
+          "2 Celesteela (A3a-62)",
+          "1 Sabrina",
+          "1 Mars",
+          "1 Cyrus",
+          "1 Beastite"
+        ],
+        "player_count": 4,
+        "games": 42,
+        "wins": 32,
+        "losses": 10,
+        "ties": 0,
+        "winrate": 0.7619
+      },
+      {
+        "cards": [
+          "2 Professor's Research",
+          "2 Pokémon Center Lady",
+          "2 Poké Ball",
+          "2 Poison Barb",
+          "2 Nihilego (A3a-42)",
+          "2 Lusamine",
+          "2 Guzzlord ex (A3a-43)",
+          "2 Celesteela (A3a-62)",
+          "1 Sabrina",
+          "1 Red Card",
+          "1 Mars",
+          "1 Cyrus"
+        ],
+        "player_count": 3,
+        "games": 27,
+        "wins": 22,
+        "losses": 5,
+        "ties": 0,
+        "winrate": 0.8148
+      }
+    ]
+  },
+  {
     "deck_name": "Buzzwole ex Pheromosa",
-    "share": 0.1009,
+    "share": 0.1004,
     "player_count": 856,
     "games": 4463,
     "wins": 2362,
@@ -526,62 +579,6 @@
     ]
   },
   {
-    "deck_name": "Guzzlord ex Nihilego",
-    "share": 0.031,
-    "player_count": 263,
-    "games": 1358,
-    "wins": 718,
-    "losses": 613,
-    "ties": 27,
-    "winrate": 0.5287,
-    "decklists": [
-      {
-        "cards": [
-          "2 Professor's Research",
-          "2 Pokémon Center Lady",
-          "2 Poké Ball",
-          "2 Poison Barb",
-          "2 Nihilego (A3a-42)",
-          "2 Lusamine",
-          "2 Guzzlord ex (A3a-43)",
-          "2 Celesteela (A3a-62)",
-          "1 Sabrina",
-          "1 Mars",
-          "1 Cyrus",
-          "1 Beastite"
-        ],
-        "player_count": 3,
-        "games": 32,
-        "wins": 25,
-        "losses": 7,
-        "ties": 0,
-        "winrate": 0.7812
-      },
-      {
-        "cards": [
-          "2 Professor's Research",
-          "2 Pokémon Center Lady",
-          "2 Poké Ball",
-          "2 Poison Barb",
-          "2 Nihilego (A3a-42)",
-          "2 Lusamine",
-          "2 Guzzlord ex (A3a-43)",
-          "2 Celesteela (A3a-62)",
-          "1 Sabrina",
-          "1 Red Card",
-          "1 Mars",
-          "1 Cyrus"
-        ],
-        "player_count": 3,
-        "games": 27,
-        "wins": 22,
-        "losses": 5,
-        "ties": 0,
-        "winrate": 0.8148
-      }
-    ]
-  },
-  {
     "deck_name": "Guzzlord ex Naganadel",
     "share": 0.0113,
     "player_count": 96,
@@ -637,13 +634,13 @@
   },
   {
     "deck_name": "Silvally Rampardos",
-    "share": 0.1271,
-    "player_count": 1078,
-    "games": 5645,
-    "wins": 2956,
-    "losses": 2609,
+    "share": 0.1266,
+    "player_count": 1079,
+    "games": 5652,
+    "wins": 2960,
+    "losses": 2612,
     "ties": 80,
-    "winrate": 0.5236,
+    "winrate": 0.5237,
     "decklists": [
       {
         "cards": [
@@ -754,12 +751,12 @@
   {
     "deck_name": "Giratina ex Darkrai ex",
     "share": 0.0741,
-    "player_count": 628,
-    "games": 3274,
-    "wins": 1697,
-    "losses": 1525,
+    "player_count": 632,
+    "games": 3302,
+    "wins": 1719,
+    "losses": 1531,
     "ties": 52,
-    "winrate": 0.5183,
+    "winrate": 0.5206,
     "decklists": [
       {
         "cards": [
@@ -814,12 +811,12 @@
   {
     "deck_name": "Solgaleo ex Shiinotic",
     "share": 0.0894,
-    "player_count": 758,
-    "games": 4015,
-    "wins": 2069,
-    "losses": 1889,
-    "ties": 57,
-    "winrate": 0.5153,
+    "player_count": 762,
+    "games": 4028,
+    "wins": 2074,
+    "losses": 1896,
+    "ties": 58,
+    "winrate": 0.5149,
     "decklists": [
       {
         "cards": [
@@ -871,7 +868,7 @@
   },
   {
     "deck_name": "Giratina ex Magnezone",
-    "share": 0.0111,
+    "share": 0.011,
     "player_count": 94,
     "games": 470,
     "wins": 242,
@@ -930,7 +927,7 @@
   {
     "deck_name": "Silvally Oricorio",
     "share": 0.0178,
-    "player_count": 151,
+    "player_count": 152,
     "games": 768,
     "wins": 395,
     "losses": 362,
@@ -1045,12 +1042,12 @@
   {
     "deck_name": "Gallade ex Stoutland",
     "share": 0.011,
-    "player_count": 93,
-    "games": 472,
-    "wins": 240,
-    "losses": 230,
+    "player_count": 94,
+    "games": 478,
+    "wins": 243,
+    "losses": 233,
     "ties": 2,
-    "winrate": 0.5085,
+    "winrate": 0.5084,
     "decklists": [
       {
         "cards": [
@@ -1103,12 +1100,12 @@
   {
     "deck_name": "Silvally Blacephalon",
     "share": 0.0202,
-    "player_count": 171,
-    "games": 859,
-    "wins": 435,
-    "losses": 408,
+    "player_count": 172,
+    "games": 866,
+    "wins": 439,
+    "losses": 411,
     "ties": 16,
-    "winrate": 0.5064,
+    "winrate": 0.5069,
     "decklists": [
       {
         "cards": [
