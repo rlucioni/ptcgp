@@ -1,7 +1,7 @@
 [
   {
     "deck_name": "Sylveon ex Greninja",
-    "share": 0.1442,
+    "share": 0.1441,
     "player_count": 1165,
     "games": 6513,
     "wins": 3433,
@@ -57,11 +57,11 @@
   },
   {
     "deck_name": "Giratina ex Darkrai ex",
-    "share": 0.0755,
-    "player_count": 610,
-    "games": 3225,
-    "wins": 1700,
-    "losses": 1460,
+    "share": 0.0756,
+    "player_count": 611,
+    "games": 3231,
+    "wins": 1703,
+    "losses": 1463,
     "ties": 65,
     "winrate": 0.5271,
     "decklists": [
@@ -118,13 +118,13 @@
   },
   {
     "deck_name": "Charizard ex Sylveon ex",
-    "share": 0.0635,
-    "player_count": 513,
-    "games": 2755,
-    "wins": 1414,
-    "losses": 1285,
-    "ties": 56,
-    "winrate": 0.5132,
+    "share": 0.0636,
+    "player_count": 514,
+    "games": 2762,
+    "wins": 1419,
+    "losses": 1286,
+    "ties": 57,
+    "winrate": 0.5138,
     "decklists": [
       {
         "cards": [
@@ -231,7 +231,7 @@
   },
   {
     "deck_name": "Solgaleo ex Shiinotic",
-    "share": 0.043,
+    "share": 0.0429,
     "player_count": 347,
     "games": 1685,
     "wins": 792,
@@ -348,12 +348,12 @@
   {
     "deck_name": "Guzzlord ex Nihilego",
     "share": 0.0399,
-    "player_count": 322,
-    "games": 1645,
+    "player_count": 323,
+    "games": 1646,
     "wins": 830,
-    "losses": 772,
+    "losses": 773,
     "ties": 43,
-    "winrate": 0.5046,
+    "winrate": 0.5043,
     "decklists": [
       {
         "cards": [
@@ -405,7 +405,7 @@
   },
   {
     "deck_name": "Silvally Rampardos",
-    "share": 0.0337,
+    "share": 0.0336,
     "player_count": 272,
     "games": 1401,
     "wins": 694,
@@ -463,13 +463,13 @@
   },
   {
     "deck_name": "Buzzwole ex Celesteela",
-    "share": 0.0296,
-    "player_count": 239,
-    "games": 1264,
-    "wins": 625,
-    "losses": 604,
+    "share": 0.0297,
+    "player_count": 240,
+    "games": 1267,
+    "wins": 627,
+    "losses": 605,
     "ties": 35,
-    "winrate": 0.4945,
+    "winrate": 0.4949,
     "decklists": [
       {
         "cards": [
@@ -638,7 +638,7 @@
   },
   {
     "deck_name": "Garchomp ex Sylveon ex",
-    "share": 0.0212,
+    "share": 0.0211,
     "player_count": 171,
     "games": 900,
     "wins": 469,
@@ -696,7 +696,7 @@
   },
   {
     "deck_name": "Tapu Koko ex Arceus ex",
-    "share": 0.0175,
+    "share": 0.0174,
     "player_count": 141,
     "games": 789,
     "wins": 426,
@@ -988,13 +988,13 @@
   },
   {
     "deck_name": "Sylveon ex Solgaleo ex",
-    "share": 0.0118,
-    "player_count": 95,
-    "games": 473,
+    "share": 0.0119,
+    "player_count": 96,
+    "games": 476,
     "wins": 238,
-    "losses": 229,
+    "losses": 232,
     "ties": 6,
-    "winrate": 0.5032,
+    "winrate": 0.5,
     "decklists": [
       {
         "cards": [
@@ -1045,13 +1045,13 @@
   },
   {
     "deck_name": "Sylveon ex Magnezone",
-    "share": 0.0115,
-    "player_count": 93,
-    "games": 476,
-    "wins": 245,
-    "losses": 223,
+    "share": 0.0116,
+    "player_count": 94,
+    "games": 482,
+    "wins": 249,
+    "losses": 225,
     "ties": 8,
-    "winrate": 0.5147,
+    "winrate": 0.5166,
     "decklists": [
       {
         "cards": [
