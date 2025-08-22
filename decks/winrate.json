@@ -1,13 +1,13 @@
 [
   {
     "deck_name": "Arceus ex Pichu",
-    "share": 0.0196,
-    "player_count": 164,
-    "games": 947,
-    "wins": 521,
-    "losses": 415,
+    "share": 0.0197,
+    "player_count": 165,
+    "games": 951,
+    "wins": 522,
+    "losses": 418,
     "ties": 11,
-    "winrate": 0.5502,
+    "winrate": 0.5489,
     "decklists": [
       {
         "cards": [
@@ -59,13 +59,13 @@
   },
   {
     "deck_name": "Espeon ex Sylveon ex",
-    "share": 0.0787,
-    "player_count": 658,
-    "games": 3597,
-    "wins": 1954,
-    "losses": 1576,
+    "share": 0.0789,
+    "player_count": 660,
+    "games": 3604,
+    "wins": 1957,
+    "losses": 1580,
     "ties": 67,
-    "winrate": 0.5432,
+    "winrate": 0.543,
     "decklists": [
       {
         "cards": [
@@ -179,7 +179,7 @@
   },
   {
     "deck_name": "Silvally Arceus ex",
-    "share": 0.0034,
+    "share": 0.0033,
     "player_count": 28,
     "games": 153,
     "wins": 82,
@@ -299,12 +299,12 @@
   {
     "deck_name": "Buzzwole ex Pheromosa",
     "share": 0.0621,
-    "player_count": 519,
-    "games": 2919,
-    "wins": 1558,
-    "losses": 1309,
+    "player_count": 520,
+    "games": 2923,
+    "wins": 1561,
+    "losses": 1310,
     "ties": 52,
-    "winrate": 0.5337,
+    "winrate": 0.534,
     "decklists": [
       {
         "cards": [
@@ -410,7 +410,7 @@
   },
   {
     "deck_name": "Giratina ex Darkrai ex",
-    "share": 0.1238,
+    "share": 0.1237,
     "player_count": 1035,
     "games": 5620,
     "wins": 2996,
@@ -533,7 +533,7 @@
   },
   {
     "deck_name": "Silvally Oricorio",
-    "share": 0.0351,
+    "share": 0.035,
     "player_count": 293,
     "games": 1549,
     "wins": 813,
