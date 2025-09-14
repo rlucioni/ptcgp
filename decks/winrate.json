@@ -1,13 +1,13 @@
 [
   {
     "deck_name": "Silvally Zeraora",
-    "share": 0.0043,
-    "player_count": 22,
-    "games": 101,
-    "wins": 56,
-    "losses": 43,
-    "ties": 2,
-    "winrate": 0.5545,
+    "share": 0.0065,
+    "player_count": 35,
+    "games": 182,
+    "wins": 103,
+    "losses": 75,
+    "ties": 4,
+    "winrate": 0.5659,
     "decklists": [
       {
         "cards": [
@@ -23,12 +23,12 @@
           "1 Sabrina",
           "1 Mars"
         ],
-        "player_count": 8,
-        "games": 52,
-        "wins": 33,
-        "losses": 17,
-        "ties": 2,
-        "winrate": 0.6346
+        "player_count": 14,
+        "games": 107,
+        "wins": 70,
+        "losses": 34,
+        "ties": 3,
+        "winrate": 0.6542
       },
       {
         "cards": [
@@ -44,47 +44,25 @@
           "1 Mars",
           "1 Dawn"
         ],
-        "player_count": 6,
-        "games": 25,
-        "wins": 13,
-        "losses": 12,
-        "ties": 0,
-        "winrate": 0.52
+        "player_count": 4,
+        "games": 28,
+        "wins": 17,
+        "losses": 10,
+        "ties": 1,
+        "winrate": 0.6071
       }
     ]
   },
   {
     "deck_name": "Suicune ex Greninja",
-    "share": 0.1826,
-    "player_count": 931,
-    "games": 5353,
-    "wins": 2901,
-    "losses": 2365,
-    "ties": 87,
-    "winrate": 0.5419,
+    "share": 0.1876,
+    "player_count": 1003,
+    "games": 5769,
+    "wins": 3113,
+    "losses": 2545,
+    "ties": 111,
+    "winrate": 0.5396,
     "decklists": [
-      {
-        "cards": [
-          "2 Suicune ex (A4a-20)",
-          "2 Rare Candy",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Irida",
-          "2 Greninja (A1-89)",
-          "2 Froakie (A1-87)",
-          "2 Cyrus",
-          "1 Mars",
-          "1 Leaf",
-          "1 Giratina ex (A2b-35)",
-          "1 Giant Cape"
-        ],
-        "player_count": 4,
-        "games": 47,
-        "wins": 38,
-        "losses": 6,
-        "ties": 3,
-        "winrate": 0.8085
-      },
       {
         "cards": [
           "2 Suicune ex (A4a-20)",
@@ -107,18 +85,152 @@
         "losses": 6,
         "ties": 0,
         "winrate": 0.8378
+      },
+      {
+        "cards": [
+          "2 Suicune ex (A4a-20)",
+          "2 Rare Candy",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Irida",
+          "2 Greninja (A1-89)",
+          "2 Froakie (A1-87)",
+          "2 Cyrus",
+          "1 Mars",
+          "1 Leaf",
+          "1 Giratina ex (A2b-35)",
+          "1 Giant Cape"
+        ],
+        "player_count": 3,
+        "games": 36,
+        "wins": 30,
+        "losses": 5,
+        "ties": 1,
+        "winrate": 0.8333
+      }
+    ]
+  },
+  {
+    "deck_name": "Flareon ex Sylveon ex",
+    "share": 0.0039,
+    "player_count": 21,
+    "games": 156,
+    "wins": 84,
+    "losses": 66,
+    "ties": 6,
+    "winrate": 0.5385,
+    "decklists": [
+      {
+        "cards": [
+          "2 Sylveon ex (A3b-34)",
+          "2 Red",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Magby (A4-32)",
+          "2 Flareon ex (A3b-9)",
+          "2 Eevee ex (A3b-56)",
+          "2 Eevee Bag",
+          "2 Eevee (A4-134)",
+          "1 Repel",
+          "1 Flareon (A1-45)"
+        ],
+        "player_count": 7,
+        "games": 60,
+        "wins": 33,
+        "losses": 27,
+        "ties": 0,
+        "winrate": 0.55
+      },
+      {
+        "cards": [
+          "2 Red",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Magby (A4-32)",
+          "2 Flareon ex (A3b-9)",
+          "2 Eevee Bag",
+          "2 Eevee (A4-134)",
+          "1 Sylveon ex (A3b-34)",
+          "1 Repel",
+          "1 Mars",
+          "1 Giant Cape",
+          "1 Flareon (A1-45)",
+          "1 Eevee ex (A3b-56)"
+        ],
+        "player_count": 5,
+        "games": 42,
+        "wins": 23,
+        "losses": 16,
+        "ties": 3,
+        "winrate": 0.5476
+      }
+    ]
+  },
+  {
+    "deck_name": "Suicune ex Giratina ex",
+    "share": 0.0249,
+    "player_count": 133,
+    "games": 724,
+    "wins": 385,
+    "losses": 323,
+    "ties": 16,
+    "winrate": 0.5318,
+    "decklists": [
+      {
+        "cards": [
+          "2 Suicune ex (A4a-20)",
+          "2 Rare Candy",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Irida",
+          "2 Greninja (A1-89)",
+          "2 Giratina ex (A2b-35)",
+          "2 Froakie (A1-87)",
+          "1 Mars",
+          "1 Leaf",
+          "1 Giant Cape",
+          "1 Cyrus"
+        ],
+        "player_count": 16,
+        "games": 147,
+        "wins": 110,
+        "losses": 33,
+        "ties": 4,
+        "winrate": 0.7483
+      },
+      {
+        "cards": [
+          "2 Suicune ex (A4a-20)",
+          "2 Rare Candy",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Greninja (A1-89)",
+          "2 Giratina ex (A2b-35)",
+          "2 Froakie (A1-87)",
+          "2 Cyrus",
+          "1 Mars",
+          "1 Irida",
+          "1 Guzma",
+          "1 Giant Cape"
+        ],
+        "player_count": 1,
+        "games": 11,
+        "wins": 8,
+        "losses": 3,
+        "ties": 0,
+        "winrate": 0.7273
       }
     ]
   },
   {
     "deck_name": "Silvally Rampardos",
-    "share": 0.0165,
-    "player_count": 84,
-    "games": 524,
-    "wins": 280,
-    "losses": 232,
+    "share": 0.0163,
+    "player_count": 87,
+    "games": 534,
+    "wins": 283,
+    "losses": 239,
     "ties": 12,
-    "winrate": 0.5344,
+    "winrate": 0.53,
     "decklists": [
       {
         "cards": [
@@ -169,70 +281,131 @@
     ]
   },
   {
-    "deck_name": "Suicune ex Giratina ex",
-    "share": 0.0259,
-    "player_count": 132,
-    "games": 718,
-    "wins": 382,
-    "losses": 320,
-    "ties": 16,
-    "winrate": 0.532,
+    "deck_name": "Giratina ex Darkrai ex",
+    "share": 0.1034,
+    "player_count": 553,
+    "games": 3068,
+    "wins": 1606,
+    "losses": 1408,
+    "ties": 54,
+    "winrate": 0.5235,
     "decklists": [
       {
         "cards": [
-          "2 Suicune ex (A4a-20)",
-          "2 Rare Candy",
+          "2 Rocky Helmet",
           "2 Professor's Research",
           "2 Poké Ball",
-          "2 Irida",
-          "2 Greninja (A1-89)",
           "2 Giratina ex (A2b-35)",
-          "2 Froakie (A1-87)",
+          "2 Darkrai ex (A2-110)",
+          "1 Sabrina",
+          "1 Red Card",
+          "1 Red",
+          "1 Potion",
+          "1 Pokémon Center Lady",
           "1 Mars",
           "1 Leaf",
+          "1 Guzma",
           "1 Giant Cape",
           "1 Cyrus"
         ],
-        "player_count": 16,
-        "games": 147,
-        "wins": 110,
-        "losses": 33,
-        "ties": 4,
-        "winrate": 0.7483
+        "player_count": 4,
+        "games": 45,
+        "wins": 37,
+        "losses": 6,
+        "ties": 2,
+        "winrate": 0.8222
       },
       {
         "cards": [
-          "2 Suicune ex (A4a-20)",
+          "2 Rocky Helmet",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Giratina ex (A2b-35)",
+          "2 Darkrai ex (A2-110)",
+          "1 Silver",
+          "1 Sabrina",
+          "1 Red Card",
+          "1 Red",
+          "1 Potion",
+          "1 Pokémon Center Lady",
+          "1 Leaf",
+          "1 Guzma",
+          "1 Giant Cape",
+          "1 Cyrus"
+        ],
+        "player_count": 2,
+        "games": 27,
+        "wins": 21,
+        "losses": 6,
+        "ties": 0,
+        "winrate": 0.7778
+      }
+    ]
+  },
+  {
+    "deck_name": "Dragonite ex Sylveon ex",
+    "share": 0.0088,
+    "player_count": 47,
+    "games": 240,
+    "wins": 125,
+    "losses": 113,
+    "ties": 2,
+    "winrate": 0.5208,
+    "decklists": [
+      {
+        "cards": [
+          "2 Sylveon ex (A3b-34)",
           "2 Rare Candy",
           "2 Professor's Research",
           "2 Poké Ball",
-          "2 Greninja (A1-89)",
-          "2 Giratina ex (A2b-35)",
-          "2 Froakie (A1-87)",
-          "2 Cyrus",
-          "1 Mars",
-          "1 Irida",
-          "1 Guzma",
-          "1 Giant Cape"
+          "2 Pichu (A4-66)",
+          "2 Lyra",
+          "2 Eevee (A4-134)",
+          "2 Dratini (A3b-51)",
+          "2 Dragonite ex (A3b-53)",
+          "1 Silver",
+          "1 Dragonite (A1-185)"
         ],
-        "player_count": 1,
-        "games": 11,
-        "wins": 8,
-        "losses": 3,
-        "ties": 0,
-        "winrate": 0.7273
+        "player_count": 9,
+        "games": 65,
+        "wins": 47,
+        "losses": 17,
+        "ties": 1,
+        "winrate": 0.7231
+      },
+      {
+        "cards": [
+          "2 Sylveon ex (A3b-34)",
+          "2 Rare Candy",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Lyra",
+          "2 Eevee (A4-134)",
+          "2 Dratini (A1-183)",
+          "2 Dragonite ex (A3b-53)",
+          "1 Pichu (A4-66)",
+          "1 Mars",
+          "1 Mantyke (A4a-23)",
+          "1 Dragonite (A1-185)"
+        ],
+        "player_count": 4,
+        "games": 28,
+        "wins": 16,
+        "losses": 11,
+        "ties": 1,
+        "winrate": 0.5714
       }
     ]
   },
   {
     "deck_name": "Raikou ex Tapu Koko ex",
-    "share": 0.0102,
-    "player_count": 52,
-    "games": 281,
-    "wins": 148,
-    "losses": 129,
-    "ties": 4,
-    "winrate": 0.5267,
+    "share": 0.0108,
+    "player_count": 58,
+    "games": 317,
+    "wins": 165,
+    "losses": 147,
+    "ties": 5,
+    "winrate": 0.5205,
     "decklists": [
       {
         "cards": [
@@ -250,12 +423,12 @@
           "1 Guzma",
           "1 Cyrus"
         ],
-        "player_count": 5,
-        "games": 39,
-        "wins": 31,
-        "losses": 8,
-        "ties": 0,
-        "winrate": 0.7949
+        "player_count": 6,
+        "games": 48,
+        "wins": 36,
+        "losses": 11,
+        "ties": 1,
+        "winrate": 0.75
       },
       {
         "cards": [
@@ -283,186 +456,14 @@
     ]
   },
   {
-    "deck_name": "Flareon ex Sylveon ex",
-    "share": 0.0035,
-    "player_count": 18,
-    "games": 133,
-    "wins": 70,
-    "losses": 59,
-    "ties": 4,
-    "winrate": 0.5263,
-    "decklists": [
-      {
-        "cards": [
-          "2 Sylveon ex (A3b-34)",
-          "2 Red",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Magby (A4-32)",
-          "2 Flareon ex (A3b-9)",
-          "2 Eevee ex (A3b-56)",
-          "2 Eevee Bag",
-          "2 Eevee (A4-134)",
-          "1 Repel",
-          "1 Flareon (A1-45)"
-        ],
-        "player_count": 7,
-        "games": 53,
-        "wins": 25,
-        "losses": 28,
-        "ties": 0,
-        "winrate": 0.4717
-      },
-      {
-        "cards": [
-          "2 Red",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Magby (A4-32)",
-          "2 Flareon ex (A3b-9)",
-          "2 Eevee Bag",
-          "2 Eevee (A4-134)",
-          "1 Sylveon ex (A3b-34)",
-          "1 Repel",
-          "1 Mars",
-          "1 Giant Cape",
-          "1 Flareon (A1-45)",
-          "1 Eevee ex (A3b-56)"
-        ],
-        "player_count": 5,
-        "games": 42,
-        "wins": 23,
-        "losses": 16,
-        "ties": 3,
-        "winrate": 0.5476
-      }
-    ]
-  },
-  {
-    "deck_name": "Giratina ex Darkrai ex",
-    "share": 0.104,
-    "player_count": 530,
-    "games": 2908,
-    "wins": 1520,
-    "losses": 1343,
-    "ties": 45,
-    "winrate": 0.5227,
-    "decklists": [
-      {
-        "cards": [
-          "2 Rocky Helmet",
-          "2 Professor's Research",
-          "2 Potion",
-          "2 Poké Ball",
-          "2 Giratina ex (A2b-35)",
-          "2 Darkrai ex (A2-110)",
-          "1 Repel",
-          "1 Red",
-          "1 Pokémon Center Lady",
-          "1 Mars",
-          "1 Leaf",
-          "1 Guzma",
-          "1 Giant Cape",
-          "1 Cyrus"
-        ],
-        "player_count": 3,
-        "games": 34,
-        "wins": 26,
-        "losses": 7,
-        "ties": 1,
-        "winrate": 0.7647
-      },
-      {
-        "cards": [
-          "2 Rocky Helmet",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Giratina ex (A2b-35)",
-          "2 Darkrai ex (A2-110)",
-          "1 Sabrina",
-          "1 Red Card",
-          "1 Red",
-          "1 Potion",
-          "1 Pokémon Center Lady",
-          "1 Mars",
-          "1 Leaf",
-          "1 Guzma",
-          "1 Giant Cape",
-          "1 Cyrus"
-        ],
-        "player_count": 3,
-        "games": 33,
-        "wins": 28,
-        "losses": 4,
-        "ties": 1,
-        "winrate": 0.8485
-      }
-    ]
-  },
-  {
-    "deck_name": "Dragonite ex Sylveon ex",
-    "share": 0.0084,
-    "player_count": 43,
-    "games": 215,
-    "wins": 112,
-    "losses": 101,
-    "ties": 2,
-    "winrate": 0.5209,
-    "decklists": [
-      {
-        "cards": [
-          "2 Sylveon ex (A3b-34)",
-          "2 Rare Candy",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Pichu (A4-66)",
-          "2 Lyra",
-          "2 Eevee (A4-134)",
-          "2 Dratini (A3b-51)",
-          "2 Dragonite ex (A3b-53)",
-          "1 Silver",
-          "1 Dragonite (A1-185)"
-        ],
-        "player_count": 9,
-        "games": 63,
-        "wins": 45,
-        "losses": 17,
-        "ties": 1,
-        "winrate": 0.7143
-      },
-      {
-        "cards": [
-          "2 Sylveon ex (A3b-34)",
-          "2 Rare Candy",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Lyra",
-          "2 Eevee (A4-134)",
-          "2 Dratini (A1-183)",
-          "2 Dragonite ex (A3b-53)",
-          "1 Pichu (A4-66)",
-          "1 Mars",
-          "1 Mantyke (A4a-23)",
-          "1 Dragonite (A1-185)"
-        ],
-        "player_count": 3,
-        "games": 22,
-        "wins": 12,
-        "losses": 9,
-        "ties": 1,
-        "winrate": 0.5455
-      }
-    ]
-  },
-  {
     "deck_name": "Flareon ex Eevee ex",
-    "share": 0.0371,
-    "player_count": 189,
-    "games": 1060,
-    "wins": 551,
-    "losses": 499,
-    "ties": 10,
-    "winrate": 0.5198,
+    "share": 0.037,
+    "player_count": 198,
+    "games": 1110,
+    "wins": 576,
+    "losses": 523,
+    "ties": 11,
+    "winrate": 0.5189,
     "decklists": [
       {
         "cards": [
@@ -510,14 +511,126 @@
     ]
   },
   {
+    "deck_name": "Guzzlord ex Naganadel",
+    "share": 0.0073,
+    "player_count": 39,
+    "games": 193,
+    "wins": 99,
+    "losses": 88,
+    "ties": 6,
+    "winrate": 0.513,
+    "decklists": [
+      {
+        "cards": [
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Poison Barb",
+          "2 Poipole (A3a-44)",
+          "2 Nihilego (A3a-42)",
+          "2 Naganadel (A3a-45)",
+          "2 Lusamine",
+          "2 Guzzlord ex (A3a-43)",
+          "1 Sabrina",
+          "1 Mars",
+          "1 Cyrus",
+          "1 Celesteela (A3a-62)"
+        ],
+        "player_count": 6,
+        "games": 44,
+        "wins": 27,
+        "losses": 15,
+        "ties": 2,
+        "winrate": 0.6136
+      },
+      {
+        "cards": [
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Poison Barb",
+          "2 Poipole (A3a-44)",
+          "2 Nihilego (A3a-42)",
+          "2 Naganadel (A3a-45)",
+          "2 Lusamine",
+          "2 Guzzlord ex (A3a-43)",
+          "1 Pokémon Center Lady",
+          "1 Mars",
+          "1 Cyrus",
+          "1 Celesteela (A3a-62)"
+        ],
+        "player_count": 3,
+        "games": 26,
+        "wins": 17,
+        "losses": 7,
+        "ties": 2,
+        "winrate": 0.6538
+      }
+    ]
+  },
+  {
+    "deck_name": "Darkrai ex Arceus ex",
+    "share": 0.0273,
+    "player_count": 146,
+    "games": 821,
+    "wins": 421,
+    "losses": 387,
+    "ties": 13,
+    "winrate": 0.5128,
+    "decklists": [
+      {
+        "cards": [
+          "2 Red",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Pichu (A4-66)",
+          "2 Leaf",
+          "2 Komala (A3-141)",
+          "2 Darkrai ex (A2-110)",
+          "2 Arceus ex (A2a-71)",
+          "1 Mars",
+          "1 Mantyke (A4a-23)",
+          "1 Magby (A4-32)",
+          "1 Giant Cape"
+        ],
+        "player_count": 7,
+        "games": 74,
+        "wins": 56,
+        "losses": 13,
+        "ties": 5,
+        "winrate": 0.7568
+      },
+      {
+        "cards": [
+          "2 Red",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Pichu (A4-66)",
+          "2 Magby (A4-32)",
+          "2 Leaf",
+          "2 Darkrai ex (A2-110)",
+          "2 Arceus ex (A2a-71)",
+          "1 Pokémon Communication",
+          "1 Mars",
+          "1 Komala (A3-141)",
+          "1 Giant Cape"
+        ],
+        "player_count": 3,
+        "games": 28,
+        "wins": 21,
+        "losses": 7,
+        "ties": 0,
+        "winrate": 0.75
+      }
+    ]
+  },
+  {
     "deck_name": "Guzzlord ex",
-    "share": 0.0634,
-    "player_count": 323,
-    "games": 1755,
-    "wins": 908,
-    "losses": 806,
-    "ties": 41,
-    "winrate": 0.5174,
+    "share": 0.0636,
+    "player_count": 340,
+    "games": 1844,
+    "wins": 945,
+    "losses": 855,
+    "ties": 44,
+    "winrate": 0.5125,
     "decklists": [
       {
         "cards": [
@@ -570,128 +683,14 @@
     ]
   },
   {
-    "deck_name": "Donphan ex Rampardos",
-    "share": 0.0049,
-    "player_count": 25,
-    "games": 122,
-    "wins": 63,
-    "losses": 58,
-    "ties": 1,
-    "winrate": 0.5164,
-    "decklists": [
-      {
-        "cards": [
-          "2 Skull Fossil",
-          "2 Rare Candy",
-          "2 Rampardos (A2-89)",
-          "2 Professor's Research",
-          "2 Phanpy (A4a-43)",
-          "2 Memory Light",
-          "2 Donphan ex (A4-100)",
-          "1 Red",
-          "1 Pokémon Communication",
-          "1 Poké Ball",
-          "1 Leaf",
-          "1 Iono",
-          "1 Cranidos (A2-88)"
-        ],
-        "player_count": 4,
-        "games": 32,
-        "wins": 20,
-        "losses": 12,
-        "ties": 0,
-        "winrate": 0.625
-      },
-      {
-        "cards": [
-          "2 Skull Fossil",
-          "2 Rare Candy",
-          "2 Rampardos (A2-89)",
-          "2 Professor's Research",
-          "2 Phanpy (A4a-43)",
-          "2 Memory Light",
-          "2 Donphan ex (A4-100)",
-          "1 Sabrina",
-          "1 Red",
-          "1 Poké Ball",
-          "1 Iono",
-          "1 Cyrus",
-          "1 Cranidos (A2-88)"
-        ],
-        "player_count": 2,
-        "games": 10,
-        "wins": 5,
-        "losses": 5,
-        "ties": 0,
-        "winrate": 0.5
-      }
-    ]
-  },
-  {
-    "deck_name": "Darkrai ex Arceus ex",
-    "share": 0.0284,
-    "player_count": 145,
-    "games": 814,
-    "wins": 417,
-    "losses": 384,
-    "ties": 13,
-    "winrate": 0.5123,
-    "decklists": [
-      {
-        "cards": [
-          "2 Red",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Pichu (A4-66)",
-          "2 Leaf",
-          "2 Komala (A3-141)",
-          "2 Darkrai ex (A2-110)",
-          "2 Arceus ex (A2a-71)",
-          "1 Mars",
-          "1 Mantyke (A4a-23)",
-          "1 Magby (A4-32)",
-          "1 Giant Cape"
-        ],
-        "player_count": 7,
-        "games": 74,
-        "wins": 56,
-        "losses": 13,
-        "ties": 5,
-        "winrate": 0.7568
-      },
-      {
-        "cards": [
-          "2 Red",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Pichu (A4-66)",
-          "2 Magby (A4-32)",
-          "2 Leaf",
-          "2 Darkrai ex (A2-110)",
-          "2 Arceus ex (A2a-71)",
-          "1 Pokémon Communication",
-          "1 Mars",
-          "1 Komala (A3-141)",
-          "1 Giant Cape"
-        ],
-        "player_count": 3,
-        "games": 28,
-        "wins": 21,
-        "losses": 7,
-        "ties": 0,
-        "winrate": 0.75
-      }
-    ]
-  },
-  {
     "deck_name": "Buzzwole ex Pheromosa",
-    "share": 0.0304,
-    "player_count": 155,
-    "games": 825,
-    "wins": 421,
-    "losses": 392,
+    "share": 0.0294,
+    "player_count": 157,
+    "games": 832,
+    "wins": 423,
+    "losses": 397,
     "ties": 12,
-    "winrate": 0.5103,
+    "winrate": 0.5084,
     "decklists": [
       {
         "cards": [
@@ -742,13 +741,13 @@
   },
   {
     "deck_name": "Espeon ex Sylveon ex",
-    "share": 0.0445,
-    "player_count": 227,
-    "games": 1129,
-    "wins": 575,
-    "losses": 531,
+    "share": 0.0428,
+    "player_count": 229,
+    "games": 1137,
+    "wins": 577,
+    "losses": 537,
     "ties": 23,
-    "winrate": 0.5093,
+    "winrate": 0.5075,
     "decklists": [
       {
         "cards": [
@@ -800,131 +799,14 @@
     ]
   },
   {
-    "deck_name": "Guzzlord ex Naganadel",
-    "share": 0.0075,
-    "player_count": 38,
-    "games": 183,
-    "wins": 93,
-    "losses": 85,
-    "ties": 5,
-    "winrate": 0.5082,
-    "decklists": [
-      {
-        "cards": [
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Poison Barb",
-          "2 Poipole (A3a-44)",
-          "2 Nihilego (A3a-42)",
-          "2 Naganadel (A3a-45)",
-          "2 Lusamine",
-          "2 Guzzlord ex (A3a-43)",
-          "1 Sabrina",
-          "1 Mars",
-          "1 Cyrus",
-          "1 Celesteela (A3a-62)"
-        ],
-        "player_count": 6,
-        "games": 44,
-        "wins": 27,
-        "losses": 15,
-        "ties": 2,
-        "winrate": 0.6136
-      },
-      {
-        "cards": [
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Poison Barb",
-          "2 Poipole (A3a-44)",
-          "2 Nihilego (A3a-42)",
-          "2 Naganadel (A3a-45)",
-          "2 Lusamine",
-          "2 Guzzlord ex (A3a-43)",
-          "1 Pokémon Center Lady",
-          "1 Mars",
-          "1 Cyrus",
-          "1 Celesteela (A3a-62)"
-        ],
-        "player_count": 3,
-        "games": 26,
-        "wins": 17,
-        "losses": 7,
-        "ties": 2,
-        "winrate": 0.6538
-      }
-    ]
-  },
-  {
-    "deck_name": "Tapu Koko ex Oricorio",
-    "share": 0.0122,
-    "player_count": 62,
-    "games": 366,
-    "wins": 185,
-    "losses": 179,
-    "ties": 2,
-    "winrate": 0.5055,
-    "decklists": [
-      {
-        "cards": [
-          "2 Tapu Koko ex (A3a-19)",
-          "2 Red Card",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Oricorio (A3-66)",
-          "2 Cyrus",
-          "1 X Speed",
-          "1 Silver",
-          "1 Sabrina",
-          "1 Rocky Helmet",
-          "1 Potion",
-          "1 Pokémon Center Lady",
-          "1 Giovanni",
-          "1 Giant Cape"
-        ],
-        "player_count": 14,
-        "games": 137,
-        "wins": 98,
-        "losses": 39,
-        "ties": 0,
-        "winrate": 0.7153
-      },
-      {
-        "cards": [
-          "2 Tapu Koko ex (A3a-19)",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Oricorio (A3-66)",
-          "2 Cyrus",
-          "1 X Speed",
-          "1 Silver",
-          "1 Sabrina",
-          "1 Rocky Helmet",
-          "1 Red Card",
-          "1 Potion",
-          "1 Pokémon Center Lady",
-          "1 Mars",
-          "1 Giovanni",
-          "1 Giant Cape"
-        ],
-        "player_count": 1,
-        "games": 10,
-        "wins": 6,
-        "losses": 4,
-        "ties": 0,
-        "winrate": 0.6
-      }
-    ]
-  },
-  {
     "deck_name": "Greninja Oricorio",
-    "share": 0.019,
-    "player_count": 97,
-    "games": 479,
-    "wins": 242,
-    "losses": 227,
-    "ties": 10,
-    "winrate": 0.5052,
+    "share": 0.0189,
+    "player_count": 101,
+    "games": 502,
+    "wins": 254,
+    "losses": 236,
+    "ties": 12,
+    "winrate": 0.506,
     "decklists": [
       {
         "cards": [
@@ -941,46 +823,104 @@
           "1 Giratina ex (A2b-35)",
           "1 Frogadier (A1-88)"
         ],
-        "player_count": 11,
-        "games": 96,
-        "wins": 66,
-        "losses": 26,
+        "player_count": 10,
+        "games": 91,
+        "wins": 63,
+        "losses": 24,
         "ties": 4,
-        "winrate": 0.6875
+        "winrate": 0.6923
       },
       {
         "cards": [
           "2 Rare Candy",
           "2 Professor's Research",
+          "2 Pokémon Center Lady",
           "2 Poké Ball",
           "2 Oricorio (A3-66)",
-          "2 Irida",
           "2 Greninja (A1-89)",
           "2 Froakie (A1-87)",
           "2 Cyrus",
-          "1 Suicune ex (A4a-20)",
+          "1 Red Card",
           "1 Mars",
-          "1 Guzma",
-          "1 Giratina ex (A2b-35)"
+          "1 Giratina ex (A2b-35)",
+          "1 Frogadier (A1-88)"
         ],
-        "player_count": 3,
-        "games": 29,
-        "wins": 22,
-        "losses": 6,
-        "ties": 1,
-        "winrate": 0.7586
+        "player_count": 4,
+        "games": 30,
+        "wins": 21,
+        "losses": 7,
+        "ties": 2,
+        "winrate": 0.7
+      }
+    ]
+  },
+  {
+    "deck_name": "Donphan ex Rampardos",
+    "share": 0.0049,
+    "player_count": 26,
+    "games": 125,
+    "wins": 63,
+    "losses": 61,
+    "ties": 1,
+    "winrate": 0.504,
+    "decklists": [
+      {
+        "cards": [
+          "2 Skull Fossil",
+          "2 Rare Candy",
+          "2 Rampardos (A2-89)",
+          "2 Professor's Research",
+          "2 Phanpy (A4a-43)",
+          "2 Memory Light",
+          "2 Donphan ex (A4-100)",
+          "1 Red",
+          "1 Pokémon Communication",
+          "1 Poké Ball",
+          "1 Leaf",
+          "1 Iono",
+          "1 Cranidos (A2-88)"
+        ],
+        "player_count": 4,
+        "games": 32,
+        "wins": 20,
+        "losses": 12,
+        "ties": 0,
+        "winrate": 0.625
+      },
+      {
+        "cards": [
+          "2 Skull Fossil",
+          "2 Rare Candy",
+          "2 Rampardos (A2-89)",
+          "2 Professor's Research",
+          "2 Phanpy (A4a-43)",
+          "2 Memory Light",
+          "2 Donphan ex (A4-100)",
+          "1 Sabrina",
+          "1 Red",
+          "1 Poké Ball",
+          "1 Iono",
+          "1 Cyrus",
+          "1 Cranidos (A2-88)"
+        ],
+        "player_count": 2,
+        "games": 10,
+        "wins": 5,
+        "losses": 5,
+        "ties": 0,
+        "winrate": 0.5
       }
     ]
   },
   {
     "deck_name": "Silvally Oricorio",
-    "share": 0.0061,
-    "player_count": 31,
-    "games": 153,
-    "wins": 77,
-    "losses": 73,
+    "share": 0.006,
+    "player_count": 32,
+    "games": 157,
+    "wins": 79,
+    "losses": 75,
     "ties": 3,
-    "winrate": 0.5033,
+    "winrate": 0.5032,
     "decklists": [
       {
         "cards": [
@@ -1033,14 +973,75 @@
     ]
   },
   {
+    "deck_name": "Tapu Koko ex Oricorio",
+    "share": 0.0129,
+    "player_count": 69,
+    "games": 397,
+    "wins": 197,
+    "losses": 196,
+    "ties": 4,
+    "winrate": 0.4962,
+    "decklists": [
+      {
+        "cards": [
+          "2 Tapu Koko ex (A3a-19)",
+          "2 Red Card",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Oricorio (A3-66)",
+          "2 Cyrus",
+          "1 X Speed",
+          "1 Silver",
+          "1 Sabrina",
+          "1 Rocky Helmet",
+          "1 Potion",
+          "1 Pokémon Center Lady",
+          "1 Giovanni",
+          "1 Giant Cape"
+        ],
+        "player_count": 15,
+        "games": 145,
+        "wins": 102,
+        "losses": 42,
+        "ties": 1,
+        "winrate": 0.7034
+      },
+      {
+        "cards": [
+          "2 Tapu Koko ex (A3a-19)",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Oricorio (A3-66)",
+          "2 Cyrus",
+          "1 X Speed",
+          "1 Silver",
+          "1 Sabrina",
+          "1 Rocky Helmet",
+          "1 Red Card",
+          "1 Potion",
+          "1 Pokémon Center Lady",
+          "1 Mars",
+          "1 Giovanni",
+          "1 Giant Cape"
+        ],
+        "player_count": 1,
+        "games": 10,
+        "wins": 6,
+        "losses": 4,
+        "ties": 0,
+        "winrate": 0.6
+      }
+    ]
+  },
+  {
     "deck_name": "Arceus ex Pichu",
-    "share": 0.0282,
-    "player_count": 144,
-    "games": 702,
-    "wins": 347,
-    "losses": 349,
+    "share": 0.0271,
+    "player_count": 145,
+    "games": 706,
+    "wins": 348,
+    "losses": 352,
     "ties": 6,
-    "winrate": 0.4943,
+    "winrate": 0.4929,
     "decklists": [
       {
         "cards": [
@@ -1091,8 +1092,8 @@
   },
   {
     "deck_name": "Solgaleo ex Entei ex",
-    "share": 0.0082,
-    "player_count": 42,
+    "share": 0.008,
+    "player_count": 43,
     "games": 219,
     "wins": 107,
     "losses": 107,
