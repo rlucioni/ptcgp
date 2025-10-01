@@ -119,13 +119,13 @@
   },
   {
     "deck_name": "Suicune ex Greninja",
-    "share": 0.1988,
-    "player_count": 1790,
-    "games": 9877,
-    "wins": 5264,
-    "losses": 4405,
-    "ties": 208,
-    "winrate": 0.533,
+    "share": 0.1972,
+    "player_count": 1792,
+    "games": 9892,
+    "wins": 5273,
+    "losses": 4410,
+    "ties": 209,
+    "winrate": 0.5331,
     "decklists": [
       {
         "cards": [
@@ -177,7 +177,7 @@
   },
   {
     "deck_name": "Suicune ex Giratina ex",
-    "share": 0.0157,
+    "share": 0.0155,
     "player_count": 141,
     "games": 759,
     "wins": 399,
@@ -233,13 +233,13 @@
   },
   {
     "deck_name": "Giratina ex Darkrai ex",
-    "share": 0.1186,
-    "player_count": 1068,
-    "games": 5835,
-    "wins": 3033,
-    "losses": 2645,
+    "share": 0.1176,
+    "player_count": 1069,
+    "games": 5841,
+    "wins": 3035,
+    "losses": 2649,
     "ties": 157,
-    "winrate": 0.5198,
+    "winrate": 0.5196,
     "decklists": [
       {
         "cards": [
@@ -295,7 +295,7 @@
   },
   {
     "deck_name": "Flareon ex Eevee ex",
-    "share": 0.038,
+    "share": 0.0376,
     "player_count": 342,
     "games": 1867,
     "wins": 969,
@@ -350,7 +350,7 @@
   },
   {
     "deck_name": "Crobat ex Darkrai ex",
-    "share": 0.0047,
+    "share": 0.0046,
     "player_count": 42,
     "games": 223,
     "wins": 115,
@@ -409,7 +409,7 @@
   },
   {
     "deck_name": "Silvally Rampardos",
-    "share": 0.0128,
+    "share": 0.0127,
     "player_count": 115,
     "games": 682,
     "wins": 351,
@@ -467,7 +467,7 @@
   },
   {
     "deck_name": "Guzzlord ex",
-    "share": 0.0696,
+    "share": 0.069,
     "player_count": 627,
     "games": 3303,
     "wins": 1693,
@@ -527,7 +527,7 @@
   },
   {
     "deck_name": "Silvally Zeraora",
-    "share": 0.0127,
+    "share": 0.0125,
     "player_count": 114,
     "games": 592,
     "wins": 302,
@@ -583,7 +583,7 @@
   },
   {
     "deck_name": "Flareon ex Sylveon ex",
-    "share": 0.0036,
+    "share": 0.0035,
     "player_count": 32,
     "games": 212,
     "wins": 108,
@@ -697,7 +697,7 @@
   },
   {
     "deck_name": "Raikou ex Tapu Koko ex",
-    "share": 0.0116,
+    "share": 0.0114,
     "player_count": 104,
     "games": 530,
     "wins": 269,
@@ -816,7 +816,7 @@
   },
   {
     "deck_name": "Greninja Oricorio",
-    "share": 0.0132,
+    "share": 0.0131,
     "player_count": 119,
     "games": 594,
     "wins": 301,
@@ -872,7 +872,7 @@
   },
   {
     "deck_name": "Darkrai ex Arceus ex",
-    "share": 0.0244,
+    "share": 0.0242,
     "player_count": 220,
     "games": 1194,
     "wins": 603,
@@ -1042,7 +1042,7 @@
   },
   {
     "deck_name": "Dragonite ex Sylveon ex",
-    "share": 0.0116,
+    "share": 0.0114,
     "player_count": 104,
     "games": 519,
     "wins": 260,
