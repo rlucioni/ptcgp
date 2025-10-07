@@ -1,13 +1,13 @@
 [
   {
     "deck_name": "Suicune ex Greninja",
-    "share": 0.201,
-    "player_count": 2059,
-    "games": 11339,
+    "share": 0.2002,
+    "player_count": 2060,
+    "games": 11340,
     "wins": 6016,
-    "losses": 5070,
+    "losses": 5071,
     "ties": 253,
-    "winrate": 0.5306,
+    "winrate": 0.5305,
     "decklists": [
       {
         "cards": [
@@ -59,7 +59,7 @@
   },
   {
     "deck_name": "Giratina ex Darkrai ex",
-    "share": 0.1218,
+    "share": 0.1213,
     "player_count": 1248,
     "games": 6800,
     "wins": 3515,
@@ -121,13 +121,13 @@
   },
   {
     "deck_name": "Guzzlord ex",
-    "share": 0.0682,
-    "player_count": 699,
-    "games": 3648,
+    "share": 0.068,
+    "player_count": 700,
+    "games": 3649,
     "wins": 1849,
-    "losses": 1713,
+    "losses": 1714,
     "ties": 86,
-    "winrate": 0.5069,
+    "winrate": 0.5067,
     "decklists": [
       {
         "cards": [
@@ -181,13 +181,13 @@
   },
   {
     "deck_name": "Flareon ex Eevee ex",
-    "share": 0.0422,
-    "player_count": 432,
-    "games": 2334,
-    "wins": 1211,
-    "losses": 1084,
+    "share": 0.0423,
+    "player_count": 435,
+    "games": 2342,
+    "wins": 1216,
+    "losses": 1087,
     "ties": 39,
-    "winrate": 0.5189,
+    "winrate": 0.5192,
     "decklists": [
       {
         "cards": [
@@ -236,7 +236,7 @@
   },
   {
     "deck_name": "Espeon ex Sylveon ex",
-    "share": 0.0291,
+    "share": 0.029,
     "player_count": 298,
     "games": 1460,
     "wins": 726,
@@ -295,7 +295,7 @@
   },
   {
     "deck_name": "Darkrai ex Arceus ex",
-    "share": 0.0226,
+    "share": 0.0225,
     "player_count": 232,
     "games": 1257,
     "wins": 632,
@@ -351,7 +351,7 @@
   },
   {
     "deck_name": "Buzzwole ex Pheromosa",
-    "share": 0.0224,
+    "share": 0.0223,
     "player_count": 229,
     "games": 1177,
     "wins": 587,
@@ -466,7 +466,7 @@
   },
   {
     "deck_name": "Dragonite ex Dragonite",
-    "share": 0.0169,
+    "share": 0.0168,
     "player_count": 173,
     "games": 835,
     "wins": 390,
@@ -526,7 +526,7 @@
   },
   {
     "deck_name": "Suicune ex Giratina ex",
-    "share": 0.0141,
+    "share": 0.014,
     "player_count": 144,
     "games": 766,
     "wins": 400,
@@ -582,7 +582,7 @@
   },
   {
     "deck_name": "Raikou ex Magnezone",
-    "share": 0.0135,
+    "share": 0.0134,
     "player_count": 138,
     "games": 667,
     "wins": 315,
@@ -1099,12 +1099,12 @@
   {
     "deck_name": "Exeggutor ex Alolan Exeggutor",
     "share": 0.0089,
-    "player_count": 91,
-    "games": 462,
+    "player_count": 92,
+    "games": 463,
     "wins": 209,
-    "losses": 248,
+    "losses": 249,
     "ties": 5,
-    "winrate": 0.4524,
+    "winrate": 0.4514,
     "decklists": [
       {
         "cards": [
