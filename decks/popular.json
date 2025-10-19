@@ -2,10 +2,10 @@
   {
     "deck_name": "Suicune ex Greninja",
     "share": 0.1935,
-    "player_count": 2466,
-    "games": 13269,
+    "player_count": 2468,
+    "games": 13271,
     "wins": 6992,
-    "losses": 5971,
+    "losses": 5973,
     "ties": 306,
     "winrate": 0.5269,
     "decklists": [
@@ -59,7 +59,7 @@
   },
   {
     "deck_name": "Giratina ex Darkrai ex",
-    "share": 0.1136,
+    "share": 0.1135,
     "player_count": 1448,
     "games": 7736,
     "wins": 3980,
@@ -122,11 +122,11 @@
   {
     "deck_name": "Guzzlord ex",
     "share": 0.063,
-    "player_count": 803,
-    "games": 4186,
-    "wins": 2124,
-    "losses": 1962,
-    "ties": 100,
+    "player_count": 804,
+    "games": 4192,
+    "wins": 2127,
+    "losses": 1964,
+    "ties": 101,
     "winrate": 0.5074,
     "decklists": [
       {
@@ -181,7 +181,7 @@
   },
   {
     "deck_name": "Flareon ex Eevee ex",
-    "share": 0.045,
+    "share": 0.0449,
     "player_count": 573,
     "games": 3015,
     "wins": 1544,
@@ -236,7 +236,7 @@
   },
   {
     "deck_name": "Espeon ex Sylveon ex",
-    "share": 0.0275,
+    "share": 0.0274,
     "player_count": 350,
     "games": 1744,
     "wins": 880,
@@ -295,13 +295,13 @@
   },
   {
     "deck_name": "Darkrai ex Arceus ex",
-    "share": 0.0206,
-    "player_count": 263,
-    "games": 1409,
-    "wins": 712,
-    "losses": 670,
+    "share": 0.0207,
+    "player_count": 264,
+    "games": 1414,
+    "wins": 715,
+    "losses": 672,
     "ties": 27,
-    "winrate": 0.5053,
+    "winrate": 0.5057,
     "decklists": [
       {
         "cards": [
@@ -580,13 +580,13 @@
   },
   {
     "deck_name": "Charizard ex",
-    "share": 0.0124,
-    "player_count": 158,
-    "games": 789,
-    "wins": 392,
-    "losses": 380,
+    "share": 0.0125,
+    "player_count": 159,
+    "games": 796,
+    "wins": 397,
+    "losses": 382,
     "ties": 17,
-    "winrate": 0.4968,
+    "winrate": 0.4987,
     "decklists": [
       {
         "cards": [
@@ -978,7 +978,7 @@
   },
   {
     "deck_name": "Tapu Koko ex Oricorio",
-    "share": 0.0097,
+    "share": 0.0096,
     "player_count": 123,
     "games": 652,
     "wins": 319,

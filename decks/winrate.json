@@ -120,13 +120,13 @@
   },
   {
     "deck_name": "Pikachu ex Tapu Koko ex",
-    "share": 0.0061,
-    "player_count": 78,
-    "games": 420,
-    "wins": 231,
-    "losses": 179,
-    "ties": 10,
-    "winrate": 0.55,
+    "share": 0.0062,
+    "player_count": 79,
+    "games": 427,
+    "wins": 236,
+    "losses": 180,
+    "ties": 11,
+    "winrate": 0.5527,
     "decklists": [
       {
         "cards": [
@@ -236,12 +236,69 @@
     ]
   },
   {
+    "deck_name": "Tapu Koko ex Pikachu ex",
+    "share": 0.0072,
+    "player_count": 92,
+    "games": 434,
+    "wins": 229,
+    "losses": 200,
+    "ties": 5,
+    "winrate": 0.5276,
+    "decklists": [
+      {
+        "cards": [
+          "2 Zeraora (A3a-21)",
+          "2 Tapu Koko ex (A3a-19)",
+          "2 Silver",
+          "2 Red Card",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Oricorio (A3-66)",
+          "2 Elemental Switch",
+          "2 Cyrus",
+          "1 Pikachu ex (A2b-22)",
+          "1 Guzma"
+        ],
+        "player_count": 4,
+        "games": 31,
+        "wins": 21,
+        "losses": 10,
+        "ties": 0,
+        "winrate": 0.6774
+      },
+      {
+        "cards": [
+          "2 Zeraora (A3a-21)",
+          "2 Tapu Koko ex (A3a-19)",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Oricorio (A3-66)",
+          "2 Elemental Switch",
+          "1 Repel",
+          "1 Red",
+          "1 Pikachu ex (A2b-22)",
+          "1 Mars",
+          "1 Guzma",
+          "1 Giant Cape",
+          "1 Electrical Cord",
+          "1 Cyrus"
+        ],
+        "player_count": 2,
+        "games": 17,
+        "wins": 12,
+        "losses": 5,
+        "ties": 0,
+        "winrate": 0.7059
+      }
+    ]
+  },
+  {
     "deck_name": "Suicune ex Greninja",
     "share": 0.1935,
-    "player_count": 2466,
-    "games": 13269,
+    "player_count": 2468,
+    "games": 13271,
     "wins": 6992,
-    "losses": 5971,
+    "losses": 5973,
     "ties": 306,
     "winrate": 0.5269,
     "decklists": [
@@ -290,63 +347,6 @@
         "losses": 6,
         "ties": 3,
         "winrate": 0.8085
-      }
-    ]
-  },
-  {
-    "deck_name": "Tapu Koko ex Pikachu ex",
-    "share": 0.0071,
-    "player_count": 91,
-    "games": 431,
-    "wins": 227,
-    "losses": 199,
-    "ties": 5,
-    "winrate": 0.5267,
-    "decklists": [
-      {
-        "cards": [
-          "2 Zeraora (A3a-21)",
-          "2 Tapu Koko ex (A3a-19)",
-          "2 Silver",
-          "2 Red Card",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Oricorio (A3-66)",
-          "2 Elemental Switch",
-          "2 Cyrus",
-          "1 Pikachu ex (A2b-22)",
-          "1 Guzma"
-        ],
-        "player_count": 4,
-        "games": 31,
-        "wins": 21,
-        "losses": 10,
-        "ties": 0,
-        "winrate": 0.6774
-      },
-      {
-        "cards": [
-          "2 Zeraora (A3a-21)",
-          "2 Tapu Koko ex (A3a-19)",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Oricorio (A3-66)",
-          "2 Elemental Switch",
-          "1 Repel",
-          "1 Red",
-          "1 Pikachu ex (A2b-22)",
-          "1 Mars",
-          "1 Guzma",
-          "1 Giant Cape",
-          "1 Electrical Cord",
-          "1 Cyrus"
-        ],
-        "player_count": 2,
-        "games": 17,
-        "wins": 12,
-        "losses": 5,
-        "ties": 0,
-        "winrate": 0.7059
       }
     ]
   },
@@ -408,13 +408,13 @@
   },
   {
     "deck_name": "Snorlax ex Darkrai ex",
-    "share": 0.0046,
-    "player_count": 59,
-    "games": 305,
-    "wins": 158,
-    "losses": 140,
+    "share": 0.0047,
+    "player_count": 60,
+    "games": 309,
+    "wins": 159,
+    "losses": 143,
     "ties": 7,
-    "winrate": 0.518,
+    "winrate": 0.5146,
     "decklists": [
       {
         "cards": [
@@ -464,7 +464,7 @@
   },
   {
     "deck_name": "Giratina ex Darkrai ex",
-    "share": 0.1136,
+    "share": 0.1135,
     "player_count": 1448,
     "games": 7736,
     "wins": 3980,
@@ -526,7 +526,7 @@
   },
   {
     "deck_name": "Flareon ex Eevee ex",
-    "share": 0.045,
+    "share": 0.0449,
     "player_count": 573,
     "games": 3015,
     "wins": 1544,
@@ -639,7 +639,7 @@
   },
   {
     "deck_name": "Incineroar ex",
-    "share": 0.0035,
+    "share": 0.0034,
     "player_count": 44,
     "games": 249,
     "wins": 127,
@@ -756,11 +756,11 @@
   {
     "deck_name": "Guzzlord ex",
     "share": 0.063,
-    "player_count": 803,
-    "games": 4186,
-    "wins": 2124,
-    "losses": 1962,
-    "ties": 100,
+    "player_count": 804,
+    "games": 4192,
+    "wins": 2127,
+    "losses": 1964,
+    "ties": 101,
     "winrate": 0.5074,
     "decklists": [
       {
@@ -1044,13 +1044,13 @@
   },
   {
     "deck_name": "Darkrai ex Arceus ex",
-    "share": 0.0206,
-    "player_count": 263,
-    "games": 1409,
-    "wins": 712,
-    "losses": 670,
+    "share": 0.0207,
+    "player_count": 264,
+    "games": 1414,
+    "wins": 715,
+    "losses": 672,
     "ties": 27,
-    "winrate": 0.5053,
+    "winrate": 0.5057,
     "decklists": [
       {
         "cards": [
