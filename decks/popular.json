@@ -1,7 +1,7 @@
 [
   {
     "deck_name": "Suicune ex Greninja",
-    "share": 0.1862,
+    "share": 0.1856,
     "player_count": 2509,
     "games": 13483,
     "wins": 7099,
@@ -59,7 +59,7 @@
   },
   {
     "deck_name": "Giratina ex Darkrai ex",
-    "share": 0.1121,
+    "share": 0.1118,
     "player_count": 1511,
     "games": 8013,
     "wins": 4109,
@@ -121,11 +121,11 @@
   },
   {
     "deck_name": "Guzzlord ex",
-    "share": 0.0621,
-    "player_count": 837,
-    "games": 4382,
-    "wins": 2219,
-    "losses": 2049,
+    "share": 0.062,
+    "player_count": 838,
+    "games": 4386,
+    "wins": 2221,
+    "losses": 2051,
     "ties": 114,
     "winrate": 0.5064,
     "decklists": [
@@ -181,7 +181,7 @@
   },
   {
     "deck_name": "Flareon ex Eevee ex",
-    "share": 0.0458,
+    "share": 0.0456,
     "player_count": 617,
     "games": 3251,
     "wins": 1672,
@@ -236,7 +236,7 @@
   },
   {
     "deck_name": "Espeon ex Sylveon ex",
-    "share": 0.0275,
+    "share": 0.0274,
     "player_count": 371,
     "games": 1848,
     "wins": 931,
@@ -295,13 +295,13 @@
   },
   {
     "deck_name": "Darkrai ex Arceus ex",
-    "share": 0.0218,
-    "player_count": 294,
-    "games": 1575,
-    "wins": 803,
-    "losses": 739,
+    "share": 0.0219,
+    "player_count": 296,
+    "games": 1580,
+    "wins": 806,
+    "losses": 741,
     "ties": 33,
-    "winrate": 0.5098,
+    "winrate": 0.5101,
     "decklists": [
       {
         "cards": [
@@ -351,7 +351,7 @@
   },
   {
     "deck_name": "Buzzwole ex Pheromosa",
-    "share": 0.0209,
+    "share": 0.0208,
     "player_count": 281,
     "games": 1459,
     "wins": 733,
@@ -466,7 +466,7 @@
   },
   {
     "deck_name": "Arceus ex Pichu",
-    "share": 0.0163,
+    "share": 0.0162,
     "player_count": 219,
     "games": 1118,
     "wins": 563,
@@ -694,13 +694,13 @@
   },
   {
     "deck_name": "Silvally Rampardos",
-    "share": 0.0119,
-    "player_count": 161,
-    "games": 914,
-    "wins": 466,
-    "losses": 419,
+    "share": 0.012,
+    "player_count": 162,
+    "games": 918,
+    "wins": 469,
+    "losses": 420,
     "ties": 29,
-    "winrate": 0.5098,
+    "winrate": 0.5109,
     "decklists": [
       {
         "cards": [
@@ -867,7 +867,7 @@
   },
   {
     "deck_name": "Suicune ex Giratina ex",
-    "share": 0.0111,
+    "share": 0.011,
     "player_count": 149,
     "games": 795,
     "wins": 417,
@@ -977,7 +977,7 @@
   },
   {
     "deck_name": "Tapu Koko ex Oricorio",
-    "share": 0.0093,
+    "share": 0.0092,
     "player_count": 125,
     "games": 658,
     "wins": 321,
@@ -1038,7 +1038,7 @@
   },
   {
     "deck_name": "Raikou ex Pikachu ex",
-    "share": 0.0088,
+    "share": 0.0087,
     "player_count": 118,
     "games": 606,
     "wins": 274,
