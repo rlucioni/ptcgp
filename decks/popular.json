@@ -2,12 +2,12 @@
   {
     "deck_name": "Suicune ex Greninja ex",
     "share": 0.0978,
-    "player_count": 1960,
-    "games": 10660,
-    "wins": 5572,
-    "losses": 4894,
+    "player_count": 1966,
+    "games": 10688,
+    "wins": 5585,
+    "losses": 4909,
     "ties": 194,
-    "winrate": 0.5227,
+    "winrate": 0.5225,
     "decklists": [
       {
         "cards": [
@@ -60,12 +60,12 @@
   {
     "deck_name": "Mega Altaria ex Indeedee ex",
     "share": 0.0926,
-    "player_count": 1857,
-    "games": 10347,
-    "wins": 5460,
-    "losses": 4679,
+    "player_count": 1861,
+    "games": 10369,
+    "wins": 5473,
+    "losses": 4688,
     "ties": 208,
-    "winrate": 0.5277,
+    "winrate": 0.5278,
     "decklists": [
       {
         "cards": [
@@ -117,13 +117,13 @@
   },
   {
     "deck_name": "Hydreigon Mega Absol ex",
-    "share": 0.0852,
-    "player_count": 1708,
-    "games": 9209,
-    "wins": 4706,
-    "losses": 4291,
-    "ties": 212,
-    "winrate": 0.511,
+    "share": 0.0851,
+    "player_count": 1711,
+    "games": 9231,
+    "wins": 4722,
+    "losses": 4296,
+    "ties": 213,
+    "winrate": 0.5115,
     "decklists": [
       {
         "cards": [
@@ -173,7 +173,7 @@
   },
   {
     "deck_name": "Mega Absol ex Darkrai ex",
-    "share": 0.0713,
+    "share": 0.0712,
     "player_count": 1430,
     "games": 7679,
     "wins": 3969,
@@ -233,13 +233,13 @@
   },
   {
     "deck_name": "Mega Blaziken ex Heatmor",
-    "share": 0.0563,
-    "player_count": 1128,
-    "games": 6304,
-    "wins": 3243,
-    "losses": 2929,
+    "share": 0.0562,
+    "player_count": 1130,
+    "games": 6313,
+    "wins": 3248,
+    "losses": 2933,
     "ties": 132,
-    "winrate": 0.5144,
+    "winrate": 0.5145,
     "decklists": [
       {
         "cards": [
@@ -292,12 +292,12 @@
   {
     "deck_name": "Magnezone Oricorio",
     "share": 0.0485,
-    "player_count": 973,
-    "games": 5364,
-    "wins": 2791,
-    "losses": 2429,
+    "player_count": 974,
+    "games": 5369,
+    "wins": 2794,
+    "losses": 2431,
     "ties": 144,
-    "winrate": 0.5203,
+    "winrate": 0.5204,
     "decklists": [
       {
         "cards": [
@@ -347,13 +347,13 @@
   },
   {
     "deck_name": "Greninja ex Suicune ex",
-    "share": 0.0442,
-    "player_count": 885,
-    "games": 4881,
-    "wins": 2575,
-    "losses": 2209,
+    "share": 0.0441,
+    "player_count": 886,
+    "games": 4885,
+    "wins": 2577,
+    "losses": 2211,
     "ties": 97,
-    "winrate": 0.5276,
+    "winrate": 0.5275,
     "decklists": [
       {
         "cards": [
@@ -405,13 +405,13 @@
   },
   {
     "deck_name": "Decidueye ex Decidueye",
-    "share": 0.0374,
-    "player_count": 749,
-    "games": 3875,
-    "wins": 1911,
-    "losses": 1882,
+    "share": 0.0376,
+    "player_count": 755,
+    "games": 3912,
+    "wins": 1934,
+    "losses": 1896,
     "ties": 82,
-    "winrate": 0.4932,
+    "winrate": 0.4944,
     "decklists": [
       {
         "cards": [
@@ -460,7 +460,7 @@
   },
   {
     "deck_name": "Mega Blaziken ex Entei ex",
-    "share": 0.034,
+    "share": 0.0339,
     "player_count": 681,
     "games": 3400,
     "wins": 1588,
@@ -519,12 +519,12 @@
   {
     "deck_name": "Mega Altaria ex Jirachi",
     "share": 0.0194,
-    "player_count": 388,
-    "games": 2072,
-    "wins": 1048,
-    "losses": 986,
+    "player_count": 389,
+    "games": 2078,
+    "wins": 1052,
+    "losses": 988,
     "ties": 38,
-    "winrate": 0.5058,
+    "winrate": 0.5063,
     "decklists": [
       {
         "cards": [
@@ -577,13 +577,13 @@
   },
   {
     "deck_name": "Greninja Mega Absol ex",
-    "share": 0.0185,
-    "player_count": 371,
-    "games": 1998,
-    "wins": 1026,
-    "losses": 926,
+    "share": 0.0188,
+    "player_count": 377,
+    "games": 2026,
+    "wins": 1039,
+    "losses": 941,
     "ties": 46,
-    "winrate": 0.5135,
+    "winrate": 0.5128,
     "decklists": [
       {
         "cards": [
@@ -632,7 +632,7 @@
   },
   {
     "deck_name": "Greninja Oricorio",
-    "share": 0.0153,
+    "share": 0.0152,
     "player_count": 306,
     "games": 1623,
     "wins": 841,
