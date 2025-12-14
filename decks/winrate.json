@@ -298,13 +298,13 @@
   },
   {
     "deck_name": "Mega Altaria ex Indeedee ex",
-    "share": 0.0934,
-    "player_count": 2079,
-    "games": 11529,
-    "wins": 6054,
-    "losses": 5232,
+    "share": 0.0932,
+    "player_count": 2083,
+    "games": 11545,
+    "wins": 6061,
+    "losses": 5241,
     "ties": 243,
-    "winrate": 0.5251,
+    "winrate": 0.525,
     "decklists": [
       {
         "cards": [
@@ -356,11 +356,11 @@
   },
   {
     "deck_name": "Greninja ex Suicune ex",
-    "share": 0.0442,
-    "player_count": 985,
-    "games": 5387,
-    "wins": 2821,
-    "losses": 2454,
+    "share": 0.0441,
+    "player_count": 986,
+    "games": 5389,
+    "wins": 2822,
+    "losses": 2455,
     "ties": 112,
     "winrate": 0.5237,
     "decklists": [
@@ -413,13 +413,13 @@
   },
   {
     "deck_name": "Magnezone Oricorio",
-    "share": 0.0497,
-    "player_count": 1106,
-    "games": 6116,
-    "wins": 3197,
-    "losses": 2762,
-    "ties": 157,
-    "winrate": 0.5227,
+    "share": 0.0498,
+    "player_count": 1114,
+    "games": 6156,
+    "wins": 3223,
+    "losses": 2775,
+    "ties": 158,
+    "winrate": 0.5236,
     "decklists": [
       {
         "cards": [
@@ -469,13 +469,13 @@
   },
   {
     "deck_name": "Suicune ex Greninja ex",
-    "share": 0.1089,
-    "player_count": 2424,
-    "games": 13098,
-    "wins": 6829,
-    "losses": 6010,
+    "share": 0.1093,
+    "player_count": 2443,
+    "games": 13162,
+    "wins": 6862,
+    "losses": 6041,
     "ties": 259,
-    "winrate": 0.5214,
+    "winrate": 0.5213,
     "decklists": [
       {
         "cards": [
@@ -526,63 +526,8 @@
     ]
   },
   {
-    "deck_name": "Greninja Mega Absol ex",
-    "share": 0.0242,
-    "player_count": 540,
-    "games": 2894,
-    "wins": 1500,
-    "losses": 1315,
-    "ties": 79,
-    "winrate": 0.5183,
-    "decklists": [
-      {
-        "cards": [
-          "2 Rocky Helmet",
-          "2 Rare Candy",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Greninja (A1-89)",
-          "2 Froakie (A1-87)",
-          "2 Copycat",
-          "2 Chingling (B1-109)",
-          "1 Red Card",
-          "1 Mega Absol ex (B1-151)",
-          "1 Darkrai ex (A2-110)",
-          "1 Cyrus"
-        ],
-        "player_count": 6,
-        "games": 67,
-        "wins": 54,
-        "losses": 10,
-        "ties": 3,
-        "winrate": 0.806
-      },
-      {
-        "cards": [
-          "2 Rocky Helmet",
-          "2 Rare Candy",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Greninja (A1-89)",
-          "2 Froakie (A1-87)",
-          "2 Cyrus",
-          "2 Copycat",
-          "2 Chingling (B1-109)",
-          "1 Mega Absol ex (B1-151)",
-          "1 Darkrai ex (A2-110)"
-        ],
-        "player_count": 5,
-        "games": 50,
-        "wins": 41,
-        "losses": 7,
-        "ties": 2,
-        "winrate": 0.82
-      }
-    ]
-  },
-  {
     "deck_name": "Mega Absol ex Chingling",
-    "share": 0.0062,
+    "share": 0.0061,
     "player_count": 137,
     "games": 770,
     "wins": 399,
@@ -634,6 +579,61 @@
         "losses": 6,
         "ties": 0,
         "winrate": 0.7143
+      }
+    ]
+  },
+  {
+    "deck_name": "Greninja Mega Absol ex",
+    "share": 0.0245,
+    "player_count": 548,
+    "games": 2938,
+    "wins": 1521,
+    "losses": 1338,
+    "ties": 79,
+    "winrate": 0.5177,
+    "decklists": [
+      {
+        "cards": [
+          "2 Rocky Helmet",
+          "2 Rare Candy",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Greninja (A1-89)",
+          "2 Froakie (A1-87)",
+          "2 Copycat",
+          "2 Chingling (B1-109)",
+          "1 Red Card",
+          "1 Mega Absol ex (B1-151)",
+          "1 Darkrai ex (A2-110)",
+          "1 Cyrus"
+        ],
+        "player_count": 6,
+        "games": 67,
+        "wins": 54,
+        "losses": 10,
+        "ties": 3,
+        "winrate": 0.806
+      },
+      {
+        "cards": [
+          "2 Rocky Helmet",
+          "2 Rare Candy",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Greninja (A1-89)",
+          "2 Froakie (A1-87)",
+          "2 Cyrus",
+          "2 Copycat",
+          "2 Chingling (B1-109)",
+          "1 Mega Absol ex (B1-151)",
+          "1 Darkrai ex (A2-110)"
+        ],
+        "player_count": 5,
+        "games": 50,
+        "wins": 41,
+        "losses": 7,
+        "ties": 2,
+        "winrate": 0.82
       }
     ]
   },
@@ -697,7 +697,7 @@
   },
   {
     "deck_name": "Greninja Oricorio",
-    "share": 0.015,
+    "share": 0.0149,
     "player_count": 334,
     "games": 1748,
     "wins": 902,
@@ -751,13 +751,13 @@
   },
   {
     "deck_name": "Mega Absol ex Darkrai ex",
-    "share": 0.0648,
-    "player_count": 1443,
-    "games": 7728,
-    "wins": 3987,
-    "losses": 3578,
+    "share": 0.0647,
+    "player_count": 1445,
+    "games": 7736,
+    "wins": 3990,
+    "losses": 3583,
     "ties": 163,
-    "winrate": 0.5159,
+    "winrate": 0.5158,
     "decklists": [
       {
         "cards": [
@@ -811,7 +811,7 @@
   },
   {
     "deck_name": "Mega Altaria ex Altaria",
-    "share": 0.0044,
+    "share": 0.0043,
     "player_count": 97,
     "games": 501,
     "wins": 258,
@@ -930,12 +930,12 @@
   {
     "deck_name": "Mega Blaziken ex Heatmor",
     "share": 0.0545,
-    "player_count": 1213,
-    "games": 6726,
-    "wins": 3441,
-    "losses": 3145,
+    "player_count": 1219,
+    "games": 6751,
+    "wins": 3453,
+    "losses": 3158,
     "ties": 140,
-    "winrate": 0.5116,
+    "winrate": 0.5115,
     "decklists": [
       {
         "cards": [
@@ -987,13 +987,13 @@
   },
   {
     "deck_name": "Hydreigon Mega Absol ex",
-    "share": 0.0881,
-    "player_count": 1962,
-    "games": 10495,
-    "wins": 5354,
-    "losses": 4898,
+    "share": 0.0879,
+    "player_count": 1964,
+    "games": 10510,
+    "wins": 5364,
+    "losses": 4903,
     "ties": 243,
-    "winrate": 0.5101,
+    "winrate": 0.5104,
     "decklists": [
       {
         "cards": [
