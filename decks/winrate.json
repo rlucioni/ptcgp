@@ -1,13 +1,129 @@
 [
   {
+    "deck_name": "Greninja ex Suicune ex",
+    "share": 0.0066,
+    "player_count": 63,
+    "games": 378,
+    "wins": 206,
+    "losses": 161,
+    "ties": 11,
+    "winrate": 0.545,
+    "decklists": [
+      {
+        "cards": [
+          "2 Suicune ex (A4a-20)",
+          "2 Rare Candy",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Greninja ex (B1-73)",
+          "2 Froakie (B1-71)",
+          "2 Cyrus",
+          "1 Mars",
+          "1 Irida",
+          "1 Indeedee ex (B1-121)",
+          "1 Greninja (A1-89)",
+          "1 Giant Cape",
+          "1 Frogadier (B1-72)"
+        ],
+        "player_count": 4,
+        "games": 42,
+        "wins": 30,
+        "losses": 10,
+        "ties": 2,
+        "winrate": 0.7143
+      },
+      {
+        "cards": [
+          "2 Suicune ex (A4a-20)",
+          "2 Rare Candy",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Greninja ex (B1-73)",
+          "2 Giant Cape",
+          "2 Froakie (B1-71)",
+          "1 Mars",
+          "1 Irida",
+          "1 Indeedee ex (B1-121)",
+          "1 Greninja (A1-89)",
+          "1 Frogadier (B1-72)",
+          "1 Cyrus"
+        ],
+        "player_count": 2,
+        "games": 20,
+        "wins": 14,
+        "losses": 5,
+        "ties": 1,
+        "winrate": 0.7
+      }
+    ]
+  },
+  {
+    "deck_name": "Buzzwole ex Celesteela",
+    "share": 0.0022,
+    "player_count": 21,
+    "games": 112,
+    "wins": 61,
+    "losses": 49,
+    "ties": 2,
+    "winrate": 0.5446,
+    "decklists": [
+      {
+        "cards": [
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Lusamine",
+          "2 Leaf Cape",
+          "2 Kartana (A3a-8)",
+          "2 Celesteela (A3a-62)",
+          "2 Buzzwole ex (A3a-6)",
+          "1 Pheromosa (A3a-7)",
+          "1 Guzma",
+          "1 Giovanni",
+          "1 Erika",
+          "1 Cyrus",
+          "1 Copycat"
+        ],
+        "player_count": 3,
+        "games": 27,
+        "wins": 18,
+        "losses": 9,
+        "ties": 0,
+        "winrate": 0.6667
+      },
+      {
+        "cards": [
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Lusamine",
+          "2 Erika",
+          "2 Cyrus",
+          "2 Celesteela (A3a-62)",
+          "2 Buzzwole ex (A3a-6)",
+          "1 Red",
+          "1 Pheromosa (A3a-7)",
+          "1 Mars",
+          "1 Leaf Cape",
+          "1 Kartana (A3a-8)",
+          "1 Guzma"
+        ],
+        "player_count": 2,
+        "games": 16,
+        "wins": 10,
+        "losses": 6,
+        "ties": 0,
+        "winrate": 0.625
+      }
+    ]
+  },
+  {
     "deck_name": "Suicune ex Greninja ex",
-    "share": 0.0933,
-    "player_count": 746,
-    "games": 4314,
-    "wins": 2333,
-    "losses": 1871,
-    "ties": 110,
-    "winrate": 0.5408,
+    "share": 0.1092,
+    "player_count": 1048,
+    "games": 6036,
+    "wins": 3251,
+    "losses": 2646,
+    "ties": 139,
+    "winrate": 0.5386,
     "decklists": [
       {
         "cards": [
@@ -25,12 +141,12 @@
           "1 Giant Cape",
           "1 Frogadier (A1-88)"
         ],
-        "player_count": 9,
-        "games": 113,
-        "wins": 91,
-        "losses": 16,
+        "player_count": 12,
+        "games": 159,
+        "wins": 130,
+        "losses": 23,
         "ties": 6,
-        "winrate": 0.8053
+        "winrate": 0.8176
       },
       {
         "cards": [
@@ -48,82 +164,24 @@
           "1 Giant Cape",
           "1 Copycat"
         ],
-        "player_count": 6,
-        "games": 72,
-        "wins": 60,
-        "losses": 9,
-        "ties": 3,
-        "winrate": 0.8333
-      }
-    ]
-  },
-  {
-    "deck_name": "Mega Altaria ex Chingling",
-    "share": 0.0033,
-    "player_count": 26,
-    "games": 151,
-    "wins": 81,
-    "losses": 66,
-    "ties": 4,
-    "winrate": 0.5364,
-    "decklists": [
-      {
-        "cards": [
-          "2 Swablu (B1-196)",
-          "2 Rocky Helmet",
-          "2 Professor's Research",
-          "2 Mega Altaria ex (B1-102)",
-          "2 Lisia",
-          "2 Furfrou (B1a-65)",
-          "2 Cyrus",
-          "2 Chingling (B1-109)",
-          "1 Red Card",
-          "1 Poké Ball",
-          "1 Mars",
-          "1 Copycat"
-        ],
-        "player_count": 2,
-        "games": 17,
-        "wins": 10,
-        "losses": 7,
-        "ties": 0,
-        "winrate": 0.5882
-      },
-      {
-        "cards": [
-          "2 Swablu (B1-196)",
-          "2 Rocky Helmet",
-          "2 Professor's Research",
-          "2 Mega Altaria ex (B1-102)",
-          "2 Furfrou (B1a-65)",
-          "2 Chingling (B1-109)",
-          "1 Sabrina",
-          "1 Red Card",
-          "1 Red",
-          "1 Poké Ball",
-          "1 Mars",
-          "1 Lisia",
-          "1 Cyrus",
-          "1 Copycat"
-        ],
-        "player_count": 2,
-        "games": 14,
-        "wins": 7,
-        "losses": 6,
-        "ties": 1,
-        "winrate": 0.5
+        "player_count": 4,
+        "games": 49,
+        "wins": 42,
+        "losses": 5,
+        "ties": 2,
+        "winrate": 0.8571
       }
     ]
   },
   {
     "deck_name": "Mega Altaria ex Furfrou",
-    "share": 0.0304,
-    "player_count": 243,
-    "games": 1453,
-    "wins": 778,
-    "losses": 621,
-    "ties": 54,
-    "winrate": 0.5354,
+    "share": 0.0333,
+    "player_count": 320,
+    "games": 1875,
+    "wins": 1008,
+    "losses": 809,
+    "ties": 58,
+    "winrate": 0.5376,
     "decklists": [
       {
         "cards": [
@@ -142,12 +200,12 @@
           "1 Copycat",
           "1 Chingling (B1-109)"
         ],
-        "player_count": 7,
-        "games": 80,
-        "wins": 60,
-        "losses": 15,
-        "ties": 5,
-        "winrate": 0.75
+        "player_count": 8,
+        "games": 95,
+        "wins": 76,
+        "losses": 16,
+        "ties": 3,
+        "winrate": 0.8
       },
       {
         "cards": [
@@ -169,78 +227,79 @@
         "player_count": 6,
         "games": 71,
         "wins": 50,
-        "losses": 15,
-        "ties": 6,
+        "losses": 16,
+        "ties": 5,
         "winrate": 0.7042
       }
     ]
   },
   {
-    "deck_name": "Greninja ex Suicune ex",
-    "share": 0.0056,
-    "player_count": 45,
-    "games": 256,
-    "wins": 136,
-    "losses": 114,
-    "ties": 6,
-    "winrate": 0.5312,
+    "deck_name": "Magnezone Oricorio",
+    "share": 0.0314,
+    "player_count": 301,
+    "games": 1752,
+    "wins": 928,
+    "losses": 784,
+    "ties": 40,
+    "winrate": 0.5297,
     "decklists": [
       {
         "cards": [
-          "2 Suicune ex (A4a-20)",
-          "2 Rare Candy",
           "2 Professor's Research",
           "2 Poké Ball",
-          "2 Greninja ex (B1-73)",
-          "2 Froakie (B1-71)",
-          "2 Cyrus",
-          "1 Mars",
-          "1 Irida",
-          "1 Indeedee ex (B1-121)",
-          "1 Greninja (A1-89)",
-          "1 Giant Cape",
-          "1 Frogadier (B1-72)"
+          "2 Oricorio (A3-66)",
+          "2 Magnezone (B1a-26)",
+          "2 Magneton (A1-98)",
+          "2 Magnemite (B1a-24)",
+          "2 Giant Cape",
+          "1 Red Card",
+          "1 Pokémon Center Lady",
+          "1 Guzma",
+          "1 Cyrus",
+          "1 Copycat",
+          "1 Clemont"
         ],
-        "player_count": 4,
-        "games": 35,
-        "wins": 21,
-        "losses": 12,
-        "ties": 2,
-        "winrate": 0.6
+        "player_count": 7,
+        "games": 84,
+        "wins": 67,
+        "losses": 16,
+        "ties": 1,
+        "winrate": 0.7976
       },
       {
         "cards": [
-          "2 Suicune ex (A4a-20)",
-          "2 Rare Candy",
           "2 Professor's Research",
           "2 Poké Ball",
-          "2 Irida",
-          "2 Greninja ex (B1-73)",
+          "2 Oricorio (A3-66)",
+          "2 Magneton (A1-98)",
+          "2 Magnemite (B1a-24)",
           "2 Giant Cape",
-          "2 Froakie (B1-71)",
-          "1 Mars",
-          "1 Greninja (A1-89)",
-          "1 Frogadier (B1-72)",
-          "1 Cyrus"
+          "2 Copycat",
+          "1 Red Card",
+          "1 Pokémon Center Lady",
+          "1 Magnezone (B1a-26)",
+          "1 Magnezone (A2-53)",
+          "1 Cyrus",
+          "1 Clemont"
         ],
-        "player_count": 3,
-        "games": 24,
-        "wins": 15,
-        "losses": 9,
-        "ties": 0,
-        "winrate": 0.625
+        "player_count": 4,
+        "games": 49,
+        "wins": 38,
+        "losses": 8,
+        "ties": 3,
+        "winrate": 0.7755
       }
     ]
   },
   {
     "deck_name": "Greninja Mega Absol ex",
-    "share": 0.032,
-    "player_count": 256,
-    "games": 1482,
-    "wins": 781,
-    "losses": 674,
-    "ties": 27,
-    "winrate": 0.527,
+    "share": 0.0318,
+    "player_count": 305,
+    "games": 1753,
+    "wins": 926,
+    "losses": 796,
+    "ties": 31,
+    "winrate": 0.5282,
     "decklists": [
       {
         "cards": [
@@ -258,11 +317,11 @@
           "1 Darkrai ex (A2-110)"
         ],
         "player_count": 14,
-        "games": 160,
-        "wins": 124,
-        "losses": 31,
+        "games": 161,
+        "wins": 127,
+        "losses": 29,
         "ties": 5,
-        "winrate": 0.775
+        "winrate": 0.7888
       },
       {
         "cards": [
@@ -289,14 +348,73 @@
     ]
   },
   {
+    "deck_name": "Mega Altaria ex Chingling",
+    "share": 0.0053,
+    "player_count": 51,
+    "games": 305,
+    "wins": 159,
+    "losses": 140,
+    "ties": 6,
+    "winrate": 0.5213,
+    "decklists": [
+      {
+        "cards": [
+          "2 Swablu (B1-196)",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Mega Altaria ex (B1-102)",
+          "2 Furfrou (B1a-65)",
+          "2 Chingling (B1-109)",
+          "1 Sabrina",
+          "1 Rocky Helmet",
+          "1 Red Card",
+          "1 Red",
+          "1 Mars",
+          "1 Lisia",
+          "1 Cyrus",
+          "1 Copycat"
+        ],
+        "player_count": 4,
+        "games": 40,
+        "wins": 24,
+        "losses": 14,
+        "ties": 2,
+        "winrate": 0.6
+      },
+      {
+        "cards": [
+          "2 Swablu (B1-196)",
+          "2 Rocky Helmet",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Mega Altaria ex (B1-102)",
+          "2 Furfrou (B1a-65)",
+          "2 Chingling (B1-109)",
+          "1 Repel",
+          "1 Red Card",
+          "1 Mars",
+          "1 Lisia",
+          "1 Cyrus",
+          "1 Copycat"
+        ],
+        "player_count": 4,
+        "games": 37,
+        "wins": 26,
+        "losses": 10,
+        "ties": 1,
+        "winrate": 0.7027
+      }
+    ]
+  },
+  {
     "deck_name": "Mega Altaria ex Greninja",
-    "share": 0.0656,
-    "player_count": 525,
-    "games": 3075,
-    "wins": 1619,
-    "losses": 1362,
-    "ties": 94,
-    "winrate": 0.5265,
+    "share": 0.0665,
+    "player_count": 638,
+    "games": 3679,
+    "wins": 1915,
+    "losses": 1660,
+    "ties": 104,
+    "winrate": 0.5205,
     "decklists": [
       {
         "cards": [
@@ -312,12 +430,12 @@
           "1 Poké Ball",
           "1 Lisia"
         ],
-        "player_count": 13,
-        "games": 155,
-        "wins": 117,
-        "losses": 27,
-        "ties": 11,
-        "winrate": 0.7548
+        "player_count": 11,
+        "games": 133,
+        "wins": 101,
+        "losses": 22,
+        "ties": 10,
+        "winrate": 0.7594
       },
       {
         "cards": [
@@ -343,13 +461,13 @@
   },
   {
     "deck_name": "Mega Altaria ex Indeedee ex",
-    "share": 0.0325,
-    "player_count": 260,
-    "games": 1503,
-    "wins": 790,
-    "losses": 679,
-    "ties": 34,
-    "winrate": 0.5256,
+    "share": 0.0356,
+    "player_count": 342,
+    "games": 1924,
+    "wins": 1000,
+    "losses": 884,
+    "ties": 40,
+    "winrate": 0.5198,
     "decklists": [
       {
         "cards": [
@@ -403,13 +521,13 @@
   },
   {
     "deck_name": "Hydreigon Mega Absol ex",
-    "share": 0.1018,
-    "player_count": 814,
-    "games": 4640,
-    "wins": 2422,
-    "losses": 2108,
-    "ties": 110,
-    "winrate": 0.522,
+    "share": 0.0946,
+    "player_count": 908,
+    "games": 5110,
+    "wins": 2652,
+    "losses": 2345,
+    "ties": 113,
+    "winrate": 0.519,
     "decklists": [
       {
         "cards": [
@@ -429,11 +547,11 @@
           "1 Chingling (B1-109)"
         ],
         "player_count": 5,
-        "games": 59,
-        "wins": 47,
-        "losses": 8,
-        "ties": 4,
-        "winrate": 0.7966
+        "games": 60,
+        "wins": 48,
+        "losses": 9,
+        "ties": 3,
+        "winrate": 0.8
       },
       {
         "cards": [
@@ -451,83 +569,24 @@
           "1 Cyrus",
           "1 Absol (A4-120)"
         ],
-        "player_count": 3,
-        "games": 37,
-        "wins": 26,
-        "losses": 8,
-        "ties": 3,
-        "winrate": 0.7027
-      }
-    ]
-  },
-  {
-    "deck_name": "Magnezone Oricorio",
-    "share": 0.0258,
-    "player_count": 206,
-    "games": 1154,
-    "wins": 595,
-    "losses": 527,
-    "ties": 32,
-    "winrate": 0.5156,
-    "decklists": [
-      {
-        "cards": [
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Oricorio (A3-66)",
-          "2 Magneton (A1-98)",
-          "2 Magnemite (B1a-24)",
-          "2 Giant Cape",
-          "2 Copycat",
-          "1 Red Card",
-          "1 Pokémon Center Lady",
-          "1 Magnezone (B1a-26)",
-          "1 Magnezone (A2-53)",
-          "1 Cyrus",
-          "1 Clemont"
-        ],
-        "player_count": 5,
-        "games": 56,
-        "wins": 41,
-        "losses": 10,
-        "ties": 5,
-        "winrate": 0.7321
-      },
-      {
-        "cards": [
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Oricorio (A3-66)",
-          "2 Magnezone (B1a-26)",
-          "2 Magneton (A1-98)",
-          "2 Magnemite (B1a-24)",
-          "1 Red Card",
-          "1 Pokémon Communication",
-          "1 Pokémon Center Lady",
-          "1 Lisia",
-          "1 Giant Cape",
-          "1 Cyrus",
-          "1 Copycat",
-          "1 Clemont"
-        ],
         "player_count": 2,
-        "games": 22,
-        "wins": 16,
-        "losses": 4,
+        "games": 25,
+        "wins": 17,
+        "losses": 6,
         "ties": 2,
-        "winrate": 0.7273
+        "winrate": 0.68
       }
     ]
   },
   {
     "deck_name": "Magnezone Mega Absol ex",
-    "share": 0.0874,
-    "player_count": 699,
-    "games": 3986,
-    "wins": 2036,
-    "losses": 1864,
-    "ties": 86,
-    "winrate": 0.5108,
+    "share": 0.0883,
+    "player_count": 848,
+    "games": 4721,
+    "wins": 2391,
+    "losses": 2241,
+    "ties": 89,
+    "winrate": 0.5065,
     "decklists": [
       {
         "cards": [
@@ -546,12 +605,12 @@
           "1 Copycat",
           "1 Clemont"
         ],
-        "player_count": 6,
-        "games": 72,
-        "wins": 57,
-        "losses": 11,
+        "player_count": 8,
+        "games": 98,
+        "wins": 77,
+        "losses": 17,
         "ties": 4,
-        "winrate": 0.7917
+        "winrate": 0.7857
       },
       {
         "cards": [
@@ -580,131 +639,133 @@
     ]
   },
   {
-    "deck_name": "Mega Blaziken ex Heatmor",
-    "share": 0.009,
-    "player_count": 72,
-    "games": 365,
-    "wins": 185,
-    "losses": 177,
-    "ties": 3,
-    "winrate": 0.5068,
-    "decklists": [
-      {
-        "cards": [
-          "2 Torchic (B1-33)",
-          "2 Rare Candy",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Mega Blaziken ex (B1-36)",
-          "2 Heatmor (B1-44)",
-          "2 Copycat",
-          "1 Serena",
-          "1 Rocky Helmet",
-          "1 Lillie",
-          "1 Flame Patch",
-          "1 Cyrus",
-          "1 Combusken (B1-34)"
-        ],
-        "player_count": 7,
-        "games": 58,
-        "wins": 40,
-        "losses": 17,
-        "ties": 1,
-        "winrate": 0.6897
-      },
-      {
-        "cards": [
-          "2 Torchic (B1-33)",
-          "2 Rare Candy",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Mega Blaziken ex (B1-36)",
-          "2 Heatmor (B1-44)",
-          "2 Flame Patch",
-          "2 Copycat",
-          "1 Lillie",
-          "1 Giant Cape",
-          "1 Cyrus",
-          "1 Combusken (B1-34)"
-        ],
-        "player_count": 2,
-        "games": 15,
-        "wins": 9,
-        "losses": 6,
-        "ties": 0,
-        "winrate": 0.6
-      }
-    ]
-  },
-  {
-    "deck_name": "Magnezone Darkrai ex",
-    "share": 0.0099,
-    "player_count": 79,
-    "games": 429,
-    "wins": 217,
-    "losses": 207,
-    "ties": 5,
-    "winrate": 0.5058,
+    "deck_name": "Jolteon ex Jolteon",
+    "share": 0.0148,
+    "player_count": 142,
+    "games": 764,
+    "wins": 387,
+    "losses": 361,
+    "ties": 16,
+    "winrate": 0.5065,
     "decklists": [
       {
         "cards": [
           "2 Rocky Helmet",
           "2 Professor's Research",
+          "2 Jolteon ex (B1-81)",
+          "2 Jolteon (A3b-25)",
+          "2 Eevee Bag",
+          "2 Eevee (B1-184)",
+          "2 Cyrus",
+          "2 Copycat",
+          "1 Sabrina",
+          "1 Red",
+          "1 Poké Ball",
+          "1 Eevee ex (A3b-56)"
+        ],
+        "player_count": 7,
+        "games": 68,
+        "wins": 47,
+        "losses": 18,
+        "ties": 3,
+        "winrate": 0.6912
+      },
+      {
+        "cards": [
+          "2 Zeraora (A3a-21)",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Jolteon ex (B1-81)",
+          "2 Eevee (B1-184)",
+          "2 Cyrus",
+          "2 Copycat",
+          "1 X Speed",
+          "1 Red Card",
+          "1 Oricorio (A3-66)",
+          "1 Jolteon (A3b-25)",
+          "1 Giant Cape",
+          "1 Elemental Switch"
+        ],
+        "player_count": 3,
+        "games": 31,
+        "wins": 24,
+        "losses": 6,
+        "ties": 1,
+        "winrate": 0.7742
+      }
+    ]
+  },
+  {
+    "deck_name": "Magnezone Mega Absol ex",
+    "share": 0.003,
+    "player_count": 29,
+    "games": 163,
+    "wins": 82,
+    "losses": 79,
+    "ties": 2,
+    "winrate": 0.5031,
+    "decklists": [
+      {
+        "cards": [
+          "2 Professor's Research",
           "2 Poké Ball",
           "2 Magneton (A1-98)",
           "2 Magnemite (B1a-24)",
-          "1 Tyrogue (A4-101)",
-          "1 Mars",
+          "2 Chingling (B1-109)",
+          "1 Sabrina",
+          "1 Red Card",
+          "1 Mega Absol ex (B1-151)",
           "1 Magnezone (B1a-26)",
           "1 Magnezone (A2-53)",
           "1 Lisia",
           "1 Darkrai ex (A2-110)",
           "1 Cyrus",
           "1 Copycat",
-          "1 Clemont",
-          "1 Chingling (B1-109)"
+          "1 Clemont"
         ],
         "player_count": 4,
-        "games": 29,
-        "wins": 20,
-        "losses": 8,
-        "ties": 1,
-        "winrate": 0.6897
+        "games": 35,
+        "wins": 18,
+        "losses": 17,
+        "ties": 0,
+        "winrate": 0.5143
       },
       {
         "cards": [
-          "2 Rocky Helmet",
           "2 Professor's Research",
-          "2 Magnezone (B1a-26)",
+          "2 Poké Ball",
           "2 Magneton (A1-98)",
           "2 Magnemite (B1a-24)",
-          "2 Lisia",
-          "2 Chingling (B1-109)",
-          "1 Poké Ball",
-          "1 Mars",
+          "2 Furfrou (B1a-65)",
+          "1 Sabrina",
+          "1 Red Card",
+          "1 Mega Absol ex (B1-151)",
+          "1 Magnezone (B1a-26)",
+          "1 Magnezone (A2-53)",
+          "1 Lisia",
           "1 Darkrai ex (A2-110)",
           "1 Cyrus",
           "1 Copycat",
           "1 Clemont"
         ],
-        "player_count": 2,
-        "games": 18,
-        "wins": 12,
-        "losses": 6,
-        "ties": 0,
-        "winrate": 0.6667
+        "player_count": 3,
+        "games": 29,
+        "wins": 18,
+        "losses": 10,
+        "ties": 1,
+        "winrate": 0.6207
       }
     ]
   },
   {
     "deck_name": "Mega Altaria ex Altaria",
-    "share": 0.0111,
-    "player_count": 89,
-    "games": 472,
-    "wins": 238,
-    "losses": 225,
-    "ties": 9,
-    "winrate": 0.5042,
+    "share": 0.0102,
+    "player_count": 98,
+    "games": 524,
+    "wins": 263,
+    "losses": 248,
+    "ties": 13,
+    "winrate": 0.5019,
     "decklists": [
       {
         "cards": [
@@ -748,104 +809,110 @@
           "1 Cyrus",
           "1 Copycat"
         ],
-        "player_count": 2,
-        "games": 22,
-        "wins": 16,
-        "losses": 5,
-        "ties": 1,
-        "winrate": 0.7273
+        "player_count": 3,
+        "games": 32,
+        "wins": 23,
+        "losses": 6,
+        "ties": 3,
+        "winrate": 0.7188
       }
     ]
   },
   {
-    "deck_name": "Jolteon ex Jolteon",
-    "share": 0.0158,
-    "player_count": 126,
-    "games": 675,
-    "wins": 340,
-    "losses": 321,
-    "ties": 14,
-    "winrate": 0.5037,
+    "deck_name": "Magnezone Darkrai ex",
+    "share": 0.0091,
+    "player_count": 87,
+    "games": 461,
+    "wins": 231,
+    "losses": 225,
+    "ties": 5,
+    "winrate": 0.5011,
     "decklists": [
       {
         "cards": [
           "2 Rocky Helmet",
           "2 Professor's Research",
-          "2 Jolteon ex (B1-81)",
-          "2 Jolteon (A3b-25)",
-          "2 Eevee Bag",
-          "2 Eevee (B1-184)",
-          "2 Cyrus",
-          "2 Copycat",
-          "1 Sabrina",
-          "1 Red",
-          "1 Poké Ball",
-          "1 Eevee ex (A3b-56)"
+          "2 Poké Ball",
+          "2 Magneton (A1-98)",
+          "2 Magnemite (B1a-24)",
+          "1 Tyrogue (A4-101)",
+          "1 Mars",
+          "1 Magnezone (B1a-26)",
+          "1 Magnezone (A2-53)",
+          "1 Lisia",
+          "1 Darkrai ex (A2-110)",
+          "1 Cyrus",
+          "1 Copycat",
+          "1 Clemont",
+          "1 Chingling (B1-109)"
         ],
-        "player_count": 10,
-        "games": 95,
-        "wins": 65,
-        "losses": 27,
-        "ties": 3,
-        "winrate": 0.6842
+        "player_count": 4,
+        "games": 29,
+        "wins": 20,
+        "losses": 8,
+        "ties": 1,
+        "winrate": 0.6897
       },
       {
         "cards": [
-          "2 Zeraora (A3a-21)",
           "2 Professor's Research",
           "2 Poké Ball",
-          "2 Jolteon ex (B1-81)",
-          "2 Eevee (B1-184)",
-          "2 Cyrus",
-          "2 Copycat",
-          "1 X Speed",
+          "2 Magneton (A1-98)",
+          "2 Magnemite (B1a-24)",
+          "1 Tyrogue (A4-101)",
+          "1 Sabrina",
           "1 Red Card",
-          "1 Oricorio (A3-66)",
-          "1 Jolteon (A3b-25)",
-          "1 Giant Cape",
-          "1 Elemental Switch"
+          "1 Magnezone (B1a-26)",
+          "1 Magnezone (A2-53)",
+          "1 Lisia",
+          "1 Darkrai ex (A2-110)",
+          "1 Cyrus",
+          "1 Copycat",
+          "1 Clemont",
+          "1 Chingling (B1-109)",
+          "1 Absol (A4-120)"
         ],
         "player_count": 3,
-        "games": 31,
-        "wins": 24,
-        "losses": 6,
-        "ties": 1,
-        "winrate": 0.7742
+        "games": 26,
+        "wins": 16,
+        "losses": 8,
+        "ties": 2,
+        "winrate": 0.6154
       }
     ]
   },
   {
-    "deck_name": "Mega Blaziken ex",
-    "share": 0.0049,
-    "player_count": 39,
-    "games": 204,
-    "wins": 102,
-    "losses": 96,
-    "ties": 6,
-    "winrate": 0.5,
+    "deck_name": "Mega Blaziken ex Heatmor",
+    "share": 0.0082,
+    "player_count": 79,
+    "games": 394,
+    "wins": 196,
+    "losses": 195,
+    "ties": 3,
+    "winrate": 0.4975,
     "decklists": [
       {
         "cards": [
           "2 Torchic (B1-33)",
-          "2 Sitrus Berry",
           "2 Rare Candy",
           "2 Professor's Research",
           "2 Poké Ball",
           "2 Mega Blaziken ex (B1-36)",
+          "2 Heatmor (B1-44)",
           "2 Copycat",
-          "1 Shaymin (A2a-69)",
+          "1 Serena",
+          "1 Rocky Helmet",
           "1 Lillie",
-          "1 Klefki (B1-120)",
-          "1 Heatmor (B1-44)",
+          "1 Flame Patch",
           "1 Cyrus",
           "1 Combusken (B1-34)"
         ],
-        "player_count": 4,
-        "games": 33,
-        "wins": 21,
-        "losses": 10,
-        "ties": 2,
-        "winrate": 0.6364
+        "player_count": 7,
+        "games": 59,
+        "wins": 41,
+        "losses": 17,
+        "ties": 1,
+        "winrate": 0.6949
       },
       {
         "cards": [
@@ -854,35 +921,32 @@
           "2 Professor's Research",
           "2 Poké Ball",
           "2 Mega Blaziken ex (B1-36)",
-          "1 Spinda (B1-195)",
-          "1 Serena",
-          "1 Sabrina",
-          "1 Rocky Helmet",
+          "2 Heatmor (B1-44)",
+          "2 Flame Patch",
+          "2 Copycat",
           "1 Lillie",
-          "1 Heatmor (B1-44)",
-          "1 Flame Patch",
+          "1 Giant Cape",
           "1 Cyrus",
-          "1 Copycat",
           "1 Combusken (B1-34)"
         ],
-        "player_count": 3,
-        "games": 21,
-        "wins": 6,
-        "losses": 15,
+        "player_count": 2,
+        "games": 15,
+        "wins": 9,
+        "losses": 6,
         "ties": 0,
-        "winrate": 0.2857
+        "winrate": 0.6
       }
     ]
   },
   {
     "deck_name": "Mega Lopunny ex Lucario",
-    "share": 0.056,
-    "player_count": 448,
-    "games": 2372,
-    "wins": 1177,
-    "losses": 1164,
-    "ties": 31,
-    "winrate": 0.4962,
+    "share": 0.0508,
+    "player_count": 488,
+    "games": 2566,
+    "wins": 1265,
+    "losses": 1268,
+    "ties": 33,
+    "winrate": 0.493,
     "decklists": [
       {
         "cards": [
@@ -932,76 +996,14 @@
     ]
   },
   {
-    "deck_name": "Magnezone Mega Absol ex",
-    "share": 0.0031,
-    "player_count": 25,
-    "games": 145,
-    "wins": 71,
-    "losses": 72,
-    "ties": 2,
-    "winrate": 0.4897,
-    "decklists": [
-      {
-        "cards": [
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Magneton (A1-98)",
-          "2 Magnemite (B1a-24)",
-          "2 Chingling (B1-109)",
-          "1 Sabrina",
-          "1 Red Card",
-          "1 Mega Absol ex (B1-151)",
-          "1 Magnezone (B1a-26)",
-          "1 Magnezone (A2-53)",
-          "1 Lisia",
-          "1 Darkrai ex (A2-110)",
-          "1 Cyrus",
-          "1 Copycat",
-          "1 Clemont"
-        ],
-        "player_count": 5,
-        "games": 41,
-        "wins": 21,
-        "losses": 20,
-        "ties": 0,
-        "winrate": 0.5122
-      },
-      {
-        "cards": [
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Magneton (A1-98)",
-          "2 Magnemite (B1a-24)",
-          "2 Furfrou (B1a-65)",
-          "1 Sabrina",
-          "1 Red Card",
-          "1 Mega Absol ex (B1-151)",
-          "1 Magnezone (B1a-26)",
-          "1 Magnezone (A2-53)",
-          "1 Lisia",
-          "1 Darkrai ex (A2-110)",
-          "1 Cyrus",
-          "1 Copycat",
-          "1 Clemont"
-        ],
-        "player_count": 3,
-        "games": 29,
-        "wins": 18,
-        "losses": 10,
-        "ties": 1,
-        "winrate": 0.6207
-      }
-    ]
-  },
-  {
     "deck_name": "Magnezone Oricorio",
-    "share": 0.0124,
-    "player_count": 99,
-    "games": 485,
-    "wins": 234,
-    "losses": 243,
+    "share": 0.0119,
+    "player_count": 114,
+    "games": 573,
+    "wins": 282,
+    "losses": 283,
     "ties": 8,
-    "winrate": 0.4825,
+    "winrate": 0.4921,
     "decklists": [
       {
         "cards": [
@@ -1052,70 +1054,38 @@
     ]
   },
   {
-    "deck_name": "Jolteon ex Zeraora",
-    "share": 0.0139,
-    "player_count": 111,
-    "games": 569,
-    "wins": 272,
-    "losses": 287,
-    "ties": 10,
-    "winrate": 0.478,
+    "deck_name": "Jolteon ex Magnezone",
+    "share": 0.0041,
+    "player_count": 39,
+    "games": 211,
+    "wins": 102,
+    "losses": 107,
+    "ties": 2,
+    "winrate": 0.4834,
     "decklists": [
       {
         "cards": [
-          "2 Zeraora (A3a-21)",
           "2 Professor's Research",
-          "2 Poké Ball",
+          "2 Magneton (A1-98)",
+          "2 Magnemite (B1a-24)",
+          "2 Lisia",
           "2 Jolteon ex (B1-81)",
-          "2 Giant Cape",
           "2 Eevee (B1-184)",
           "2 Cyrus",
-          "2 Copycat",
-          "1 X Speed",
-          "1 Red Card",
-          "1 Oricorio (A3-66)",
-          "1 Elemental Switch"
+          "1 Pokémon Communication",
+          "1 May",
+          "1 Magnezone (B1a-26)",
+          "1 Magnezone (A2-53)",
+          "1 Copycat",
+          "1 Clemont"
         ],
-        "player_count": 9,
-        "games": 83,
-        "wins": 57,
-        "losses": 22,
-        "ties": 4,
-        "winrate": 0.6867
+        "player_count": 3,
+        "games": 22,
+        "wins": 14,
+        "losses": 8,
+        "ties": 0,
+        "winrate": 0.6364
       },
-      {
-        "cards": [
-          "2 Zeraora (A3a-21)",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Jolteon ex (B1-81)",
-          "2 Giant Cape",
-          "2 Elemental Switch",
-          "2 Eevee (B1-184)",
-          "2 Cyrus",
-          "2 Copycat",
-          "1 X Speed",
-          "1 Red Card"
-        ],
-        "player_count": 4,
-        "games": 36,
-        "wins": 25,
-        "losses": 9,
-        "ties": 2,
-        "winrate": 0.6944
-      }
-    ]
-  },
-  {
-    "deck_name": "Magnezone Heliolisk",
-    "share": 0.0154,
-    "player_count": 123,
-    "games": 656,
-    "wins": 313,
-    "losses": 331,
-    "ties": 12,
-    "winrate": 0.4771,
-    "decklists": [
       {
         "cards": [
           "2 Professor's Research",
@@ -1123,41 +1093,78 @@
           "2 Magnezone (B1a-26)",
           "2 Magneton (A1-98)",
           "2 Magnemite (B1a-24)",
-          "2 Helioptile (B1a-28)",
-          "2 Heliolisk (B1a-29)",
-          "2 Clemont",
-          "1 Elemental Switch",
-          "1 Cyrus",
-          "1 Copycat",
-          "1 Clemont's Backpack"
+          "2 Jolteon ex (B1-81)",
+          "2 Giant Cape",
+          "2 Eevee (B1-184)",
+          "2 Cyrus",
+          "1 Oricorio (A3-66)",
+          "1 Copycat"
         ],
-        "player_count": 4,
-        "games": 32,
-        "wins": 21,
-        "losses": 9,
-        "ties": 2,
-        "winrate": 0.6562
+        "player_count": 2,
+        "games": 16,
+        "wins": 10,
+        "losses": 6,
+        "ties": 0,
+        "winrate": 0.625
+      }
+    ]
+  },
+  {
+    "deck_name": "Mega Blaziken ex",
+    "share": 0.0055,
+    "player_count": 53,
+    "games": 259,
+    "wins": 125,
+    "losses": 126,
+    "ties": 8,
+    "winrate": 0.4826,
+    "decklists": [
+      {
+        "cards": [
+          "2 Torchic (B1-33)",
+          "2 Sitrus Berry",
+          "2 Rare Candy",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Mega Blaziken ex (B1-36)",
+          "2 Copycat",
+          "1 Shaymin (A2a-69)",
+          "1 Lillie",
+          "1 Klefki (B1-120)",
+          "1 Heatmor (B1-44)",
+          "1 Cyrus",
+          "1 Combusken (B1-34)"
+        ],
+        "player_count": 6,
+        "games": 51,
+        "wins": 32,
+        "losses": 15,
+        "ties": 4,
+        "winrate": 0.6275
       },
       {
         "cards": [
+          "2 Torchic (B1-33)",
+          "2 Rare Candy",
           "2 Professor's Research",
           "2 Poké Ball",
-          "2 Magnezone (B1a-26)",
-          "2 Magneton (A1-98)",
-          "2 Magnemite (A1-97)",
-          "2 Helioptile (B1a-28)",
-          "2 Heliolisk (B1a-29)",
-          "2 Elemental Switch",
-          "2 Clemont",
-          "1 Sabrina",
-          "1 Cyrus"
+          "2 Mega Blaziken ex (B1-36)",
+          "2 Copycat",
+          "1 Sitrus Berry",
+          "1 Shaymin (A2a-69)",
+          "1 Rocky Helmet",
+          "1 Lillie",
+          "1 Klefki (B1-120)",
+          "1 Heatmor (B1-44)",
+          "1 Cyrus",
+          "1 Combusken (B1-34)"
         ],
         "player_count": 2,
-        "games": 19,
-        "wins": 13,
+        "games": 17,
+        "wins": 11,
         "losses": 5,
         "ties": 1,
-        "winrate": 0.6842
+        "winrate": 0.6471
       }
     ]
   }
