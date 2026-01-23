@@ -400,13 +400,13 @@
   },
   {
     "deck_name": "Suicune ex Greninja ex",
-    "share": 0.143,
-    "player_count": 3718,
-    "games": 21186,
-    "wins": 11005,
-    "losses": 9596,
-    "ties": 585,
-    "winrate": 0.5194,
+    "share": 0.1429,
+    "player_count": 3716,
+    "games": 21167,
+    "wins": 10989,
+    "losses": 9594,
+    "ties": 584,
+    "winrate": 0.5192,
     "decklists": [
       {
         "cards": [
@@ -519,7 +519,7 @@
   },
   {
     "deck_name": "Mega Altaria ex Furfrou",
-    "share": 0.0192,
+    "share": 0.0191,
     "player_count": 498,
     "games": 2831,
     "wins": 1469,
@@ -579,11 +579,11 @@
   },
   {
     "deck_name": "Mega Altaria ex Greninja",
-    "share": 0.0679,
-    "player_count": 1765,
-    "games": 10143,
-    "wins": 5229,
-    "losses": 4619,
+    "share": 0.068,
+    "player_count": 1768,
+    "games": 10154,
+    "wins": 5234,
+    "losses": 4625,
     "ties": 295,
     "winrate": 0.5155,
     "decklists": [
@@ -746,13 +746,13 @@
   },
   {
     "deck_name": "Magnezone Oricorio",
-    "share": 0.0434,
+    "share": 0.0433,
     "player_count": 1127,
-    "games": 6449,
-    "wins": 3315,
+    "games": 6443,
+    "wins": 3310,
     "losses": 2950,
-    "ties": 184,
-    "winrate": 0.514,
+    "ties": 183,
+    "winrate": 0.5137,
     "decklists": [
       {
         "cards": [
@@ -804,11 +804,11 @@
   },
   {
     "deck_name": "Greninja ex Suicune ex",
-    "share": 0.0095,
-    "player_count": 248,
-    "games": 1397,
-    "wins": 717,
-    "losses": 646,
+    "share": 0.0096,
+    "player_count": 249,
+    "games": 1401,
+    "wins": 719,
+    "losses": 648,
     "ties": 34,
     "winrate": 0.5132,
     "decklists": [
@@ -863,12 +863,12 @@
   {
     "deck_name": "Greninja Mega Absol ex",
     "share": 0.0304,
-    "player_count": 790,
-    "games": 4352,
-    "wins": 2233,
-    "losses": 2007,
+    "player_count": 791,
+    "games": 4357,
+    "wins": 2235,
+    "losses": 2010,
     "ties": 112,
-    "winrate": 0.5131,
+    "winrate": 0.513,
     "decklists": [
       {
         "cards": [
@@ -982,12 +982,12 @@
   {
     "deck_name": "Hydreigon Mega Absol ex",
     "share": 0.1061,
-    "player_count": 2757,
-    "games": 15456,
-    "wins": 7904,
-    "losses": 7148,
+    "player_count": 2760,
+    "games": 15466,
+    "wins": 7911,
+    "losses": 7151,
     "ties": 404,
-    "winrate": 0.5114,
+    "winrate": 0.5115,
     "decklists": [
       {
         "cards": [
