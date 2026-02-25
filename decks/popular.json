@@ -1,13 +1,13 @@
 [
   {
     "deck_name": "Hydreigon Mega Absol ex",
-    "share": 0.1681,
-    "player_count": 2662,
-    "games": 15210,
-    "wins": 8031,
-    "losses": 6792,
-    "ties": 387,
-    "winrate": 0.528,
+    "share": 0.1682,
+    "player_count": 2696,
+    "games": 15387,
+    "wins": 8119,
+    "losses": 6875,
+    "ties": 393,
+    "winrate": 0.5277,
     "decklists": [
       {
         "cards": [
@@ -57,13 +57,13 @@
   },
   {
     "deck_name": "Suicune ex Greninja ex",
-    "share": 0.0678,
-    "player_count": 1074,
-    "games": 6001,
-    "wins": 3124,
-    "losses": 2731,
-    "ties": 146,
-    "winrate": 0.5206,
+    "share": 0.0674,
+    "player_count": 1081,
+    "games": 6053,
+    "wins": 3157,
+    "losses": 2748,
+    "ties": 148,
+    "winrate": 0.5216,
     "decklists": [
       {
         "cards": [
@@ -115,12 +115,12 @@
   },
   {
     "deck_name": "Mega Altaria ex Chingling",
-    "share": 0.0664,
-    "player_count": 1051,
-    "games": 5912,
-    "wins": 3097,
-    "losses": 2656,
-    "ties": 159,
+    "share": 0.0667,
+    "player_count": 1069,
+    "games": 6000,
+    "wins": 3143,
+    "losses": 2694,
+    "ties": 163,
     "winrate": 0.5238,
     "decklists": [
       {
@@ -173,13 +173,13 @@
   },
   {
     "deck_name": "Mega Altaria ex Greninja",
-    "share": 0.0414,
-    "player_count": 656,
-    "games": 3615,
-    "wins": 1909,
-    "losses": 1623,
-    "ties": 83,
-    "winrate": 0.5281,
+    "share": 0.0422,
+    "player_count": 677,
+    "games": 3732,
+    "wins": 1970,
+    "losses": 1676,
+    "ties": 86,
+    "winrate": 0.5279,
     "decklists": [
       {
         "cards": [
@@ -227,13 +227,13 @@
   },
   {
     "deck_name": "Greninja Oricorio",
-    "share": 0.0371,
-    "player_count": 587,
-    "games": 3158,
-    "wins": 1557,
-    "losses": 1533,
+    "share": 0.0367,
+    "player_count": 589,
+    "games": 3167,
+    "wins": 1561,
+    "losses": 1538,
     "ties": 68,
-    "winrate": 0.493,
+    "winrate": 0.4929,
     "decklists": [
       {
         "cards": [
@@ -285,13 +285,13 @@
   },
   {
     "deck_name": "Mega Altaria ex Gourgeist",
-    "share": 0.0366,
-    "player_count": 579,
-    "games": 3348,
-    "wins": 1761,
-    "losses": 1502,
+    "share": 0.0365,
+    "player_count": 585,
+    "games": 3390,
+    "wins": 1784,
+    "losses": 1521,
     "ties": 85,
-    "winrate": 0.526,
+    "winrate": 0.5263,
     "decklists": [
       {
         "cards": [
@@ -345,7 +345,7 @@
   },
   {
     "deck_name": "Giratina ex Darkrai ex",
-    "share": 0.0307,
+    "share": 0.0303,
     "player_count": 486,
     "games": 2625,
     "wins": 1342,
@@ -407,13 +407,13 @@
   },
   {
     "deck_name": "Mega Altaria ex Indeedee ex",
-    "share": 0.0281,
-    "player_count": 445,
-    "games": 2412,
-    "wins": 1198,
-    "losses": 1142,
+    "share": 0.0279,
+    "player_count": 448,
+    "games": 2422,
+    "wins": 1200,
+    "losses": 1150,
     "ties": 72,
-    "winrate": 0.4967,
+    "winrate": 0.4955,
     "decklists": [
       {
         "cards": [
@@ -469,13 +469,13 @@
   },
   {
     "deck_name": "Magnezone Oricorio",
-    "share": 0.0273,
-    "player_count": 432,
-    "games": 2564,
-    "wins": 1363,
-    "losses": 1114,
-    "ties": 87,
-    "winrate": 0.5316,
+    "share": 0.0274,
+    "player_count": 440,
+    "games": 2616,
+    "wins": 1394,
+    "losses": 1130,
+    "ties": 92,
+    "winrate": 0.5329,
     "decklists": [
       {
         "cards": [
@@ -493,12 +493,12 @@
           "1 Giant Cape",
           "1 Clemont"
         ],
-        "player_count": 4,
-        "games": 49,
-        "wins": 38,
+        "player_count": 5,
+        "games": 58,
+        "wins": 46,
         "losses": 8,
-        "ties": 3,
-        "winrate": 0.7755
+        "ties": 4,
+        "winrate": 0.7931
       },
       {
         "cards": [
@@ -526,7 +526,7 @@
   },
   {
     "deck_name": "Galarian Obstagoon Mega Absol ex",
-    "share": 0.0249,
+    "share": 0.0246,
     "player_count": 394,
     "games": 1969,
     "wins": 886,
@@ -582,13 +582,13 @@
   },
   {
     "deck_name": "Mega Charizard Y ex Entei ex",
-    "share": 0.022,
-    "player_count": 348,
-    "games": 1852,
-    "wins": 904,
-    "losses": 894,
-    "ties": 54,
-    "winrate": 0.4881,
+    "share": 0.0223,
+    "player_count": 358,
+    "games": 1907,
+    "wins": 930,
+    "losses": 922,
+    "ties": 55,
+    "winrate": 0.4877,
     "decklists": [
       {
         "cards": [
@@ -641,7 +641,7 @@
   },
   {
     "deck_name": "Mega Kangaskhan ex Darkrai ex",
-    "share": 0.0214,
+    "share": 0.0211,
     "player_count": 339,
     "games": 1713,
     "wins": 796,
@@ -704,7 +704,7 @@
   },
   {
     "deck_name": "Mega Kangaskhan ex Pichu",
-    "share": 0.0133,
+    "share": 0.0131,
     "player_count": 210,
     "games": 1060,
     "wins": 510,
@@ -765,8 +765,67 @@
     ]
   },
   {
+    "deck_name": "Greninja Mega Kangaskhan ex",
+    "share": 0.013,
+    "player_count": 208,
+    "games": 1125,
+    "wins": 555,
+    "losses": 553,
+    "ties": 17,
+    "winrate": 0.4933,
+    "decklists": [
+      {
+        "cards": [
+          "2 Rare Candy",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Pichu (A4-66)",
+          "2 Greninja (A1-89)",
+          "2 Froakie (A1-87)",
+          "1 Serena",
+          "1 Red",
+          "1 Oricorio (A3-66)",
+          "1 Mega Kangaskhan ex (B2-127)",
+          "1 Ilima",
+          "1 Darkrai ex (A2-110)",
+          "1 Cyrus",
+          "1 Copycat"
+        ],
+        "player_count": 2,
+        "games": 21,
+        "wins": 15,
+        "losses": 6,
+        "ties": 0,
+        "winrate": 0.7143
+      },
+      {
+        "cards": [
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Mantyke (A4a-23)",
+          "2 Greninja (A1-89)",
+          "2 Froakie (B1-71)",
+          "2 Cyrus",
+          "2 Copycat",
+          "1 Serena",
+          "1 Red",
+          "1 Rare Candy",
+          "1 Mega Kangaskhan ex (B2-127)",
+          "1 Ilima",
+          "1 Frogadier (A1-88)"
+        ],
+        "player_count": 2,
+        "games": 20,
+        "wins": 14,
+        "losses": 6,
+        "ties": 0,
+        "winrate": 0.7
+      }
+    ]
+  },
+  {
     "deck_name": "Mimikyu ex Greninja",
-    "share": 0.0131,
+    "share": 0.013,
     "player_count": 208,
     "games": 1105,
     "wins": 574,
@@ -821,67 +880,8 @@
     ]
   },
   {
-    "deck_name": "Greninja Mega Kangaskhan ex",
-    "share": 0.0131,
-    "player_count": 207,
-    "games": 1120,
-    "wins": 553,
-    "losses": 550,
-    "ties": 17,
-    "winrate": 0.4938,
-    "decklists": [
-      {
-        "cards": [
-          "2 Rare Candy",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Pichu (A4-66)",
-          "2 Greninja (A1-89)",
-          "2 Froakie (A1-87)",
-          "1 Serena",
-          "1 Red",
-          "1 Oricorio (A3-66)",
-          "1 Mega Kangaskhan ex (B2-127)",
-          "1 Ilima",
-          "1 Darkrai ex (A2-110)",
-          "1 Cyrus",
-          "1 Copycat"
-        ],
-        "player_count": 2,
-        "games": 21,
-        "wins": 15,
-        "losses": 6,
-        "ties": 0,
-        "winrate": 0.7143
-      },
-      {
-        "cards": [
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Mantyke (A4a-23)",
-          "2 Greninja (A1-89)",
-          "2 Froakie (B1-71)",
-          "2 Cyrus",
-          "2 Copycat",
-          "1 Serena",
-          "1 Red",
-          "1 Rare Candy",
-          "1 Mega Kangaskhan ex (B2-127)",
-          "1 Ilima",
-          "1 Frogadier (A1-88)"
-        ],
-        "player_count": 2,
-        "games": 20,
-        "wins": 14,
-        "losses": 6,
-        "ties": 0,
-        "winrate": 0.7
-      }
-    ]
-  },
-  {
     "deck_name": "Mega Gardevoir ex Mewtwo ex",
-    "share": 0.0117,
+    "share": 0.0115,
     "player_count": 185,
     "games": 841,
     "wins": 348,
@@ -940,12 +940,12 @@
   {
     "deck_name": "Greninja ex Suicune ex",
     "share": 0.0114,
-    "player_count": 180,
-    "games": 981,
-    "wins": 507,
-    "losses": 450,
+    "player_count": 182,
+    "games": 991,
+    "wins": 511,
+    "losses": 456,
     "ties": 24,
-    "winrate": 0.5168,
+    "winrate": 0.5156,
     "decklists": [
       {
         "cards": [
@@ -998,12 +998,12 @@
   {
     "deck_name": "Chandelure Meowth",
     "share": 0.0114,
-    "player_count": 180,
-    "games": 960,
-    "wins": 478,
-    "losses": 463,
+    "player_count": 182,
+    "games": 969,
+    "wins": 480,
+    "losses": 470,
     "ties": 19,
-    "winrate": 0.4979,
+    "winrate": 0.4954,
     "decklists": [
       {
         "cards": [
@@ -1059,13 +1059,13 @@
   },
   {
     "deck_name": "Mega Steelix ex Indeedee ex",
-    "share": 0.0103,
-    "player_count": 163,
-    "games": 837,
-    "wins": 382,
-    "losses": 432,
+    "share": 0.0104,
+    "player_count": 166,
+    "games": 844,
+    "wins": 384,
+    "losses": 437,
     "ties": 23,
-    "winrate": 0.4564,
+    "winrate": 0.455,
     "decklists": [
       {
         "cards": [
@@ -1115,12 +1115,12 @@
   {
     "deck_name": "Snorlax ex Indeedee ex",
     "share": 0.0094,
-    "player_count": 149,
-    "games": 773,
+    "player_count": 150,
+    "games": 776,
     "wins": 361,
-    "losses": 361,
-    "ties": 51,
-    "winrate": 0.467,
+    "losses": 363,
+    "ties": 52,
+    "winrate": 0.4652,
     "decklists": [
       {
         "cards": [
