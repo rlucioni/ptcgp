@@ -1,13 +1,13 @@
 [
   {
     "deck_name": "Hydreigon Mega Absol ex",
-    "share": 0.1665,
-    "player_count": 2756,
-    "games": 15734,
-    "wins": 8305,
-    "losses": 7031,
-    "ties": 398,
-    "winrate": 0.5278,
+    "share": 0.1657,
+    "player_count": 2806,
+    "games": 16018,
+    "wins": 8444,
+    "losses": 7171,
+    "ties": 403,
+    "winrate": 0.5272,
     "decklists": [
       {
         "cards": [
@@ -57,13 +57,13 @@
   },
   {
     "deck_name": "Suicune ex Greninja ex",
-    "share": 0.0683,
-    "player_count": 1131,
-    "games": 6331,
-    "wins": 3306,
-    "losses": 2872,
-    "ties": 153,
-    "winrate": 0.5222,
+    "share": 0.0676,
+    "player_count": 1145,
+    "games": 6399,
+    "wins": 3336,
+    "losses": 2908,
+    "ties": 155,
+    "winrate": 0.5213,
     "decklists": [
       {
         "cards": [
@@ -115,13 +115,13 @@
   },
   {
     "deck_name": "Mega Altaria ex Chingling",
-    "share": 0.0661,
-    "player_count": 1094,
-    "games": 6136,
-    "wins": 3206,
-    "losses": 2765,
-    "ties": 165,
-    "winrate": 0.5225,
+    "share": 0.0655,
+    "player_count": 1110,
+    "games": 6227,
+    "wins": 3255,
+    "losses": 2803,
+    "ties": 169,
+    "winrate": 0.5227,
     "decklists": [
       {
         "cards": [
@@ -173,12 +173,12 @@
   },
   {
     "deck_name": "Mega Altaria ex Greninja",
-    "share": 0.044,
-    "player_count": 728,
-    "games": 3996,
-    "wins": 2098,
-    "losses": 1806,
-    "ties": 92,
+    "share": 0.0445,
+    "player_count": 754,
+    "games": 4147,
+    "wins": 2177,
+    "losses": 1874,
+    "ties": 96,
     "winrate": 0.525,
     "decklists": [
       {
@@ -227,13 +227,13 @@
   },
   {
     "deck_name": "Mega Altaria ex Gourgeist",
-    "share": 0.0358,
-    "player_count": 592,
-    "games": 3436,
-    "wins": 1811,
-    "losses": 1540,
+    "share": 0.0354,
+    "player_count": 599,
+    "games": 3471,
+    "wins": 1828,
+    "losses": 1558,
     "ties": 85,
-    "winrate": 0.5271,
+    "winrate": 0.5266,
     "decklists": [
       {
         "cards": [
@@ -287,7 +287,7 @@
   },
   {
     "deck_name": "Greninja Oricorio",
-    "share": 0.0357,
+    "share": 0.0349,
     "player_count": 591,
     "games": 3178,
     "wins": 1566,
@@ -345,13 +345,13 @@
   },
   {
     "deck_name": "Giratina ex Darkrai ex",
-    "share": 0.0295,
-    "player_count": 488,
-    "games": 2634,
-    "wins": 1345,
-    "losses": 1222,
-    "ties": 67,
-    "winrate": 0.5106,
+    "share": 0.029,
+    "player_count": 491,
+    "games": 2649,
+    "wins": 1352,
+    "losses": 1229,
+    "ties": 68,
+    "winrate": 0.5104,
     "decklists": [
       {
         "cards": [
@@ -406,14 +406,71 @@
     ]
   },
   {
+    "deck_name": "Magnezone Oricorio",
+    "share": 0.0272,
+    "player_count": 461,
+    "games": 2743,
+    "wins": 1462,
+    "losses": 1186,
+    "ties": 95,
+    "winrate": 0.533,
+    "decklists": [
+      {
+        "cards": [
+          "2 Professor's Research",
+          "2 Oricorio (A3-66)",
+          "2 Magnezone (B1a-26)",
+          "2 Magneton (A1-98)",
+          "2 Magnemite (B1a-24)",
+          "2 Cyrus",
+          "2 Copycat",
+          "1 Pokémon Center Lady",
+          "1 Poké Ball",
+          "1 Lucky Ice Pop",
+          "1 Lisia",
+          "1 Giant Cape",
+          "1 Clemont"
+        ],
+        "player_count": 5,
+        "games": 58,
+        "wins": 46,
+        "losses": 8,
+        "ties": 4,
+        "winrate": 0.7931
+      },
+      {
+        "cards": [
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Oricorio (A3-66)",
+          "2 Magnezone (B1a-26)",
+          "2 Magneton (A1-98)",
+          "2 Magnemite (B1a-24)",
+          "2 Cyrus",
+          "2 Copycat",
+          "1 Pokémon Center Lady",
+          "1 Mars",
+          "1 Giant Cape",
+          "1 Clemont"
+        ],
+        "player_count": 2,
+        "games": 25,
+        "wins": 19,
+        "losses": 5,
+        "ties": 1,
+        "winrate": 0.76
+      }
+    ]
+  },
+  {
     "deck_name": "Mega Altaria ex Indeedee ex",
-    "share": 0.0274,
-    "player_count": 454,
-    "games": 2439,
-    "wins": 1205,
-    "losses": 1161,
+    "share": 0.0269,
+    "player_count": 455,
+    "games": 2444,
+    "wins": 1206,
+    "losses": 1165,
     "ties": 73,
-    "winrate": 0.4941,
+    "winrate": 0.4935,
     "decklists": [
       {
         "cards": [
@@ -468,65 +525,8 @@
     ]
   },
   {
-    "deck_name": "Magnezone Oricorio",
-    "share": 0.0271,
-    "player_count": 449,
-    "games": 2666,
-    "wins": 1420,
-    "losses": 1153,
-    "ties": 93,
-    "winrate": 0.5326,
-    "decklists": [
-      {
-        "cards": [
-          "2 Professor's Research",
-          "2 Oricorio (A3-66)",
-          "2 Magnezone (B1a-26)",
-          "2 Magneton (A1-98)",
-          "2 Magnemite (B1a-24)",
-          "2 Cyrus",
-          "2 Copycat",
-          "1 Pokémon Center Lady",
-          "1 Poké Ball",
-          "1 Lucky Ice Pop",
-          "1 Lisia",
-          "1 Giant Cape",
-          "1 Clemont"
-        ],
-        "player_count": 5,
-        "games": 58,
-        "wins": 46,
-        "losses": 8,
-        "ties": 4,
-        "winrate": 0.7931
-      },
-      {
-        "cards": [
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Oricorio (A3-66)",
-          "2 Magnezone (B1a-26)",
-          "2 Magneton (A1-98)",
-          "2 Magnemite (B1a-24)",
-          "2 Cyrus",
-          "2 Copycat",
-          "1 Pokémon Center Lady",
-          "1 Mars",
-          "1 Giant Cape",
-          "1 Clemont"
-        ],
-        "player_count": 2,
-        "games": 25,
-        "wins": 19,
-        "losses": 5,
-        "ties": 1,
-        "winrate": 0.76
-      }
-    ]
-  },
-  {
     "deck_name": "Galarian Obstagoon Mega Absol ex",
-    "share": 0.0238,
+    "share": 0.0233,
     "player_count": 394,
     "games": 1969,
     "wins": 886,
@@ -582,13 +582,13 @@
   },
   {
     "deck_name": "Mega Charizard Y ex Entei ex",
-    "share": 0.0227,
-    "player_count": 375,
-    "games": 1981,
-    "wins": 964,
-    "losses": 960,
-    "ties": 57,
-    "winrate": 0.4866,
+    "share": 0.0226,
+    "player_count": 382,
+    "games": 2033,
+    "wins": 990,
+    "losses": 985,
+    "ties": 58,
+    "winrate": 0.487,
     "decklists": [
       {
         "cards": [
@@ -641,13 +641,13 @@
   },
   {
     "deck_name": "Mega Kangaskhan ex Darkrai ex",
-    "share": 0.0209,
-    "player_count": 346,
-    "games": 1752,
-    "wins": 820,
-    "losses": 887,
+    "share": 0.0206,
+    "player_count": 349,
+    "games": 1772,
+    "wins": 832,
+    "losses": 895,
     "ties": 45,
-    "winrate": 0.468,
+    "winrate": 0.4695,
     "decklists": [
       {
         "cards": [
@@ -703,14 +703,73 @@
     ]
   },
   {
-    "deck_name": "Mega Kangaskhan ex Pichu",
+    "deck_name": "Greninja Mega Kangaskhan ex",
     "share": 0.0128,
-    "player_count": 212,
-    "games": 1068,
+    "player_count": 217,
+    "games": 1172,
+    "wins": 579,
+    "losses": 575,
+    "ties": 18,
+    "winrate": 0.494,
+    "decklists": [
+      {
+        "cards": [
+          "2 Rare Candy",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Pichu (A4-66)",
+          "2 Greninja (A1-89)",
+          "2 Froakie (A1-87)",
+          "1 Serena",
+          "1 Red",
+          "1 Oricorio (A3-66)",
+          "1 Mega Kangaskhan ex (B2-127)",
+          "1 Ilima",
+          "1 Darkrai ex (A2-110)",
+          "1 Cyrus",
+          "1 Copycat"
+        ],
+        "player_count": 2,
+        "games": 21,
+        "wins": 15,
+        "losses": 6,
+        "ties": 0,
+        "winrate": 0.7143
+      },
+      {
+        "cards": [
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Mantyke (A4a-23)",
+          "2 Greninja (A1-89)",
+          "2 Froakie (B1-71)",
+          "2 Cyrus",
+          "2 Copycat",
+          "1 Serena",
+          "1 Red",
+          "1 Rare Candy",
+          "1 Mega Kangaskhan ex (B2-127)",
+          "1 Ilima",
+          "1 Frogadier (A1-88)"
+        ],
+        "player_count": 2,
+        "games": 20,
+        "wins": 14,
+        "losses": 6,
+        "ties": 0,
+        "winrate": 0.7
+      }
+    ]
+  },
+  {
+    "deck_name": "Mega Kangaskhan ex Pichu",
+    "share": 0.0126,
+    "player_count": 213,
+    "games": 1069,
     "wins": 514,
-    "losses": 526,
+    "losses": 527,
     "ties": 28,
-    "winrate": 0.4813,
+    "winrate": 0.4808,
     "decklists": [
       {
         "cards": [
@@ -765,67 +824,8 @@
     ]
   },
   {
-    "deck_name": "Greninja Mega Kangaskhan ex",
-    "share": 0.0127,
-    "player_count": 211,
-    "games": 1142,
-    "wins": 563,
-    "losses": 561,
-    "ties": 18,
-    "winrate": 0.493,
-    "decklists": [
-      {
-        "cards": [
-          "2 Rare Candy",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Pichu (A4-66)",
-          "2 Greninja (A1-89)",
-          "2 Froakie (A1-87)",
-          "1 Serena",
-          "1 Red",
-          "1 Oricorio (A3-66)",
-          "1 Mega Kangaskhan ex (B2-127)",
-          "1 Ilima",
-          "1 Darkrai ex (A2-110)",
-          "1 Cyrus",
-          "1 Copycat"
-        ],
-        "player_count": 2,
-        "games": 21,
-        "wins": 15,
-        "losses": 6,
-        "ties": 0,
-        "winrate": 0.7143
-      },
-      {
-        "cards": [
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Mantyke (A4a-23)",
-          "2 Greninja (A1-89)",
-          "2 Froakie (B1-71)",
-          "2 Cyrus",
-          "2 Copycat",
-          "1 Serena",
-          "1 Red",
-          "1 Rare Candy",
-          "1 Mega Kangaskhan ex (B2-127)",
-          "1 Ilima",
-          "1 Frogadier (A1-88)"
-        ],
-        "player_count": 2,
-        "games": 20,
-        "wins": 14,
-        "losses": 6,
-        "ties": 0,
-        "winrate": 0.7
-      }
-    ]
-  },
-  {
     "deck_name": "Mimikyu ex Greninja",
-    "share": 0.0126,
+    "share": 0.0123,
     "player_count": 208,
     "games": 1105,
     "wins": 574,
@@ -880,8 +880,70 @@
     ]
   },
   {
+    "deck_name": "Chandelure Meowth",
+    "share": 0.0113,
+    "player_count": 191,
+    "games": 1011,
+    "wins": 500,
+    "losses": 492,
+    "ties": 19,
+    "winrate": 0.4946,
+    "decklists": [
+      {
+        "cards": [
+          "2 Professor's Research",
+          "2 Meowth (B2-124)",
+          "2 Litwick (B2-67)",
+          "2 Copycat",
+          "2 Chandelure (B2-69)",
+          "1 Sabrina",
+          "1 Red",
+          "1 Rare Candy",
+          "1 Pokémon Center Lady",
+          "1 Poké Ball",
+          "1 Mars",
+          "1 Lucky Ice Pop",
+          "1 Lisia",
+          "1 Lampent (B2-68)",
+          "1 Giant Cape"
+        ],
+        "player_count": 8,
+        "games": 77,
+        "wins": 57,
+        "losses": 17,
+        "ties": 3,
+        "winrate": 0.7403
+      },
+      {
+        "cards": [
+          "2 Professor's Research",
+          "2 Meowth (B2-124)",
+          "2 Litwick (B2-67)",
+          "2 Copycat",
+          "2 Chandelure (B2-69)",
+          "1 Sabrina",
+          "1 Red",
+          "1 Rare Candy",
+          "1 Protective Poncho",
+          "1 Pokémon Center Lady",
+          "1 Poké Ball",
+          "1 Mars",
+          "1 Lisia",
+          "1 Lampent (B2-68)",
+          "1 Giant Cape"
+        ],
+        "player_count": 4,
+        "games": 38,
+        "wins": 27,
+        "losses": 10,
+        "ties": 1,
+        "winrate": 0.7105
+      }
+    ]
+  },
+  {
     "deck_name": "Mega Gardevoir ex Mewtwo ex",
-    "share": 0.0114,
+    "share": 0.0111,
     "player_count": 188,
     "games": 846,
     "wins": 348,
@@ -938,76 +1000,14 @@
     ]
   },
   {
-    "deck_name": "Chandelure Meowth",
-    "share": 0.0113,
-    "player_count": 187,
-    "games": 991,
-    "wins": 491,
-    "losses": 481,
-    "ties": 19,
-    "winrate": 0.4955,
-    "decklists": [
-      {
-        "cards": [
-          "2 Professor's Research",
-          "2 Meowth (B2-124)",
-          "2 Litwick (B2-67)",
-          "2 Copycat",
-          "2 Chandelure (B2-69)",
-          "1 Sabrina",
-          "1 Red",
-          "1 Rare Candy",
-          "1 Pokémon Center Lady",
-          "1 Poké Ball",
-          "1 Mars",
-          "1 Lucky Ice Pop",
-          "1 Lisia",
-          "1 Lampent (B2-68)",
-          "1 Giant Cape"
-        ],
-        "player_count": 8,
-        "games": 77,
-        "wins": 57,
-        "losses": 17,
-        "ties": 3,
-        "winrate": 0.7403
-      },
-      {
-        "cards": [
-          "2 Professor's Research",
-          "2 Meowth (B2-124)",
-          "2 Litwick (B2-67)",
-          "2 Copycat",
-          "2 Chandelure (B2-69)",
-          "1 Sabrina",
-          "1 Red",
-          "1 Rare Candy",
-          "1 Protective Poncho",
-          "1 Pokémon Center Lady",
-          "1 Poké Ball",
-          "1 Mars",
-          "1 Lisia",
-          "1 Lampent (B2-68)",
-          "1 Giant Cape"
-        ],
-        "player_count": 4,
-        "games": 38,
-        "wins": 27,
-        "losses": 10,
-        "ties": 1,
-        "winrate": 0.7105
-      }
-    ]
-  },
-  {
     "deck_name": "Greninja ex Suicune ex",
-    "share": 0.0111,
-    "player_count": 184,
-    "games": 1003,
-    "wins": 517,
-    "losses": 461,
+    "share": 0.011,
+    "player_count": 187,
+    "games": 1017,
+    "wins": 525,
+    "losses": 467,
     "ties": 25,
-    "winrate": 0.5155,
+    "winrate": 0.5162,
     "decklists": [
       {
         "cards": [
@@ -1059,13 +1059,13 @@
   },
   {
     "deck_name": "Mega Steelix ex Indeedee ex",
-    "share": 0.0101,
-    "player_count": 167,
-    "games": 846,
-    "wins": 384,
-    "losses": 439,
+    "share": 0.0099,
+    "player_count": 168,
+    "games": 850,
+    "wins": 386,
+    "losses": 441,
     "ties": 23,
-    "winrate": 0.4539,
+    "winrate": 0.4541,
     "decklists": [
       {
         "cards": [
@@ -1115,12 +1115,12 @@
   {
     "deck_name": "Snorlax ex Indeedee ex",
     "share": 0.0092,
-    "player_count": 153,
-    "games": 788,
-    "wins": 365,
-    "losses": 371,
+    "player_count": 155,
+    "games": 792,
+    "wins": 367,
+    "losses": 373,
     "ties": 52,
-    "winrate": 0.4632,
+    "winrate": 0.4634,
     "decklists": [
       {
         "cards": [
