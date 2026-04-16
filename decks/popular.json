@@ -1,13 +1,13 @@
 [
   {
     "deck_name": "Suicune ex Baxcalibur",
-    "share": 0.1098,
-    "player_count": 1363,
-    "games": 7671,
-    "wins": 4000,
-    "losses": 3504,
+    "share": 0.1097,
+    "player_count": 1368,
+    "games": 7690,
+    "wins": 4008,
+    "losses": 3515,
     "ties": 167,
-    "winrate": 0.5214,
+    "winrate": 0.5212,
     "decklists": [
       {
         "cards": [
@@ -60,13 +60,13 @@
   },
   {
     "deck_name": "Hydreigon Mega Absol ex",
-    "share": 0.098,
-    "player_count": 1217,
-    "games": 6897,
-    "wins": 3568,
-    "losses": 3166,
+    "share": 0.0978,
+    "player_count": 1220,
+    "games": 6913,
+    "wins": 3577,
+    "losses": 3173,
     "ties": 163,
-    "winrate": 0.5173,
+    "winrate": 0.5174,
     "decklists": [
       {
         "cards": [
@@ -117,13 +117,13 @@
   },
   {
     "deck_name": "Mega Charizard X ex Mega Charizard Y ex",
-    "share": 0.0691,
-    "player_count": 858,
-    "games": 4545,
-    "wins": 2203,
-    "losses": 2267,
+    "share": 0.0689,
+    "player_count": 859,
+    "games": 4553,
+    "wins": 2208,
+    "losses": 2270,
     "ties": 75,
-    "winrate": 0.4847,
+    "winrate": 0.485,
     "decklists": [
       {
         "cards": [
@@ -176,13 +176,13 @@
   },
   {
     "deck_name": "Mega Altaria ex Igglybuff",
-    "share": 0.0626,
-    "player_count": 777,
-    "games": 4365,
-    "wins": 2206,
-    "losses": 2071,
+    "share": 0.0631,
+    "player_count": 787,
+    "games": 4417,
+    "wins": 2238,
+    "losses": 2091,
     "ties": 88,
-    "winrate": 0.5054,
+    "winrate": 0.5067,
     "decklists": [
       {
         "cards": [
@@ -234,70 +234,14 @@
     ]
   },
   {
-    "deck_name": "Mega Scizor ex Revavroom",
-    "share": 0.0478,
-    "player_count": 594,
-    "games": 3151,
-    "wins": 1515,
-    "losses": 1578,
-    "ties": 58,
-    "winrate": 0.4808,
-    "decklists": [
-      {
-        "cards": [
-          "2 Varoom (A2b-55)",
-          "2 Scyther (B2b-1)",
-          "2 Revavroom (B2b-50)",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Metal Core Barrier",
-          "2 Mega Scizor ex (B2b-47)",
-          "2 Copycat",
-          "1 Training Area",
-          "1 Red",
-          "1 Pichu (A4-66)",
-          "1 Cyrus"
-        ],
-        "player_count": 4,
-        "games": 45,
-        "wins": 35,
-        "losses": 8,
-        "ties": 2,
-        "winrate": 0.7778
-      },
-      {
-        "cards": [
-          "2 Varoom (B2a-75)",
-          "2 Scyther (B2b-1)",
-          "2 Revavroom (B2b-50)",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Metal Core Barrier",
-          "2 Mega Scizor ex (B2b-47)",
-          "2 Copycat",
-          "1 Training Area",
-          "1 Red",
-          "1 Orthworm (B2a-77)",
-          "1 Cyrus"
-        ],
-        "player_count": 4,
-        "games": 44,
-        "wins": 33,
-        "losses": 11,
-        "ties": 0,
-        "winrate": 0.75
-      }
-    ]
-  },
-  {
     "deck_name": "Mega Manectric ex Zeraora",
-    "share": 0.0474,
-    "player_count": 589,
-    "games": 3375,
-    "wins": 1794,
-    "losses": 1477,
+    "share": 0.0478,
+    "player_count": 596,
+    "games": 3410,
+    "wins": 1813,
+    "losses": 1493,
     "ties": 104,
-    "winrate": 0.5316,
+    "winrate": 0.5317,
     "decklists": [
       {
         "cards": [
@@ -349,8 +293,64 @@
     ]
   },
   {
+    "deck_name": "Mega Scizor ex Revavroom",
+    "share": 0.0478,
+    "player_count": 596,
+    "games": 3159,
+    "wins": 1518,
+    "losses": 1583,
+    "ties": 58,
+    "winrate": 0.4805,
+    "decklists": [
+      {
+        "cards": [
+          "2 Varoom (A2b-55)",
+          "2 Scyther (B2b-1)",
+          "2 Revavroom (B2b-50)",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Metal Core Barrier",
+          "2 Mega Scizor ex (B2b-47)",
+          "2 Copycat",
+          "1 Training Area",
+          "1 Red",
+          "1 Pichu (A4-66)",
+          "1 Cyrus"
+        ],
+        "player_count": 4,
+        "games": 45,
+        "wins": 35,
+        "losses": 8,
+        "ties": 2,
+        "winrate": 0.7778
+      },
+      {
+        "cards": [
+          "2 Varoom (B2a-75)",
+          "2 Scyther (B2b-1)",
+          "2 Revavroom (B2b-50)",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Metal Core Barrier",
+          "2 Mega Scizor ex (B2b-47)",
+          "2 Copycat",
+          "1 Training Area",
+          "1 Red",
+          "1 Orthworm (B2a-77)",
+          "1 Cyrus"
+        ],
+        "player_count": 4,
+        "games": 44,
+        "wins": 33,
+        "losses": 11,
+        "ties": 0,
+        "winrate": 0.75
+      }
+    ]
+  },
+  {
     "deck_name": "Mega Altaria ex Greninja",
-    "share": 0.0442,
+    "share": 0.044,
     "player_count": 549,
     "games": 3078,
     "wins": 1607,
@@ -407,12 +407,12 @@
   {
     "deck_name": "Mega Steelix ex Indeedee ex",
     "share": 0.0325,
-    "player_count": 403,
-    "games": 2168,
-    "wins": 1095,
-    "losses": 1021,
+    "player_count": 405,
+    "games": 2181,
+    "wins": 1103,
+    "losses": 1026,
     "ties": 52,
-    "winrate": 0.5051,
+    "winrate": 0.5057,
     "decklists": [
       {
         "cards": [
@@ -461,13 +461,13 @@
   },
   {
     "deck_name": "Greninja Mega Absol ex",
-    "share": 0.0287,
-    "player_count": 356,
-    "games": 1982,
-    "wins": 1068,
-    "losses": 869,
+    "share": 0.0288,
+    "player_count": 359,
+    "games": 1998,
+    "wins": 1078,
+    "losses": 875,
     "ties": 45,
-    "winrate": 0.5388,
+    "winrate": 0.5395,
     "decklists": [
       {
         "cards": [
@@ -519,13 +519,13 @@
   },
   {
     "deck_name": "Greninja Decidueye ex",
-    "share": 0.0198,
-    "player_count": 246,
-    "games": 1211,
-    "wins": 580,
-    "losses": 601,
+    "share": 0.0199,
+    "player_count": 248,
+    "games": 1222,
+    "wins": 586,
+    "losses": 606,
     "ties": 30,
-    "winrate": 0.4789,
+    "winrate": 0.4795,
     "decklists": [
       {
         "cards": [
@@ -580,12 +580,12 @@
   {
     "deck_name": "Mega Manectric ex Oricorio",
     "share": 0.0157,
-    "player_count": 195,
-    "games": 990,
-    "wins": 432,
-    "losses": 541,
+    "player_count": 196,
+    "games": 996,
+    "wins": 435,
+    "losses": 544,
     "ties": 17,
-    "winrate": 0.4364,
+    "winrate": 0.4367,
     "decklists": [
       {
         "cards": [
@@ -752,7 +752,7 @@
   },
   {
     "deck_name": "Mega Altaria ex Gourgeist",
-    "share": 0.0146,
+    "share": 0.0145,
     "player_count": 181,
     "games": 937,
     "wins": 456,
@@ -812,13 +812,13 @@
   },
   {
     "deck_name": "Jolteon ex Mega Manectric ex",
-    "share": 0.0135,
-    "player_count": 168,
-    "games": 846,
-    "wins": 379,
-    "losses": 459,
+    "share": 0.0136,
+    "player_count": 169,
+    "games": 850,
+    "wins": 380,
+    "losses": 462,
     "ties": 8,
-    "winrate": 0.448,
+    "winrate": 0.4471,
     "decklists": [
       {
         "cards": [
@@ -869,7 +869,7 @@
   },
   {
     "deck_name": "Giratina ex Darkrai ex",
-    "share": 0.0124,
+    "share": 0.0123,
     "player_count": 154,
     "games": 791,
     "wins": 388,
@@ -995,12 +995,12 @@
   {
     "deck_name": "Greninja Oricorio",
     "share": 0.0101,
-    "player_count": 125,
-    "games": 664,
+    "player_count": 126,
+    "games": 667,
     "wins": 332,
-    "losses": 307,
+    "losses": 310,
     "ties": 25,
-    "winrate": 0.5,
+    "winrate": 0.4978,
     "decklists": [
       {
         "cards": [
@@ -1050,7 +1050,7 @@
   },
   {
     "deck_name": "Mega Venusaur ex",
-    "share": 0.0093,
+    "share": 0.0092,
     "player_count": 115,
     "games": 622,
     "wins": 310,
