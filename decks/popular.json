@@ -1,13 +1,13 @@
 [
   {
     "deck_name": "Suicune ex Baxcalibur",
-    "share": 0.109,
-    "player_count": 1648,
-    "games": 9080,
-    "wins": 4685,
-    "losses": 4188,
-    "ties": 207,
-    "winrate": 0.516,
+    "share": 0.1091,
+    "player_count": 1658,
+    "games": 9126,
+    "wins": 4703,
+    "losses": 4210,
+    "ties": 213,
+    "winrate": 0.5153,
     "decklists": [
       {
         "cards": [
@@ -60,12 +60,12 @@
   {
     "deck_name": "Hydreigon Mega Absol ex",
     "share": 0.1013,
-    "player_count": 1532,
-    "games": 8543,
-    "wins": 4395,
-    "losses": 3952,
-    "ties": 196,
-    "winrate": 0.5145,
+    "player_count": 1539,
+    "games": 8586,
+    "wins": 4419,
+    "losses": 3965,
+    "ties": 202,
+    "winrate": 0.5147,
     "decklists": [
       {
         "cards": [
@@ -116,13 +116,13 @@
   },
   {
     "deck_name": "Mega Charizard X ex Mega Charizard Y ex",
-    "share": 0.066,
-    "player_count": 998,
-    "games": 5224,
-    "wins": 2509,
-    "losses": 2632,
+    "share": 0.0659,
+    "player_count": 1001,
+    "games": 5234,
+    "wins": 2511,
+    "losses": 2640,
     "ties": 83,
-    "winrate": 0.4803,
+    "winrate": 0.4797,
     "decklists": [
       {
         "cards": [
@@ -175,13 +175,13 @@
   },
   {
     "deck_name": "Mega Altaria ex Igglybuff",
-    "share": 0.0626,
-    "player_count": 947,
-    "games": 5232,
-    "wins": 2661,
-    "losses": 2454,
-    "ties": 117,
-    "winrate": 0.5086,
+    "share": 0.0627,
+    "player_count": 952,
+    "games": 5255,
+    "wins": 2674,
+    "losses": 2463,
+    "ties": 118,
+    "winrate": 0.5088,
     "decklists": [
       {
         "cards": [
@@ -234,13 +234,13 @@
   },
   {
     "deck_name": "Mega Manectric ex Zeraora",
-    "share": 0.0565,
-    "player_count": 854,
-    "games": 4817,
-    "wins": 2535,
-    "losses": 2132,
-    "ties": 150,
-    "winrate": 0.5263,
+    "share": 0.0566,
+    "player_count": 860,
+    "games": 4855,
+    "wins": 2553,
+    "losses": 2148,
+    "ties": 154,
+    "winrate": 0.5258,
     "decklists": [
       {
         "cards": [
@@ -293,13 +293,13 @@
   },
   {
     "deck_name": "Mega Scizor ex Revavroom",
-    "share": 0.0435,
-    "player_count": 658,
-    "games": 3416,
-    "wins": 1634,
-    "losses": 1720,
+    "share": 0.0434,
+    "player_count": 659,
+    "games": 3419,
+    "wins": 1635,
+    "losses": 1722,
     "ties": 62,
-    "winrate": 0.4783,
+    "winrate": 0.4782,
     "decklists": [
       {
         "cards": [
@@ -349,13 +349,13 @@
   },
   {
     "deck_name": "Mega Altaria ex Greninja",
-    "share": 0.0407,
-    "player_count": 616,
-    "games": 3407,
+    "share": 0.0406,
+    "player_count": 617,
+    "games": 3408,
     "wins": 1770,
-    "losses": 1561,
+    "losses": 1562,
     "ties": 76,
-    "winrate": 0.5195,
+    "winrate": 0.5194,
     "decklists": [
       {
         "cards": [
@@ -403,14 +403,72 @@
     ]
   },
   {
+    "deck_name": "Greninja Mega Absol ex",
+    "share": 0.0328,
+    "player_count": 499,
+    "games": 2761,
+    "wins": 1482,
+    "losses": 1203,
+    "ties": 76,
+    "winrate": 0.5368,
+    "decklists": [
+      {
+        "cards": [
+          "2 Rare Candy",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Greninja (A1-89)",
+          "2 Froakie (A1-87)",
+          "2 Copycat",
+          "2 Chingling (B1-109)",
+          "1 Rocky Helmet",
+          "1 Mega Absol ex (B1-151)",
+          "1 Inflatable Boat",
+          "1 Hiking Trail",
+          "1 Darkrai ex (A2-110)",
+          "1 Cyrus"
+        ],
+        "player_count": 13,
+        "games": 151,
+        "wins": 115,
+        "losses": 28,
+        "ties": 8,
+        "winrate": 0.7616
+      },
+      {
+        "cards": [
+          "2 Rare Candy",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Greninja (A1-89)",
+          "2 Froakie (A1-87)",
+          "2 Copycat",
+          "2 Chingling (B1-109)",
+          "1 Rocky Helmet",
+          "1 Red Card",
+          "1 Mega Absol ex (B1-151)",
+          "1 Inflatable Boat",
+          "1 Darkrai ex (A2-110)",
+          "1 Cyrus"
+        ],
+        "player_count": 2,
+        "games": 22,
+        "wins": 18,
+        "losses": 3,
+        "ties": 1,
+        "winrate": 0.8182
+      }
+    ]
+  },
+  {
     "deck_name": "Mega Steelix ex Indeedee ex",
     "share": 0.0328,
-    "player_count": 496,
-    "games": 2662,
-    "wins": 1348,
-    "losses": 1247,
-    "ties": 67,
-    "winrate": 0.5064,
+    "player_count": 499,
+    "games": 2673,
+    "wins": 1353,
+    "losses": 1252,
+    "ties": 68,
+    "winrate": 0.5062,
     "decklists": [
       {
         "cards": [
@@ -459,72 +517,14 @@
     ]
   },
   {
-    "deck_name": "Greninja Mega Absol ex",
-    "share": 0.0324,
-    "player_count": 490,
-    "games": 2706,
-    "wins": 1455,
-    "losses": 1182,
-    "ties": 69,
-    "winrate": 0.5377,
-    "decklists": [
-      {
-        "cards": [
-          "2 Rare Candy",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Greninja (A1-89)",
-          "2 Froakie (A1-87)",
-          "2 Copycat",
-          "2 Chingling (B1-109)",
-          "1 Rocky Helmet",
-          "1 Mega Absol ex (B1-151)",
-          "1 Inflatable Boat",
-          "1 Hiking Trail",
-          "1 Darkrai ex (A2-110)",
-          "1 Cyrus"
-        ],
-        "player_count": 13,
-        "games": 148,
-        "wins": 114,
-        "losses": 26,
-        "ties": 8,
-        "winrate": 0.7703
-      },
-      {
-        "cards": [
-          "2 Rare Candy",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Greninja (A1-89)",
-          "2 Froakie (A1-87)",
-          "2 Copycat",
-          "2 Chingling (B1-109)",
-          "1 Rocky Helmet",
-          "1 Red Card",
-          "1 Mega Absol ex (B1-151)",
-          "1 Inflatable Boat",
-          "1 Darkrai ex (A2-110)",
-          "1 Cyrus"
-        ],
-        "player_count": 2,
-        "games": 22,
-        "wins": 18,
-        "losses": 3,
-        "ties": 1,
-        "winrate": 0.8182
-      }
-    ]
-  },
-  {
     "deck_name": "Greninja Decidueye ex",
     "share": 0.0201,
-    "player_count": 304,
-    "games": 1499,
-    "wins": 723,
-    "losses": 736,
-    "ties": 40,
-    "winrate": 0.4823,
+    "player_count": 305,
+    "games": 1506,
+    "wins": 726,
+    "losses": 739,
+    "ties": 41,
+    "winrate": 0.4821,
     "decklists": [
       {
         "cards": [
@@ -579,12 +579,12 @@
   {
     "deck_name": "Bellibolt ex Zeraora",
     "share": 0.0143,
-    "player_count": 217,
-    "games": 1091,
+    "player_count": 218,
+    "games": 1093,
     "wins": 535,
-    "losses": 535,
+    "losses": 537,
     "ties": 21,
-    "winrate": 0.4904,
+    "winrate": 0.4895,
     "decklists": [
       {
         "cards": [
@@ -751,7 +751,7 @@
   },
   {
     "deck_name": "Jolteon ex Mega Manectric ex",
-    "share": 0.0128,
+    "share": 0.0127,
     "player_count": 193,
     "games": 968,
     "wins": 432,
@@ -808,7 +808,7 @@
   },
   {
     "deck_name": "Giratina ex Darkrai ex",
-    "share": 0.0123,
+    "share": 0.0122,
     "player_count": 186,
     "games": 957,
     "wins": 476,
@@ -930,7 +930,7 @@
   },
   {
     "deck_name": "Magnezone Mega Manectric ex",
-    "share": 0.0099,
+    "share": 0.0098,
     "player_count": 149,
     "games": 858,
     "wins": 442,
@@ -1051,12 +1051,12 @@
   {
     "deck_name": "Mega Absol ex Darkrai ex",
     "share": 0.008,
-    "player_count": 121,
-    "games": 675,
-    "wins": 343,
-    "losses": 321,
+    "player_count": 122,
+    "games": 680,
+    "wins": 344,
+    "losses": 325,
     "ties": 11,
-    "winrate": 0.5081,
+    "winrate": 0.5059,
     "decklists": [
       {
         "cards": [
