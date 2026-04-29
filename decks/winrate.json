@@ -119,12 +119,12 @@
   {
     "deck_name": "Magnezone Oricorio",
     "share": 0.0038,
-    "player_count": 58,
-    "games": 365,
-    "wins": 207,
-    "losses": 143,
+    "player_count": 59,
+    "games": 371,
+    "wins": 210,
+    "losses": 146,
     "ties": 15,
-    "winrate": 0.5671,
+    "winrate": 0.566,
     "decklists": [
       {
         "cards": [
@@ -179,7 +179,7 @@
   },
   {
     "deck_name": "Guzzlord ex Indeedee ex",
-    "share": 0.0042,
+    "share": 0.0041,
     "player_count": 64,
     "games": 408,
     "wins": 226,
@@ -236,7 +236,7 @@
   },
   {
     "deck_name": "Mega Altaria ex",
-    "share": 0.0037,
+    "share": 0.0036,
     "player_count": 56,
     "games": 343,
     "wins": 186,
@@ -358,124 +358,8 @@
     ]
   },
   {
-    "deck_name": "Greninja Mega Absol ex",
-    "share": 0.0328,
-    "player_count": 499,
-    "games": 2761,
-    "wins": 1482,
-    "losses": 1203,
-    "ties": 76,
-    "winrate": 0.5368,
-    "decklists": [
-      {
-        "cards": [
-          "2 Rare Candy",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Greninja (A1-89)",
-          "2 Froakie (A1-87)",
-          "2 Copycat",
-          "2 Chingling (B1-109)",
-          "1 Rocky Helmet",
-          "1 Mega Absol ex (B1-151)",
-          "1 Inflatable Boat",
-          "1 Hiking Trail",
-          "1 Darkrai ex (A2-110)",
-          "1 Cyrus"
-        ],
-        "player_count": 13,
-        "games": 151,
-        "wins": 115,
-        "losses": 28,
-        "ties": 8,
-        "winrate": 0.7616
-      },
-      {
-        "cards": [
-          "2 Rare Candy",
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Greninja (A1-89)",
-          "2 Froakie (A1-87)",
-          "2 Copycat",
-          "2 Chingling (B1-109)",
-          "1 Rocky Helmet",
-          "1 Red Card",
-          "1 Mega Absol ex (B1-151)",
-          "1 Inflatable Boat",
-          "1 Darkrai ex (A2-110)",
-          "1 Cyrus"
-        ],
-        "player_count": 2,
-        "games": 22,
-        "wins": 18,
-        "losses": 3,
-        "ties": 1,
-        "winrate": 0.8182
-      }
-    ]
-  },
-  {
-    "deck_name": "Magnezone Teal Mask Ogerpon ex",
-    "share": 0.0134,
-    "player_count": 203,
-    "games": 1145,
-    "wins": 614,
-    "losses": 503,
-    "ties": 28,
-    "winrate": 0.5362,
-    "decklists": [
-      {
-        "cards": [
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Oricorio (A3-66)",
-          "2 Magnezone (B1a-26)",
-          "2 Magneton (A1-98)",
-          "2 Magnemite (B1a-24)",
-          "2 Cyrus",
-          "1 Teal Mask Ogerpon ex (B2-17)",
-          "1 Lucky Ice Pop",
-          "1 Lisia",
-          "1 Giant Cape",
-          "1 Copycat",
-          "1 Clemont"
-        ],
-        "player_count": 13,
-        "games": 136,
-        "wins": 102,
-        "losses": 28,
-        "ties": 6,
-        "winrate": 0.75
-      },
-      {
-        "cards": [
-          "2 Professor's Research",
-          "2 Poké Ball",
-          "2 Oricorio (A3-66)",
-          "2 Magnezone (B1a-26)",
-          "2 Magneton (A1-98)",
-          "2 Magnemite (B1a-24)",
-          "2 Cyrus",
-          "1 Teal Mask Ogerpon ex (B2-17)",
-          "1 Pokémon Center Lady",
-          "1 Lisia",
-          "1 Giant Cape",
-          "1 Copycat",
-          "1 Clemont"
-        ],
-        "player_count": 2,
-        "games": 22,
-        "wins": 16,
-        "losses": 6,
-        "ties": 0,
-        "winrate": 0.7273
-      }
-    ]
-  },
-  {
     "deck_name": "Magnezone Bellibolt ex",
-    "share": 0.0051,
+    "share": 0.005,
     "player_count": 77,
     "games": 457,
     "wins": 245,
@@ -536,8 +420,127 @@
     ]
   },
   {
+    "deck_name": "Magnezone Teal Mask Ogerpon ex",
+    "share": 0.0132,
+    "player_count": 204,
+    "games": 1148,
+    "wins": 615,
+    "losses": 505,
+    "ties": 28,
+    "winrate": 0.5357,
+    "decklists": [
+      {
+        "cards": [
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Oricorio (A3-66)",
+          "2 Magnezone (B1a-26)",
+          "2 Magneton (A1-98)",
+          "2 Magnemite (B1a-24)",
+          "2 Cyrus",
+          "1 Teal Mask Ogerpon ex (B2-17)",
+          "1 Lucky Ice Pop",
+          "1 Lisia",
+          "1 Giant Cape",
+          "1 Copycat",
+          "1 Clemont"
+        ],
+        "player_count": 13,
+        "games": 136,
+        "wins": 102,
+        "losses": 28,
+        "ties": 6,
+        "winrate": 0.75
+      },
+      {
+        "cards": [
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Oricorio (A3-66)",
+          "2 Magnezone (B1a-26)",
+          "2 Magneton (A1-98)",
+          "2 Magnemite (B1a-24)",
+          "2 Cyrus",
+          "1 Teal Mask Ogerpon ex (B2-17)",
+          "1 Pokémon Center Lady",
+          "1 Lisia",
+          "1 Giant Cape",
+          "1 Copycat",
+          "1 Clemont"
+        ],
+        "player_count": 2,
+        "games": 22,
+        "wins": 16,
+        "losses": 6,
+        "ties": 0,
+        "winrate": 0.7273
+      }
+    ]
+  },
+  {
+    "deck_name": "Chandelure Meloetta",
+    "share": 0.0019,
+    "player_count": 29,
+    "games": 157,
+    "wins": 84,
+    "losses": 73,
+    "ties": 0,
+    "winrate": 0.535,
+    "decklists": [
+      {
+        "cards": [
+          "2 Rare Candy",
+          "2 Professor's Research",
+          "2 Meloetta (B2-70)",
+          "2 Litwick (B2-67)",
+          "2 Chandelure (B2-69)",
+          "1 Silver",
+          "1 Sabrina",
+          "1 Red",
+          "1 Peculiar Plaza",
+          "1 May",
+          "1 Mars",
+          "1 Lisia",
+          "1 Lampent (B2-68)",
+          "1 Giant Cape",
+          "1 Comfey (A3-80)"
+        ],
+        "player_count": 5,
+        "games": 41,
+        "wins": 26,
+        "losses": 15,
+        "ties": 0,
+        "winrate": 0.6341
+      },
+      {
+        "cards": [
+          "2 Rare Candy",
+          "2 Professor's Research",
+          "2 Meloetta (B2-70)",
+          "2 Litwick (B2-67)",
+          "2 Copycat",
+          "2 Chandelure (B2-69)",
+          "1 Sabrina",
+          "1 Red",
+          "1 Peculiar Plaza",
+          "1 May",
+          "1 Lisia",
+          "1 Lampent (B2-68)",
+          "1 Cyrus",
+          "1 Comfey (A3-80)"
+        ],
+        "player_count": 4,
+        "games": 26,
+        "wins": 16,
+        "losses": 10,
+        "ties": 0,
+        "winrate": 0.6154
+      }
+    ]
+  },
+  {
     "deck_name": "Mega Blaziken ex Greninja",
-    "share": 0.005,
+    "share": 0.0049,
     "player_count": 76,
     "games": 417,
     "wins": 223,
@@ -594,122 +597,60 @@
     ]
   },
   {
-    "deck_name": "Chandelure Meloetta",
-    "share": 0.0018,
-    "player_count": 27,
-    "games": 146,
-    "wins": 77,
-    "losses": 69,
-    "ties": 0,
-    "winrate": 0.5274,
+    "deck_name": "Greninja Mega Absol ex",
+    "share": 0.0336,
+    "player_count": 521,
+    "games": 2943,
+    "wins": 1573,
+    "losses": 1281,
+    "ties": 89,
+    "winrate": 0.5345,
     "decklists": [
       {
         "cards": [
           "2 Rare Candy",
-          "2 Professor's Research",
-          "2 Meloetta (B2-70)",
-          "2 Litwick (B2-67)",
-          "2 Chandelure (B2-69)",
-          "1 Silver",
-          "1 Sabrina",
-          "1 Red",
-          "1 Peculiar Plaza",
-          "1 May",
-          "1 Mars",
-          "1 Lisia",
-          "1 Lampent (B2-68)",
-          "1 Giant Cape",
-          "1 Comfey (A3-80)"
-        ],
-        "player_count": 5,
-        "games": 41,
-        "wins": 26,
-        "losses": 15,
-        "ties": 0,
-        "winrate": 0.6341
-      },
-      {
-        "cards": [
-          "2 Rare Candy",
-          "2 Professor's Research",
-          "2 Meloetta (B2-70)",
-          "2 Litwick (B2-67)",
-          "2 Copycat",
-          "2 Chandelure (B2-69)",
-          "1 Sabrina",
-          "1 Red",
-          "1 Peculiar Plaza",
-          "1 May",
-          "1 Lisia",
-          "1 Lampent (B2-68)",
-          "1 Cyrus",
-          "1 Comfey (A3-80)"
-        ],
-        "player_count": 4,
-        "games": 26,
-        "wins": 16,
-        "losses": 10,
-        "ties": 0,
-        "winrate": 0.6154
-      }
-    ]
-  },
-  {
-    "deck_name": "Mega Manectric ex Zeraora",
-    "share": 0.0566,
-    "player_count": 860,
-    "games": 4855,
-    "wins": 2553,
-    "losses": 2148,
-    "ties": 154,
-    "winrate": 0.5258,
-    "decklists": [
-      {
-        "cards": [
-          "2 Zeraora (A3a-21)",
-          "2 Rocky Helmet",
           "2 Professor's Research",
           "2 Poké Ball",
-          "2 Mega Manectric ex (B2b-27)",
-          "2 Electrike (P-B-43)",
+          "2 Greninja (A1-89)",
+          "2 Froakie (A1-87)",
           "2 Copycat",
-          "1 Training Area",
-          "1 Sabrina",
-          "1 Protective Poncho",
-          "1 Pokémon Center Lady",
-          "1 Electric Generator",
+          "2 Chingling (B1-109)",
+          "1 Rocky Helmet",
+          "1 Mega Absol ex (B1-151)",
+          "1 Inflatable Boat",
+          "1 Hiking Trail",
+          "1 Darkrai ex (A2-110)",
           "1 Cyrus"
         ],
-        "player_count": 8,
-        "games": 97,
-        "wins": 71,
-        "losses": 19,
-        "ties": 7,
-        "winrate": 0.732
+        "player_count": 13,
+        "games": 151,
+        "wins": 115,
+        "losses": 28,
+        "ties": 8,
+        "winrate": 0.7616
       },
       {
         "cards": [
-          "2 Zeraora (A3a-21)",
-          "2 Rocky Helmet",
+          "2 Rare Candy",
           "2 Professor's Research",
           "2 Poké Ball",
-          "2 Mega Manectric ex (B2b-27)",
-          "2 Electrike (B2b-26)",
-          "1 Pokémon Center Lady",
-          "1 Oricorio (A3-66)",
-          "1 Lucky Ice Pop",
+          "2 Greninja (A1-89)",
+          "2 Froakie (A1-87)",
+          "2 Copycat",
+          "2 Chingling (B1-109)",
+          "1 Red Card",
+          "1 Mega Absol ex (B1-151)",
+          "1 Inflatable Boat",
           "1 Hiking Trail",
-          "1 Giovanni",
-          "1 Electric Generator",
-          "1 Cyrus",
-          "1 Copycat"
+          "1 Darkrai ex (A2-110)",
+          "1 Cyrus"
         ],
-        "player_count": 3,
-        "games": 37,
-        "wins": 29,
+        "player_count": 1,
+        "games": 14,
+        "wins": 8,
         "losses": 5,
-        "ties": 3,
-        "winrate": 0.7838
+        "ties": 1,
+        "winrate": 0.5714
       }
     ]
   },
@@ -771,14 +712,73 @@
     ]
   },
   {
+    "deck_name": "Mega Manectric ex Zeraora",
+    "share": 0.0563,
+    "player_count": 872,
+    "games": 4922,
+    "wins": 2584,
+    "losses": 2183,
+    "ties": 155,
+    "winrate": 0.525,
+    "decklists": [
+      {
+        "cards": [
+          "2 Zeraora (A3a-21)",
+          "2 Rocky Helmet",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Mega Manectric ex (B2b-27)",
+          "2 Electrike (P-B-43)",
+          "2 Copycat",
+          "1 Training Area",
+          "1 Sabrina",
+          "1 Protective Poncho",
+          "1 Pokémon Center Lady",
+          "1 Electric Generator",
+          "1 Cyrus"
+        ],
+        "player_count": 8,
+        "games": 97,
+        "wins": 71,
+        "losses": 19,
+        "ties": 7,
+        "winrate": 0.732
+      },
+      {
+        "cards": [
+          "2 Zeraora (A3a-21)",
+          "2 Rocky Helmet",
+          "2 Professor's Research",
+          "2 Poké Ball",
+          "2 Mega Manectric ex (B2b-27)",
+          "2 Electrike (B2b-26)",
+          "1 Pokémon Center Lady",
+          "1 Oricorio (A3-66)",
+          "1 Lucky Ice Pop",
+          "1 Hiking Trail",
+          "1 Giovanni",
+          "1 Electric Generator",
+          "1 Cyrus",
+          "1 Copycat"
+        ],
+        "player_count": 3,
+        "games": 37,
+        "wins": 29,
+        "losses": 5,
+        "ties": 3,
+        "winrate": 0.7838
+      }
+    ]
+  },
+  {
     "deck_name": "Mega Altaria ex Greninja",
-    "share": 0.0406,
-    "player_count": 617,
-    "games": 3408,
-    "wins": 1770,
-    "losses": 1562,
-    "ties": 76,
-    "winrate": 0.5194,
+    "share": 0.0404,
+    "player_count": 625,
+    "games": 3450,
+    "wins": 1790,
+    "losses": 1581,
+    "ties": 79,
+    "winrate": 0.5188,
     "decklists": [
       {
         "cards": [
@@ -826,72 +826,14 @@
     ]
   },
   {
-    "deck_name": "Melmetal ex Melmetal",
-    "share": 0.0037,
-    "player_count": 56,
-    "games": 298,
-    "wins": 154,
-    "losses": 137,
-    "ties": 7,
-    "winrate": 0.5168,
-    "decklists": [
-      {
-        "cards": [
-          "2 Steel Apron",
-          "2 Professor's Research",
-          "2 Metal Core Barrier",
-          "2 Meltan (A1-181)",
-          "2 Melmetal ex (B1-174)",
-          "2 Lucky Ice Pop",
-          "2 Copycat",
-          "1 Training Area",
-          "1 Sabrina",
-          "1 Pokémon Center Lady",
-          "1 Poké Ball",
-          "1 Melmetal (A3b-50)",
-          "1 Cyrus"
-        ],
-        "player_count": 9,
-        "games": 73,
-        "wins": 49,
-        "losses": 20,
-        "ties": 4,
-        "winrate": 0.6712
-      },
-      {
-        "cards": [
-          "2 Steel Apron",
-          "2 Repel",
-          "2 Professor's Research",
-          "2 Metal Core Barrier",
-          "2 Meltan (A1-181)",
-          "2 Melmetal ex (B1-174)",
-          "2 Copycat",
-          "1 Training Area",
-          "1 Sightseer",
-          "1 Sabrina",
-          "1 Poké Ball",
-          "1 Melmetal (A3b-50)",
-          "1 Big Malasada"
-        ],
-        "player_count": 2,
-        "games": 16,
-        "wins": 10,
-        "losses": 5,
-        "ties": 1,
-        "winrate": 0.625
-      }
-    ]
-  },
-  {
     "deck_name": "Suicune ex Baxcalibur",
-    "share": 0.1091,
-    "player_count": 1658,
-    "games": 9126,
-    "wins": 4703,
-    "losses": 4210,
-    "ties": 213,
-    "winrate": 0.5153,
+    "share": 0.1088,
+    "player_count": 1685,
+    "games": 9302,
+    "wins": 4790,
+    "losses": 4296,
+    "ties": 216,
+    "winrate": 0.5149,
     "decklists": [
       {
         "cards": [
@@ -943,13 +885,13 @@
   },
   {
     "deck_name": "Magnezone Mega Manectric ex",
-    "share": 0.0098,
-    "player_count": 149,
-    "games": 858,
-    "wins": 442,
-    "losses": 403,
+    "share": 0.0097,
+    "player_count": 150,
+    "games": 862,
+    "wins": 443,
+    "losses": 406,
     "ties": 13,
-    "winrate": 0.5152,
+    "winrate": 0.5139,
     "decklists": [
       {
         "cards": [
@@ -1006,13 +948,13 @@
   },
   {
     "deck_name": "Hydreigon Mega Absol ex",
-    "share": 0.1013,
-    "player_count": 1539,
-    "games": 8586,
-    "wins": 4419,
-    "losses": 3965,
-    "ties": 202,
-    "winrate": 0.5147,
+    "share": 0.101,
+    "player_count": 1564,
+    "games": 8753,
+    "wins": 4497,
+    "losses": 4039,
+    "ties": 217,
+    "winrate": 0.5138,
     "decklists": [
       {
         "cards": [
@@ -1063,7 +1005,7 @@
   },
   {
     "deck_name": "Mega Charizard Y ex Entei ex",
-    "share": 0.0068,
+    "share": 0.0067,
     "player_count": 104,
     "games": 569,
     "wins": 292,
@@ -1122,13 +1064,13 @@
   },
   {
     "deck_name": "Mega Altaria ex Igglybuff",
-    "share": 0.0627,
-    "player_count": 952,
-    "games": 5255,
-    "wins": 2674,
-    "losses": 2463,
-    "ties": 118,
-    "winrate": 0.5088,
+    "share": 0.0628,
+    "player_count": 973,
+    "games": 5394,
+    "wins": 2750,
+    "losses": 2516,
+    "ties": 128,
+    "winrate": 0.5098,
     "decklists": [
       {
         "cards": [
@@ -1176,6 +1118,64 @@
         "losses": 5,
         "ties": 0,
         "winrate": 0.8864
+      }
+    ]
+  },
+  {
+    "deck_name": "Melmetal ex Melmetal",
+    "share": 0.0038,
+    "player_count": 59,
+    "games": 316,
+    "wins": 161,
+    "losses": 147,
+    "ties": 8,
+    "winrate": 0.5095,
+    "decklists": [
+      {
+        "cards": [
+          "2 Steel Apron",
+          "2 Professor's Research",
+          "2 Metal Core Barrier",
+          "2 Meltan (A1-181)",
+          "2 Melmetal ex (B1-174)",
+          "2 Lucky Ice Pop",
+          "2 Copycat",
+          "1 Training Area",
+          "1 Sabrina",
+          "1 Pokémon Center Lady",
+          "1 Poké Ball",
+          "1 Melmetal (A3b-50)",
+          "1 Cyrus"
+        ],
+        "player_count": 8,
+        "games": 65,
+        "wins": 44,
+        "losses": 17,
+        "ties": 4,
+        "winrate": 0.6769
+      },
+      {
+        "cards": [
+          "2 Steel Apron",
+          "2 Professor's Research",
+          "2 Metal Core Barrier",
+          "2 Meltan (A1-181)",
+          "2 Melmetal ex (B1-174)",
+          "2 Lucky Ice Pop",
+          "2 Copycat",
+          "1 Training Area",
+          "1 Sabrina",
+          "1 Red",
+          "1 Poké Ball",
+          "1 Melmetal (A3b-50)",
+          "1 Cyrus"
+        ],
+        "player_count": 3,
+        "games": 27,
+        "wins": 17,
+        "losses": 8,
+        "ties": 2,
+        "winrate": 0.6296
       }
     ]
   }
